@@ -1,0 +1,55 @@
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+title: Titre dataset
+description: Courte description du depot
+url: "https://github.com/Gallicorpora/template-depot"
+authors:
+  - name: Sagot
+    surname: Benoît
+    roles:
+      - project-manager
+  - name: Romary
+    surname: Laurent
+    roles:
+      - project-manager 
+  - name: Bawden
+    surname: Rachel
+    roles:
+      - project-manager
+  - name: Ortiz Suárez
+    surname: Pedro Javier
+    roles:
+      - project-manager
+  - name: Gabay
+    surname: Simon
+    roles:
+      - project-manager
+  - name: Pinche
+    surname: Ariane
+    roles:
+      - project-manager
+  - name: Camps
+    surname: Jean-Baptiste
+    roles:
+      - project-manager
+project-name: Gallicorpora
+project-website: "https://github.com/Gallicorpora"
+language:
+  - frm
+  - fra
+script:
+  - Latn
+script-type: evenly-mixed
+time:
+  notBefore: '1400'
+  notAfter: '1900'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+  - name: CC-BY 4.0
+    url: "https://creativecommons.org/licenses/by/4.0/"
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 0
+transcription-guidelines: "Ajouter les références des normes de transcription"
