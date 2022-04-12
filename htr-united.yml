@@ -57,5 +57,5 @@ volume:
 - metric: lines
   count: 424
 - metric: regions
-  count: 44
+  count: 42
 transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
