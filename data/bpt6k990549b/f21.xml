@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f21.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1988" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1989" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT1990" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1991" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1992" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1993" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1994" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1995" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1996" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1997" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1998" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1999" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2000" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2001" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT695" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT696" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT697" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT698" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT699" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="926"
+          HEIGHT="1723"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="926"
+                  HEIGHT="1723">
+        
+        <TextBlock HPOS="724"
+                   VPOS="116"
+                   WIDTH="55"
+                   HEIGHT="46"
+                   ID="eSc_textblock_1de2dfdc"
+                   TAGREFS="BT1995">
+          <Shape><Polygon POINTS="724 116 724 162 779 162 779 116"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_79798737"
+                    TAGREFS="LT695"
+                    BASELINE="729 159 772 160" 
+                    HPOS="724"
+                    VPOS="111"
+                    WIDTH="46"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="727 157 726 117 769 111 770 159 767 165 724 163"/></Shape>
+	    <String CONTENT="9"
+                    HPOS="724"
+                    VPOS="111"
+                    WIDTH="46"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="63"
+                   VPOS="167"
+                   WIDTH="767"
+                   HEIGHT="981"
+                   ID="eSc_textblock_27127379"
+                   TAGREFS="BT1992">
+          <Shape><Polygon POINTS="63 167 63 1148 830 1138 821 167"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd1d106e"
+                    TAGREFS="LT695"
+                    BASELINE="74 211 763 198" 
+                    HPOS="70"
+                    VPOS="157"
+                    WIDTH="693"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="74 211 70 178 244 167 245 167 290 173 297 173 299 173 304 167 304 166 306 166 307 166 309 166 356 172 363 172 366 172 389 163 391 163 392 163 444 170 451 170 460 169 507 162 509 162 510 162 511 162 519 167 526 162 526 160 527 160 529 160 530 160 532 160 533 160 543 167 544 167 546 167 682 157 684 157 760 165 763 198 763 205 671 215 670 215 589 211 578 218 576 218 575 218 573 218 572 218 550 211 549 211 447 212 447 213 435 221 434 221 432 221 431 221 429 221 404 213 401 213 399 213 381 222 379 222 378 222 73 221"/></Shape>
+	    <String CONTENT="magne baille ſa fille Eleonor à Leon, &amp; le fait"
+                    HPOS="70"
+                    VPOS="157"
+                    WIDTH="693"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38fe9a7b"
+                    TAGREFS="LT695"
+                    BASELINE="74 251 757 235" 
+                    HPOS="69"
+                    VPOS="199"
+                    WIDTH="688"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="74 251 69 222 79 213 80 213 81 213 83 213 133 219 176 219 192 219 192 218 199 212 199 211 201 211 202 211 204 211 251 216 257 216 267 216 329 208 330 208 355 212 362 213 753 199 757 235 757 244 136 265 135 265 73 258"/></Shape>
+	    <String CONTENT="ſon gendre. Ce ſuiect eſt fort amplement diſ¬"
+                    HPOS="69"
+                    VPOS="199"
+                    WIDTH="688"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb9abbea"
+                    TAGREFS="LT695"
+                    BASELINE="79 288 319 288 760 274" 
+                    HPOS="76"
+                    VPOS="246"
+                    WIDTH="684"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="79 288 76 255 756 246 760 274 760 284 349 300 347 300 346 300 326 294 324 294 322 294 250 302 248 302 247 302 224 297 194 304 192 304 191 304 77 298"/></Shape>
+	    <String CONTENT="couru par l’Arioſte depuis le quarãretroiſieme"
+                    HPOS="76"
+                    VPOS="246"
+                    WIDTH="684"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc79b469"
+                    TAGREFS="LT695"
+                    BASELINE="79 328 762 315" 
+                    HPOS="74"
+                    VPOS="287"
+                    WIDTH="688"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="79 328 74 300 93 291 94 291 96 291 146 297 303 287 304 287 759 287 762 315 759 333 608 327 470 330 460 338 458 338 457 338 455 338 451 338 396 331 316 341 304 341 303 341 277 341 100 337 80 344"/></Shape>
+	    <String CONTENT="chant iuſques à la fin de ſon liure: fors pour le"
+                    HPOS="74"
+                    VPOS="287"
+                    WIDTH="688"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9030e36"
+                    TAGREFS="LT695"
+                    BASELINE="77 367 330 367 657 356" 
+                    HPOS="76"
+                    VPOS="320"
+                    WIDTH="581"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="77 367 76 333 258 334 263 330 267 327 267 325 268 325 270 325 271 325 301 330 323 333 330 330 340 324 342 324 343 324 425 328 455 330 457 328 464 323 464 321 465 321 467 321 532 320 533 320 654 327 657 356 657 366 613 374 612 374 570 369 562 369 556 370 523 380 521 380 444 381 442 381 441 381 418 374 405 371 391 376 365 383 363 383 362 383 360 383 339 377 324 374 306 379 271 386 270 386 244 380 222 376 207 381 199 384 198 384 196 384 182 383 149 377 138 384 132 389 130 389 129 389 127 389 126 389 117 384 102 379 79 386"/></Shape>
+	    <String CONTENT="regard de la fin adiouſtee par l’autheur."
+                    HPOS="76"
+                    VPOS="320"
+                    WIDTH="581"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="226"
+                   VPOS="701"
+                   WIDTH="465"
+                   HEIGHT="336"
+                   ID="eSc_textblock_de738499"
+                   TAGREFS="BT1991">
+          <Shape><Polygon POINTS="226 701 226 1037 691 1037 691 701"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

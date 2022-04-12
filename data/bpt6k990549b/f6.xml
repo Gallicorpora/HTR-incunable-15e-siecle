@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f6.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1988" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1989" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT1990" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1991" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1992" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1993" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1994" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1995" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1996" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1997" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1998" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1999" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2000" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2001" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT695" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT696" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT697" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT698" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT699" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="911"
+          HEIGHT="1717"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="911"
+                  HEIGHT="1717">
+        
+        <TextBlock HPOS="135"
+                   VPOS="586"
+                   WIDTH="724"
+                   HEIGHT="263"
+                   ID="eSc_textblock_3e68dbc6"
+                   TAGREFS="BT1992">
+          <Shape><Polygon POINTS="135 586 135 849 859 849 859 586"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d3278a89"
+                    TAGREFS="LT697"
+                    BASELINE="190 702 618 699 829 705" 
+                    HPOS="186"
+                    VPOS="635"
+                    WIDTH="643"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="190 702 186 649 239 635 240 635 242 635 243 635 277 649 315 649 328 638 329 638 330 638 332 638 366 645 376 636 378 636 379 636 381 636 442 648 459 635 461 635 462 635 464 635 515 642 540 636 541 636 542 636 544 636 567 645 696 635 697 635 760 648 774 638 776 638 777 638 779 638 827 649 829 705 826 718 653 711 640 716 637 718 635 718 634 718 633 718 628 716 611 709 600 716 598 718 597 718 595 718 594 718 593 718 588 716 572 709 552 715 544 718 542 718 541 718 540 718 534 715 521 702 428 709 421 713 416 718 415 718 413 718 413 719 368 719 366 718 365 718 363 718 359 713 353 709 339 713 320 718 319 718 317 718 290 712 275 709 263 712 244 718 243 718 242 718 189 711"/></Shape>
+	    <String CONTENT="BRADAMANTE,"
+                    HPOS="186"
+                    VPOS="635"
+                    WIDTH="643"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfa4e61f"
+                    TAGREFS="LT697"
+                    BASELINE="250 808 774 809" 
+                    HPOS="249"
+                    VPOS="758"
+                    WIDTH="525"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="250 808 250 758 773 759 774 809 772 827 720 818 673 827 671 827 670 827 668 827 647 818 249 825"/></Shape>
+	    <String CONTENT="TRAGECOMEDIE."
+                    HPOS="249"
+                    VPOS="758"
+                    WIDTH="525"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="343"
+                   VPOS="1499"
+                   WIDTH="33"
+                   HEIGHT="84"
+                   ID="eSc_textblock_0bee91af"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="355 1583 343 1543 360 1499 376 1499 376 1583"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
