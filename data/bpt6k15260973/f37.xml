@@ -205,16 +205,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="53"
-                   VPOS="2162"
-                   WIDTH="51"
-                   HEIGHT="60"
-                   ID="block_0"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="104 2204 70 2222 53 2189 79 2162"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="51"
                    VPOS="873"
                    WIDTH="1505"
