@@ -51,11 +51,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 28167
+  count: 45406
 - metric: files
   count: 40
 - metric: lines
-  count: 934
+  count: 1807
 - metric: regions
-  count: 110
+  count: 115
 transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
