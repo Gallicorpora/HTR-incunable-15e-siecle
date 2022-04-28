@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f47.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1823" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1822" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1821" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1831" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1830" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1829" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1828" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1827" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1826" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1825" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1824" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT626" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT627" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT628" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT629" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT630" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1668"
+          HEIGHT="2659"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1668"
+                  HEIGHT="2659">
+        
+        <TextBlock HPOS="26"
+                   VPOS="85"
+                   WIDTH="1623"
+                   HEIGHT="2029"
+                   ID="eSc_textblock_5058cb6e"
+                   TAGREFS="BT1824">
+          <Shape><Polygon POINTS="26 85 37 2114 1649 2114 1602 824 1576 104"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT626"
+                    BASELINE="59 239 898 221" 
+                    HPOS="51"
+                    VPOS="150"
+                    WIDTH="847"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="59 239 51 181 77 166 79 166 82 166 84 166 141 177 221 163 224 163 332 170 365 172 368 170 374 161 377 161 377 159 379 159 381 159 383 159 385 159 388 159 399 168 403 170 423 168 474 159 476 159 525 163 578 168 891 150 898 221 893 243 585 239 570 250 567 250 565 250 563 250 177 248 59 261"/></Shape>
+	    <String CONTENT="Se neſt pas trop commune choſe"
+                    HPOS="51"
+                    VPOS="150"
+                    WIDTH="847"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT626"
+                    BASELINE="62 312 825 294" 
+                    HPOS="57"
+                    VPOS="237"
+                    WIDTH="768"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="62 312 57 254 153 237 155 237 820 237 825 294 822 319 663 321 660 321 658 321 634 310 605 323 603 323 601 323 499 314 428 327 425 327 346 316 235 319 221 332 219 332 217 332 215 332 99 323 64 336"/></Shape>
+	    <String CONTENT="Chaſſer ſouuent on ſe diſpoſe"
+                    HPOS="57"
+                    VPOS="237"
+                    WIDTH="768"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT626"
+                    BASELINE="57 381 667 367" 
+                    HPOS="51"
+                    VPOS="299"
+                    WIDTH="616"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="57 381 51 323 159 308 161 308 279 316 281 316 297 305 299 305 301 305 303 305 306 305 348 316 352 316 359 316 397 303 399 303 401 303 403 303 443 314 450 314 461 312 558 299 561 299 663 310 667 367 667 381 463 398 461 398 55 394"/></Shape>
+	    <String CONTENT="Etſi couſte cher uiſ ion"
+                    HPOS="51"
+                    VPOS="299"
+                    WIDTH="616"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT626"
+                    BASELINE="59 458 849 440" 
+                    HPOS="55"
+                    VPOS="370"
+                    WIDTH="794"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="59 458 55 394 173 383 175 383 177 383 206 392 219 394 230 389 257 381 259 381 261 381 310 389 326 392 337 389 365 378 368 378 370 378 372 378 399 387 405 389 432 387 550 376 552 376 700 383 747 370 749 370 751 370 845 383 849 440 845 463 456 460 441 471 439 471 436 471 434 471 161 467 155 476 153 476 153 478 150 478 148 478 146 478 97 469 62 480"/></Shape>
+	    <String CONTENT="Il fault auoir par tout raiſon"
+                    HPOS="55"
+                    VPOS="370"
+                    WIDTH="794"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT628"
+                    BASELINE="230 600 492 589 1040 584" 
+                    HPOS="224"
+                    VPOS="514"
+                    WIDTH="816"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="230 600 224 538 255 522 257 522 259 522 472 529 532 531 1033 514 1040 584 1038 607 230 611"/></Shape>
+	    <String CONTENT="¶Menus propos ſur la chaſſe"
+                    HPOS="224"
+                    VPOS="514"
+                    WIDTH="816"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT628"
+                    BASELINE="224 666 798 655" 
+                    HPOS="219"
+                    VPOS="591"
+                    WIDTH="579"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="224 666 219 616 334 598 337 598 397 609 481 596 483 596 485 596 487 596 487 598 499 607 587 596 590 596 656 604 674 591 676 591 678 591 680 591 794 604 798 655 796 666 224 678"/></Shape>
+	    <String CONTENT="du ſanglier moraliſee."
+                    HPOS="219"
+                    VPOS="591"
+                    WIDTH="579"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1057"
+                   VPOS="2110"
+                   WIDTH="183"
+                   HEIGHT="85"
+                   ID="eSc_textblock_f73eee02"
+                   TAGREFS="BT1827">
+          <Shape><Polygon POINTS="1240 2195 1240 2110 1057 2110 1057 2195"/></Shape>
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT626"
+                    BASELINE="1069 2162 1204 2156" 
+                    HPOS="1064"
+                    VPOS="2102"
+                    WIDTH="140"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1069 2162 1064 2122 1157 2102 1160 2102 1162 2102 1202 2116 1204 2156 1204 2202 1173 2204 1171 2204 1168 2204 1166 2204 1162 2200 1133 2180 1069 2191"/></Shape>
+	    <String CONTENT="c.iii."
+                    HPOS="1064"
+                    VPOS="2102"
+                    WIDTH="140"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="57"
+                   VPOS="662"
+                   WIDTH="1536"
+                   HEIGHT="1437"
+                   ID="eSc_textblock_0c12bf62"
+                   TAGREFS="BT1823">
+          <Shape><Polygon POINTS="1593 2099 1593 662 57 662 57 2099"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
