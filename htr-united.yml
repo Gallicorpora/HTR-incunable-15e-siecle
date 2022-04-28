@@ -53,9 +53,9 @@ volume:
 - metric: characters
   count: 137741
 - metric: files
-  count: 95
+  count: 94
 - metric: lines
-  count: 4469
+  count: 4389
 - metric: regions
-  count: 277
+  count: 246
 transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
