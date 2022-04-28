@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_ffd85e75"
-                    
+                  TAGREFS="LT942"
                     BASELINE="78 1816 932 1810" 
                     HPOS="64"
                     VPOS="1725"
@@ -735,16 +735,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="101"
-                   VPOS="194"
-                   WIDTH="1688"
-                   HEIGHT="1397"
-                   ID="eSc_textblock_4ec8de98"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="101 194 101 1591 1789 1591 1789 194"/></Shape>
-          
-        </TextBlock>
-        
+      
         <TextBlock HPOS="101"
                    VPOS="194"
                    WIDTH="1688"

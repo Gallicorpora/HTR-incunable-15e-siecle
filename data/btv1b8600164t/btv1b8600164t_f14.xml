@@ -1337,7 +1337,7 @@
           
           
           <TextLine ID="eSc_line_0ac8ba42"
-                    
+                    TAGREFS="LT943"
                     BASELINE="1158 2755 1287 2755" 
                     HPOS="1156"
                     VPOS="2611"
@@ -1388,7 +1388,7 @@
           
           
           <TextLine ID="eSc_line_f639e13f"
-                    
+                  TAGREFS="LT942"
                     BASELINE="1155 2818 2011 2813" 
                     HPOS="1148"
                     VPOS="2733"
@@ -1405,7 +1405,7 @@
           
           
           <TextLine ID="eSc_line_e81b1806"
-                    
+                  TAGREFS="LT942"
                     BASELINE="1153 2894 2031 2886" 
                     HPOS="1143"
                     VPOS="2808"
@@ -1422,15 +1422,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1077"
-                   VPOS="2377"
-                   WIDTH="242"
-                   HEIGHT="192"
-                   ID="eSc_textblock_e6fefc66"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1077 2377 1077 2569 1319 2569 1319 2377"/></Shape>
-          
-        </TextBlock>
+    
         
         <TextBlock HPOS="1077"
                    VPOS="2377"

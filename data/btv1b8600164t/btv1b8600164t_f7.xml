@@ -1077,17 +1077,7 @@
           <Shape><Polygon POINTS="1036 1092 1007 2518 1633 2518 1633 2305 1669 1110"/></Shape>
           
         </TextBlock>
-        
-        <TextBlock HPOS="1981"
-                   VPOS="571"
-                   WIDTH="41"
-                   HEIGHT="14"
-                   ID="eSc_textblock_511b4c03"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1981 571 1981 585 2022 585 2022 571"/></Shape>
-          
-        </TextBlock>
-        
+     
 
         
       </PrintSpace>
