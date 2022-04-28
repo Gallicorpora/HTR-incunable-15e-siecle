@@ -647,7 +647,7 @@
           
           
           <TextLine ID="eSc_line_8e3dbc04"
-                    
+                  TAGREFS="LT884"
                     BASELINE="630 2951 1586 2951" 
                     HPOS="627"
                     VPOS="2858"
@@ -664,7 +664,7 @@
           
           
           <TextLine ID="eSc_line_5663d0e0"
-                    
+                  TAGREFS="LT884"
                     BASELINE="639 3024 1580 3024" 
                     HPOS="638"
                     VPOS="2956"
@@ -681,7 +681,7 @@
           
           
           <TextLine ID="eSc_line_dd564519"
-                    
+                  TAGREFS="LT884"
                     BASELINE="629 3078 1597 3081" 
                     HPOS="627"
                     VPOS="3022"
@@ -698,7 +698,7 @@
           
           
           <TextLine ID="eSc_line_284c0500"
-                    
+                  TAGREFS="LT884"
                     BASELINE="636 3154 1597 3161" 
                     HPOS="627"
                     VPOS="3067"

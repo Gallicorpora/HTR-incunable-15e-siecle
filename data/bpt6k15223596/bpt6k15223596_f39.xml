@@ -1320,7 +1320,7 @@
           
           
           <TextLine ID="eSc_line_b795ad9a"
-                    
+                  TAGREFS="LT882"
                     BASELINE="1188 3014 2182 3010" 
                     HPOS="1180"
                     VPOS="2941"
@@ -1337,7 +1337,7 @@
           
           
           <TextLine ID="eSc_line_a1d9acbf"
-                    
+                  TAGREFS="LT882"
                     BASELINE="1207 3075 2184 3081" 
                     HPOS="1203"
                     VPOS="3005"
@@ -1354,7 +1354,7 @@
           
           
           <TextLine ID="eSc_line_f41b0362"
-                    
+                  TAGREFS="LT882"
                     BASELINE="1213 3145 2172 3145" 
                     HPOS="1206"
                     VPOS="3076"

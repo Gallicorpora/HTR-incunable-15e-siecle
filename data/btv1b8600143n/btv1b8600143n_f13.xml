@@ -572,17 +572,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="209"
-                   VPOS="264"
-                   WIDTH="1"
-                   HEIGHT="1"
-                   ID="eSc_textblock_655fc8f5"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="209 264 209 265 210 265 210 264"/></Shape>
-          
-        </TextBlock>
-        
-
+       
         
       </PrintSpace>
     </Page>

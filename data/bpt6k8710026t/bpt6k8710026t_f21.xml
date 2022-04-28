@@ -256,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_c9bcc48b"
-                    
+                    TAGREFS="LT987"
                     BASELINE="256 1547 484 1544" 
                     HPOS="246"
                     VPOS="1278"
@@ -290,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_2fd3dc2b"
-                    
+                  TAGREFS="LT986"
                     BASELINE="477 1527 1490 1532" 
                     HPOS="471"
                     VPOS="1463"
@@ -497,16 +497,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1567"
-                   VPOS="2328"
-                   WIDTH="3"
-                   HEIGHT="8"
-                   ID="eSc_textblock_4789287e"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1570 2336 1570 2328 1567 2328 1567 2336"/></Shape>
-          
-        </TextBlock>
-        
+       
 
         
       </PrintSpace>

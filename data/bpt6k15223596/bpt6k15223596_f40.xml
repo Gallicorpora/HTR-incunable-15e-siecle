@@ -43,13 +43,7 @@
                    TAGREFS="BT2520">
           <Shape><Polygon POINTS="1684 245 1616 3131 2655 3141 2656 2908 2679 272"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
+      
           <TextLine ID="line_0"
                     TAGREFS="LT882"
                     BASELINE="641 292 1617 310" 

@@ -494,16 +494,10 @@
                    ID="eSc_textblock_00dfa8a5"
                    TAGREFS="BT2788">
           <Shape><Polygon POINTS="185 1318 185 1570 414 1570 414 1318"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
+    
           
           <TextLine ID="eSc_line_87e0ab57"
-                    
+                    TAGREFS="LT987"
                     BASELINE="182 1542 398 1544" 
                     HPOS="178"
                     VPOS="1310"
