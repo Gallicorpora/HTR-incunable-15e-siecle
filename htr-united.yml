@@ -1,24 +1,9 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Titre dataset
-description: Courte description du depot
-url: https://github.com/Gallicorpora/template-depot
+title: "Donn\xE9es HTR incunables du 15e si\xE8cle"
+description: "Corpus d'entrainement pour l'HTR compos\xE9 d'incunable fran\xE7ais\
+  \ du 15e s."
+url: hhttps://github.com/Gallicorpora/HTR-incunable-15e-siecle
 authors:
-- name: Sagot
-  surname: "Beno\xEEt"
-  roles:
-  - project-manager
-- name: Romary
-  surname: Laurent
-  roles:
-  - project-manager
-- name: Bawden
-  surname: Rachel
-  roles:
-  - project-manager
-- name: "Ortiz Su\xE1rez"
-  surname: Pedro Javier
-  roles:
-  - project-manager
 - name: Gabay
   surname: Simon
   roles:
@@ -27,10 +12,14 @@ authors:
   surname: Ariane
   roles:
   - project-manager
-- name: Camps
-  surname: Jean-Baptiste
+- name: Leroy
+  surname: "No\xE9"
   roles:
-  - project-manager
+  - transcriber
+- name : Christensen
+  surname : Kelly
+  roles:
+  - support
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
@@ -41,7 +30,7 @@ script:
 script-type: evenly-mixed
 time:
   notBefore: '1400'
-  notAfter: '1900'
+  notAfter: '1500'
 hands:
   count: 1-per-folder
   precision: estimated
@@ -58,4 +47,6 @@ volume:
   count: 4389
 - metric: regions
   count: 246
-transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
+transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
+  \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
+citation-file-link: https://github.com/Gallicorpora/HTR-incunable-15e-siecle/CITATION.cff

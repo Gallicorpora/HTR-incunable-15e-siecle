@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+authors:
+  - family-names: Pinche
+    given-names: Ariane
+    orcid: https://orcid.org/0000-0002-7843-5050
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Leroy
+    given-names: Noé
+  - family-names: Christensen
+    given-names: Kelly
+    orcid: https://orcid.org/0000-0002-7236-874X
+
+title: "Donn\xE9es HTR incunable du 15e si\xE8cle"
+date-released: 2022
+url: "https://github.com/Gallicorpora/HTR-incunable-15e-siecle"
+identifiers:
+  - type: doi
+    value: 'zenodo'
