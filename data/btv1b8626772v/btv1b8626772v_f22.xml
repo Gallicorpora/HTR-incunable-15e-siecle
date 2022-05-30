@@ -205,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_98d67809"
-                    
+                  TAGREFS="LT851"
                     BASELINE="772 2854 1892 2866" 
                     HPOS="761"
                     VPOS="2785"
@@ -222,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_ef58a67c"
-                    
+                  TAGREFS="LT851"
                     BASELINE="768 2931 1885 2938" 
                     HPOS="761"
                     VPOS="2862"
@@ -531,7 +531,7 @@
           
           
           <TextLine ID="eSc_line_3f7d1199"
-                    
+                  TAGREFS="LT852"
                     BASELINE="2010 2391 2230 2392" 
                     HPOS="2007"
                     VPOS="2293"
@@ -565,7 +565,7 @@
           
           
           <TextLine ID="eSc_line_939eb69f"
-                    
+                  TAGREFS="LT851"
                     BASELINE="2003 2469 2353 2460 3097 2453" 
                     HPOS="1992"
                     VPOS="2377"
