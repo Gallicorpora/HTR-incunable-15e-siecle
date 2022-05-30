@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k1521441j_f8.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2968" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2969" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT2970" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT2971" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2972" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2973" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2974" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2975" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2976" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2977" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2978" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2979" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2980" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2981" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2982" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2983" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT1060" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1059" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1058" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1057" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1056" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3970"
+          HEIGHT="5535"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3970"
+                  HEIGHT="5535">
+        
+        <TextBlock HPOS="742"
+                   VPOS="626"
+                   WIDTH="2788"
+                   HEIGHT="3917"
+                   ID="eSc_textblock_b83364b3"
+                   TAGREFS="BT2975">
+          <Shape><Polygon POINTS="742 655 841 4543 3530 4519 3530 3871 3530 626"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae2777fd"
+                    TAGREFS="LT1058"
+                    BASELINE="867 788 3443 751" 
+                    HPOS="858"
+                    VPOS="627"
+                    WIDTH="2585"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="867 788 858 650 992 645 997 645 1001 645 1006 645 1006 650 1038 678 1223 678 1260 650 1269 641 1274 641 1278 641 1283 641 1287 641 1315 650 1417 673 1620 650 1721 636 1726 636 1731 636 1772 650 1832 664 1888 650 1911 641 1915 641 1920 641 1994 650 2137 664 2155 650 2174 631 2174 627 2178 627 2183 627 2188 627 2192 627 2243 650 2271 659 2298 650 2354 627 2358 627 2363 627 2368 627 2409 650 2423 654 2428 650 2451 627 2455 627 2460 627 2465 627 2589 627 2594 627 2598 627 2622 650 2631 654 2658 650 2737 627 2742 627 2746 627 2751 627 2825 650 2839 650 2862 650 2991 627 2995 627 3000 627 3060 650 3074 650 3092 650 3208 627 3212 627 3434 650 3443 751 3439 825 3060 830 3055 830 3051 830 3042 825 2959 788 2829 788 2792 825 2783 830 2783 834 2779 834 2774 834 2298 839 2294 839 2289 839 2243 825 2165 802 2045 802 2012 825 1994 839 1989 839 1985 839 1980 839 1975 839 1938 825 1888 802 1846 825 1818 839 1814 839 1809 839 1684 825 1537 807 1491 825 1431 848 1426 848 1421 848 1417 848 1412 848 1412 844 1389 825 1371 811 1080 811 1061 825 1015 848 1010 848 1006 848 1001 848 997 848 964 825 950 816 867 821"/></Shape>
+	    <String CONTENT="Comment les quatre filz aymon furent chasses hors de paris par"
+                    HPOS="858"
+                    VPOS="627"
+                    WIDTH="2585"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c526ac52"
+                    TAGREFS="LT1058"
+                    BASELINE="867 904 1948 885" 
+                    HPOS="858"
+                    VPOS="774"
+                    WIDTH="1090"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="867 904 858 834 1080 830 1084 825 1135 793 1140 793 1144 793 1149 793 1154 793 1195 811 1232 784 1237 784 1241 784 1246 784 1251 784 1371 811 1666 774 1671 774 1938 802 1948 885 1943 917 867 936"/></Shape>
+	    <String CONTENT="charlemaigne roy de france"
+                    HPOS="858"
+                    VPOS="774"
+                    WIDTH="1090"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ae10399"
+                    TAGREFS="LT1057"
+                    BASELINE="531 4294 1384 4294" 
+                    HPOS="530"
+                    VPOS="4123"
+                    WIDTH="850"
+                    HEIGHT="346">
+            <Shape><Polygon POINTS="530 4372 687 4372 738 4395 784 4414 789 4414 794 4414 854 4409 914 4400 987 4423 1117 4464 1121 4464 1126 4469 1380 4469 1380 4289 1380 4123 1241 4123 1237 4123 1232 4123 1227 4123 1227 4128 1223 4128 1167 4183 1154 4174 1149 4174 1144 4174 1140 4174 1135 4174 1130 4174 1094 4201 987 4169 983 4169 978 4169 974 4169 909 4206 761 4206 692 4151 655 4123 650 4123 646 4123 641 4123 637 4123 632 4123 581 4155 558 4174 540 4155 530 4289 530 4372"/></Shape>
+	    <String CONTENT="Q"
+                    HPOS="530"
+                    VPOS="4123"
+                    WIDTH="850"
+                    HEIGHT="346"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_410d1c9a"
+                    TAGREFS="LT1056"
+                    BASELINE="1500 3740 3512 3731" 
+                    HPOS="1491"
+                    VPOS="3620"
+                    WIDTH="2021"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="1500 3740 1491 3625 3499 3620 3512 3731 3508 3749 1500 3759"/></Shape>
+	    <String CONTENT="Uicunques uouldra scauoir listoire des quatre no-"
+                    HPOS="1491"
+                    VPOS="3620"
+                    WIDTH="2021"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62b60083"
+                    TAGREFS="LT1056"
+                    BASELINE="1500 3860 3522 3851" 
+                    HPOS="1495"
+                    VPOS="3731"
+                    WIDTH="2027"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="1500 3860 1495 3740 1694 3763 1869 3740 1906 3736 1911 3736 1943 3740 2058 3759 2211 3740 2225 3740 2229 3740 2234 3740 2238 3740 2266 3763 2358 3740 2377 3736 2382 3736 2386 3736 2469 3740 2714 3759 2880 3740 2982 3731 2986 3731 2991 3731 3023 3740 3079 3759 3508 3745 3522 3851 3517 3874 1500 3883"/></Shape>
+	    <String CONTENT="bles et uaillans cheualliers nommes les quatre filz"
+                    HPOS="1495"
+                    VPOS="3731"
+                    WIDTH="2027"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76445f1e"
+                    TAGREFS="LT1056"
+                    BASELINE="1504 3980 3522 3971" 
+                    HPOS="1495"
+                    VPOS="3856"
+                    WIDTH="2027"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1504 3980 1495 3892 1657 3860 1661 3860 1823 3883 1966 3860 1971 3860 2368 3883 2437 3860 2442 3860 2446 3860 2451 3860 2502 3883 2608 3856 2612 3856 2617 3856 2622 3856 2686 3879 2797 3856 2802 3856 2922 3879 3439 3856 3443 3856 3448 3856 3517 3883 3522 3971 3517 3989 2506 4017 2502 4017 2155 4012 1546 3999 1514 4022"/></Shape>
+	    <String CONTENT="ymon dont le premier sappelloit Regnault laultre"
+                    HPOS="1495"
+                    VPOS="3856"
+                    WIDTH="2027"
+                    HEIGHT="166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e949fa22"
+                    TAGREFS="LT1056"
+                    BASELINE="1495 4095 3522 4095" 
+                    HPOS="1481"
+                    VPOS="3975"
+                    WIDTH="2050"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1495 4095 1481 4003 1523 3975 1527 3975 1532 3975 1537 3975 1712 3999 1800 3975 1804 3975 1809 3975 1814 3975 1892 4003 2049 4003 2072 3980 2072 3975 2077 3975 2081 3975 2086 3975 2091 3975 2188 3999 2294 3975 2298 3975 2303 3975 2382 3999 3471 3975 3476 3975 3480 3975 3485 3975 3531 4003 3522 4095 3522 4118 1495 4123"/></Shape>
+	    <String CONTENT="Alart laultre Guichart et laultre Rihart Si lise"
+                    HPOS="1481"
+                    VPOS="3975"
+                    WIDTH="2050"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35615467"
+                    TAGREFS="LT1056"
+                    BASELINE="1495 4225 3522 4206" 
+                    HPOS="1477"
+                    VPOS="4091"
+                    WIDTH="2045"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="1495 4225 1477 4137 1518 4105 1523 4105 1527 4105 1532 4105 1929 4123 1985 4100 1989 4100 1994 4100 2225 4100 2229 4100 2234 4100 2234 4105 2257 4123 2317 4100 2321 4100 2326 4100 2543 4118 2566 4100 2566 4095 2571 4095 2575 4095 2580 4095 3000 4118 3111 4091 3115 4091 3120 4091 3512 4118 3522 4206 3517 4229 3009 4257 3005 4257 2751 4248 2538 4238 2488 4252 2451 4261 2446 4261 2442 4261 2174 4257 1560 4248 1500 4271"/></Shape>
+	    <String CONTENT="premierement ceste presente table en la quelle on trou"
+                    HPOS="1477"
+                    VPOS="4091"
+                    WIDTH="2045"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a1fbf81"
+                    TAGREFS="LT1056"
+                    BASELINE="1504 4340 3526 4340" 
+                    HPOS="1500"
+                    VPOS="4234"
+                    WIDTH="2026"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="1504 4340 1500 4238 3522 4234 3526 4340 3526 4358 1504 4372"/></Shape>
+	    <String CONTENT="uera que ce present liure contient uĩgt et huit chapi"
+                    HPOS="1500"
+                    VPOS="4234"
+                    WIDTH="2026"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15ab3f61"
+                    TAGREFS="LT1056"
+                    BASELINE="1491 4455 3513 4464" 
+                    HPOS="1481"
+                    VPOS="4340"
+                    WIDTH="2031"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="1486 4451 1486 4340 3512 4368 3512 4460 3494 4543 3452 4520 3051 4520 3009 4538 2949 4566 2949 4566 2949 4566 2945 4566 2945 4566 2945 4570 2691 4570 2686 4566 2686 4566 2682 4566 2682 4566 2682 4566 2622 4534 2612 4529 2340 4515 2294 4534 2229 4561 2229 4561 2225 4561 2225 4561 2225 4566 1717 4566 1712 4561 1712 4561 1708 4561 1601 4529 1569 4520 1481 4524"/></Shape>
+	    <String CONTENT="tres lesquelz chapitres parlent de plusieurs belles"
+                    HPOS="1481"
+                    VPOS="4340"
+                    WIDTH="2031"
+                    HEIGHT="230"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1441"
+                   VPOS="3329"
+                   WIDTH="237"
+                   HEIGHT="276"
+                   ID="eSc_textblock_0e86b79d"
+                   TAGREFS="BT2981">
+          <Shape><Polygon POINTS="1441 3329 1441 3605 1678 3605 1678 3329"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="909"
+                   VPOS="912"
+                   WIDTH="2587"
+                   HEIGHT="2717"
+                   ID="eSc_textblock_3e08109b"
+                   TAGREFS="BT2974">
+          <Shape><Polygon POINTS="933 999 909 3629 3496 3610 3457 912 1885 966"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="513"
+                   VPOS="3648"
+                   WIDTH="976"
+                   HEIGHT="876"
+                   ID="eSc_textblock_5dcc1e2a"
+                   TAGREFS="BT2973">
+          <Shape><Polygon POINTS="513 3648 513 4524 1489 4524 1489 3648 1030 3648"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

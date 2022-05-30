@@ -2,7 +2,7 @@ schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: "Donn\xE9es HTR incunables du 15e si\xE8cle"
 description: "Corpus d'entrainement pour l'HTR compos\xE9 d'incunable fran\xE7ais\
   \ du 15e s."
-url: hhttps://github.com/Gallicorpora/HTR-incunable-15e-siecle
+url: https://github.com/Gallicorpora/HTR-incunable-15e-siecle
 authors:
 - name: Gabay
   surname: Simon
