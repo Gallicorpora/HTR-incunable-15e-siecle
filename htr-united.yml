@@ -40,13 +40,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 163877
+  count: 243907
 - metric: files
-  count: 109
+  count: 149
 - metric: lines
-  count: 5136
+  count: 7608
 - metric: regions
-  count: 345
+  count: 535
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
 citation-file-link: https://github.com/Gallicorpora/HTR-incunable-15e-siecle/CITATION.cff
