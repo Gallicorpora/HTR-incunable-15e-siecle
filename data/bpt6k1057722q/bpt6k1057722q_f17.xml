@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k1057722q_f17.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT2331" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2332" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2333" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2334" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2335" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2336" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2337" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2338" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2339" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2340" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2341" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2342" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2343" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2344" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2686" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT2687" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT820" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT821" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT822" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT823" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT824" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3863"
+          HEIGHT="5552"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3863"
+                  HEIGHT="5552">
+        
+        <TextBlock HPOS="423"
+                   VPOS="4161"
+                   WIDTH="1222"
+                   HEIGHT="354"
+                   ID="eSc_textblock_20c2f4d8"
+                   TAGREFS="BT2686">
+          <Shape><Polygon POINTS="423 4161 423 4515 1645 4515 1645 4161"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT820"
+                    BASELINE="588 4224 932 4230 1642 4241 1660 4241" 
+                    HPOS="574"
+                    VPOS="4154"
+                    WIDTH="1084"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="583 4219 583 4154 1653 4168 1658 4238 1648 4275 574 4251"/></Shape>
+	    <String CONTENT="Cy commence Boece son premi-"
+                    HPOS="574"
+                    VPOS="4154"
+                    WIDTH="1084"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT820"
+                    BASELINE="440 4307 1648 4314 1660 4314" 
+                    HPOS="430"
+                    VPOS="4210"
+                    WIDTH="1228"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="435 4302 435 4210 1653 4238 1658 4312 1653 4344 430 4344"/></Shape>
+	    <String CONTENT="er liure ꝑ maniere de dyalogue en me-"
+                    HPOS="430"
+                    VPOS="4210"
+                    WIDTH="1228"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT820"
+                    BASELINE="429 4398 1662 4409" 
+                    HPOS="424"
+                    VPOS="4307"
+                    WIDTH="1234"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="426 4395 424 4312 1648 4307 1658 4404 1631 4400 1644 4424 1502 4431 1461 4428 1329 4422 1193 4427 1193 4434 1162 4424 1137 4427 1062 4424 987 4414 932 4417 828 4425 779 4428 716 4432 706 4424 691 4420 649 4430 571 4413 450 4420"/></Shape>
+	    <String CONTENT="tres et en proses compile et translate a"
+                    HPOS="424"
+                    VPOS="4307"
+                    WIDTH="1234"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT820"
+                    BASELINE="416 4492 1639 4501" 
+                    HPOS="416"
+                    VPOS="4386"
+                    WIDTH="1223"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="416 4492 416 4386 1635 4409 1639 4501 1618 4522 1419 4529 1304 4527 1255 4541 1190 4509 1145 4530 1094 4541 1038 4542 986 4525 938 4545 863 4516 789 4522 752 4519 706 4517 696 4525 679 4526 672 4520 664 4520 659 4523 608 4533 546 4521 497 4528 439 4525"/></Shape>
+	    <String CONTENT="la consolation des desolez et a la retra-"
+                    HPOS="416"
+                    VPOS="4386"
+                    WIDTH="1223"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1772"
+                   VPOS="4164"
+                   WIDTH="1257"
+                   HEIGHT="347"
+                   ID="block_3"
+                   TAGREFS="BT2687">
+          <Shape><Polygon POINTS="3010 4164 3029 4418 2817 4511 1778 4511 1774 4436 1772 4437 1772 4164"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7dd14d1f"
+                    TAGREFS="LT820"
+                    BASELINE="1753 4242 1791 4242 3001 4247" 
+                    HPOS="1741"
+                    VPOS="4150"
+                    WIDTH="1255"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1750 4238 1750 4150 2992 4154 2996 4242 2987 4275 1741 4270"/></Shape>
+	    <String CONTENT="ctation de ceulx qui trop se adherdent ⁊"
+                    HPOS="1741"
+                    VPOS="4150"
+                    WIDTH="1255"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a96c02d"
+                    TAGREFS="LT820"
+                    BASELINE="1753 4315 1798 4315 2871 4318" 
+                    HPOS="1741"
+                    VPOS="4238"
+                    WIDTH="1126"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1750 4312 1750 4238 2867 4247 2867 4316 2857 4344 1741 4339"/></Shape>
+	    <String CONTENT="empeschent des biens temporelz."
+                    HPOS="1741"
+                    VPOS="4238"
+                    WIDTH="1126"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT820"
+                    BASELINE="1783 4409 3010 4418" 
+                    HPOS="1774"
+                    VPOS="4316"
+                    WIDTH="1236"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1783 4409 1783 4316 3001 4335 3010 4418 3001 4450 1774 4427"/></Shape>
+	    <String CONTENT="Et en cestui premier metre parle boece"
+                    HPOS="1774"
+                    VPOS="4316"
+                    WIDTH="1236"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT820"
+                    BASELINE="1783 4501 2840 4505" 
+                    HPOS="1774"
+                    VPOS="4395"
+                    WIDTH="1065"
+                    HEIGHT="217">
+            <Shape><Polygon POINTS="1778 4497 1778 4395 2834 4413 2839 4501 2834 4608 2399 4612 2394 4612 2394 4612 2390 4612 2390 4612 2390 4612 2385 4612 2385 4612 2334 4571 2278 4529 1774 4529"/></Shape>
+	    <String CONTENT="cõme homme dolent et fort desole."
+                    HPOS="1774"
+                    VPOS="4395"
+                    WIDTH="1065"
+                    HEIGHT="217"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="143"
+                   VPOS="374"
+                   WIDTH="3417"
+                   HEIGHT="3768"
+                   ID="eSc_textblock_c3d4fe4f"
+                   TAGREFS="BT2335">
+          <Shape><Polygon POINTS="146 447 143 4142 3560 4142 3534 374"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="170"
+                   VPOS="4130"
+                   WIDTH="236"
+                   HEIGHT="372"
+                   ID="eSc_textblock_7499ab44"
+                   TAGREFS="BT2335">
+          <Shape><Polygon POINTS="174 4137 172 4346 170 4498 406 4502 406 4390 406 4130"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3026"
+                   VPOS="4173"
+                   WIDTH="534"
+                   HEIGHT="364"
+                   ID="eSc_textblock_e62c01b9"
+                   TAGREFS="BT2335">
+          <Shape><Polygon POINTS="3026 4173 3026 4537 3560 4537 3560 4173"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="166"
+                   VPOS="4517"
+                   WIDTH="3398"
+                   HEIGHT="662"
+                   ID="eSc_textblock_0633fea2"
+                   TAGREFS="BT2335">
+          <Shape><Polygon POINTS="178 4517 166 5179 3564 5179 3564 4517"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1610"
+                   VPOS="4103"
+                   WIDTH="181"
+                   HEIGHT="232"
+                   ID="eSc_textblock_229d8016"
+                   TAGREFS="BT2342">
+          <Shape><Polygon POINTS="1610 4103 1610 4335 1788 4335 1791 4103"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
