@@ -69,24 +69,20 @@ def dump(text, directory):
     Args:
         text (list): lines of text from a document's MainZone
     """    
-    # string all the lines together
-    s = " ".join(text)
-    # join words broken by a ¬ or -
-    lines = re.sub(r"[¬|\-]\s+", r"", s)
-    # jump to new line if "Et" appears not at beginning of new line
-    lines = re.sub(r"((?<!^)(?:Et)(\s))", r"\n\n\1", lines)
-    # jump to new line if a period is followed by a space and then a capital
-    lines = re.sub(r"(\.)(\s)([A-ZÉÀ1-9])", r"\1\n\n\3", lines)
-    # jump to new line if a period is followed by a lowercase coordinating conjunction
-    lines = re.sub(r"(\.)(\s)(et|car|ou|donc|mais|ni)", r"\1\n\n\3", lines)
-    # jump to a new line if one of the following punctuations is present [;!?:]
-    lines = re.sub(r"([\;\!\?\:])(\s)", r"\1\n\n", lines)
-    # start a new line with the character ⁋
-    lines = re.sub(r"(?<!^)(⁋)", r"\n\n\1", lines)
-    # replace the medieval abbreviation ⁊ with the word "et"
-    lines = re.sub(r"⁊", "et", lines)
+    # join the text lines and words broken across line breaks together
+    s = "%%".join(text)
+    s = re.sub(r"⁊", "et", s)
+    s = re.sub(r"[¬|\-]%%", "", s)
+    s = re.sub(r"%%", " ", s)
+
+    # break up the string into segments small enough for the segmentation model
+    # capture a period and space (group 1) before capital letter or ⁋ (group 2)
+    s = re.sub(r"(\.\s)([A-ZÉÀ])", r"\g<1>\n\n\g<2>", s)
+    # capture "Et " if it is not preceded by string beginning
+    s = re.sub(r"(?<!\n\n)Et\s|(?<!\n\n)⁋|(?<!\n\n)¶",r"\n\n\g<0>",s)
+    s = re.sub(r"(?<!\n\n);|(?<!\n\n)\?|(?<!\n\n)\!|(?<!\n\n):",r"\g<0>\n\n", s)
     with open(os.path.join(os.path.dirname(directory),os.path.basename(directory)+".txt"), "w") as f:
-        f.write(lines)
+        f.write(s)
 
 
 if __name__ == "__main__":

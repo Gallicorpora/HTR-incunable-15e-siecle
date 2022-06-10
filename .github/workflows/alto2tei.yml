@@ -1,0 +1,28 @@
+name: "Transform"
+on:
+  push:
+    #paths:
+    #  - data/**
+    #  - data/*
+jobs:
+  Transform:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+      - name: "Install dependencies"
+        run: |
+          python -m pip install --upgrade pip
+          pip install lxml
+          pip install requests
+          pip install pyyaml
+          pip install pandas
+      - name: "Create TEI files"
+        run: |
+         python alto2tei/run.py
+      - name: "Commit generated files to data/"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ./data/*.xml
+          git commit -m "[Automated] Create TEI files" || echo "Nothing to commit"
+          git push || echo "Nothing to push"
