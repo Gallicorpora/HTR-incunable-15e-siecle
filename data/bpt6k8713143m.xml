@@ -1,0 +1,1520 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ark_12148_bpt6k8713143m">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Valentin et Orson</title>
+        <author>Information not available.</author>
+        <respStmt>
+          <resp>Transformation from ALTO4 to TEI by</resp>
+          <persName>
+            <forename>Kelly</forename>
+            <surname>Christensen</surname>
+            <ptr type="orcid" target="000000027236874X"/>
+          </persName>
+          <persName>
+            <forename>Simon</forename>
+            <surname>Gabay</surname>
+            <ptr type="orcid" target="0000000190944475"/>
+          </persName>
+          <persName>
+            <forename>Ariane</forename>
+            <surname>Pinche</surname>
+            <ptr type="orcid" target="0000000278435050"/>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="images" n="5"/>
+      </extent>
+      <publicationStmt>
+        <publisher>Gallic(orpor)a</publisher>
+        <authority>BnF DATALab</authority>
+        <availability status="restricted" n="cc-by">
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+        <date when="2022-06-10"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb33638074x"/>
+          <author>Information not available.</author>
+          <title>Valentin et Orson</title>
+          <pubPlace key="FR">Lyon</pubPlace>
+          <publisher>Jaques Maillet</publisher>
+          <date when="1489" cert="high" resp="BNF">1489</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country key="FR"/>
+            <settlement>Information not available.</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno>RES-Y2-82</idno>
+            <altIdentifier>
+              <idno type="ark">bpt6k8713143m</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <p>Texte imprimé</p>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="frm">français moyen</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface xml:id="f15" n="0" ulx="0" uly="0" lrx="3420" lry="4516">
+        <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/full/full/0/native.jpg"/>
+        <zone xml:id="f15_z1" type="MainZone" subtype="none" n="1" points="372,384 359,3845 1484,3840 1484,1945 1505,398" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/359,384,1146,3461/full/0/native.jpg">
+          <zone xml:id="f15_z1_l1" type="HeadingLine" subtype="none" n="1" points="482,508 478,421 1517,425 1525,504 1525,523 919,541 915,541 478,519" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/478,421,1047,120/full/0/native.jpg">
+            <path xml:id="f15_z1_l1_p" points="482,508 1525,504"/>
+            <line xml:id="f15_z1_l1_t">Cõment le roy pepin espousa ber</line>
+          </zone>
+          <zone xml:id="f15_z1_l2" type="HeadingLine" subtype="none" n="2" points="395,594 395,489 930,523 1495,511 1499,594 1499,613 395,613" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/395,489,1104,124/full/0/native.jpg">
+            <path xml:id="f15_z1_l2_p" points="395,594 1499,594"/>
+            <line xml:id="f15_z1_l2_t">te dame de grant renõmee. i. chap̃</line>
+          </zone>
+          <zone xml:id="f15_z1_l3" type="DropCapitalLine" subtype="none" n="3" points="372,2020 372,1915 440,1926 440,2024 436,2047 369,2051" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/369,1915,71,136/full/0/native.jpg">
+            <path xml:id="f15_z1_l3_p" points="376,2023 444,2028"/>
+            <line xml:id="f15_z1_l3_t">u</line>
+          </zone>
+          <zone xml:id="f15_z1_l4" type="DefaultLine" subtype="none" n="4" points="640,1941 636,1862 1480,1859 1484,1941 1484,1960 640,1960" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/636,1859,848,101/full/0/native.jpg">
+            <path xml:id="f15_z1_l4_p" points="640,1941 1484,1941"/>
+            <line xml:id="f15_z1_l4_t">Eritablement nous trou-</line>
+          </zone>
+          <zone xml:id="f15_z1_l5" type="DefaultLine" subtype="none" n="5" points="636,2032 629,1956 1480,1949 1491,2024 1487,2051 636,2051" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/629,1949,862,102/full/0/native.jpg">
+            <path xml:id="f15_z1_l5_p" points="636,2032 1491,2024"/>
+            <line xml:id="f15_z1_l5_t">uons aux croniques anciẽ-</line>
+          </zone>
+          <zone xml:id="f15_z1_l6" type="DefaultLine" subtype="none" n="6" points="636,2122 632,2043 1480,2035 1484,2122 1480,2148 632,2133" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/632,2035,852,113/full/0/native.jpg">
+            <path xml:id="f15_z1_l6_p" points="636,2122 1484,2122"/>
+            <line xml:id="f15_z1_l6_t">nes que noble et uaillãt roy</line>
+          </zone>
+          <zone xml:id="f15_z1_l7" type="DefaultLine" subtype="none" n="7" points="365,2212 365,2130 1506,2130 1506,2212 1506,2227 365,2242" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/365,2130,1141,112/full/0/native.jpg">
+            <path xml:id="f15_z1_l7_p" points="365,2212 1506,2212"/>
+            <line xml:id="f15_z1_l7_t">peepin si espousa et prist a fẽme berte</line>
+          </zone>
+          <zone xml:id="f15_z1_l8" type="DefaultLine" subtype="none" n="8" points="372,2303 365,2224 1472,2220 1484,2295 1480,2310 372,2318" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/365,2220,1119,98/full/0/native.jpg">
+            <path xml:id="f15_z1_l8_p" points="372,2303 1484,2295"/>
+            <line xml:id="f15_z1_l8_t">dame de grant renõmee; saige et pru</line>
+          </zone>
+          <zone xml:id="f15_z1_l9" type="DefaultLine" subtype="none" n="9" points="365,2393 357,2318 1476,2299 1487,2385 1480,2412 361,2408" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/357,2299,1130,113/full/0/native.jpg">
+            <path xml:id="f15_z1_l9_p" points="365,2393 1487,2385"/>
+            <line xml:id="f15_z1_l9_t">dente qͥ en son temps eust et souffrit</line>
+          </zone>
+          <zone xml:id="f15_z1_l10" type="DefaultLine" subtype="none" n="10" points="365,2476 361,2397 1480,2385 1487,2483 1484,2498 361,2498" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/361,2385,1126,113/full/0/native.jpg">
+            <path xml:id="f15_z1_l10_p" points="365,2476 1487,2483"/>
+            <line xml:id="f15_z1_l10_t">par enuye grãde habondãce de pestil</line>
+          </zone>
+          <zone xml:id="f15_z1_l11" type="DefaultLine" subtype="none" n="11" points="357,2570 350,2495 399,2472 403,2472 406,2472 516,2491 527,2495 719,2495 730,2487 753,2472 757,2472 760,2472 764,2472 1058,2480 1438,2491 1480,2472 1487,2570 1487,2585 357,2592" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,2472,1137,120/full/0/native.jpg">
+            <path xml:id="f15_z1_l11_p" points="357,2570 1487,2570"/>
+            <line xml:id="f15_z1_l11_t">lãce et tribulatiõ. Car elle fut chas</line>
+          </zone>
+          <zone xml:id="f15_z1_l12" type="DefaultLine" subtype="none" n="12" points="361,2656 357,2574 1480,2566 1487,2664 1480,2687 354,2671" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/354,2566,1133,121/full/0/native.jpg">
+            <path xml:id="f15_z1_l12_p" points="361,2656 1487,2664"/>
+            <line xml:id="f15_z1_l12_t">see et espellee de la cõpagnie et habi</line>
+          </zone>
+          <zone xml:id="f15_z1_l13" type="DefaultLine" subtype="none" n="13" points="361,2754 350,2679 395,2656 399,2656 403,2656 1476,2664 1484,2747 1480,2762 361,2769" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,2656,1134,113/full/0/native.jpg">
+            <path xml:id="f15_z1_l13_p" points="361,2754 1484,2747"/>
+            <line xml:id="f15_z1_l13_t">tation du dit roy son mary; par une</line>
+          </zone>
+          <zone xml:id="f15_z1_l14" type="DefaultLine" subtype="none" n="14" points="357,2845 342,2766 372,2743 376,2743 380,2743 384,2743 1476,2750 1484,2837 1484,2860 357,2867" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/342,2743,1142,124/full/0/native.jpg">
+            <path xml:id="f15_z1_l14_p" points="357,2845 1484,2837"/>
+            <line xml:id="f15_z1_l14_t">faulte et mauldite fẽme uielle et en</line>
+          </zone>
+          <zone xml:id="f15_z1_l15" type="DefaultLine" subtype="none" n="15" points="357,2924 357,2845 1476,2852 1480,2931 1472,2942 350,2935" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,2845,1130,97/full/0/native.jpg">
+            <path xml:id="f15_z1_l15_p" points="357,2924 1480,2931"/>
+            <line xml:id="f15_z1_l15_t">uenimee en malice. laq̃lle uielle pour</line>
+          </zone>
+          <zone xml:id="f15_z1_l16" type="DefaultLine" subtype="none" n="16" points="354,3014 354,2935 1476,2946 1480,3021 1472,3033 346,3029" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/346,2935,1134,98/full/0/native.jpg">
+            <path xml:id="f15_z1_l16_p" points="354,3014 1480,3021"/>
+            <line xml:id="f15_z1_l16_t">la premiere nuytee trouua facon et</line>
+          </zone>
+          <zone xml:id="f15_z1_l17" type="DefaultLine" subtype="none" n="17" points="357,3108 354,3033 1476,3014 1480,3108 1476,3127 354,3123" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/354,3014,1126,113/full/0/native.jpg">
+            <path xml:id="f15_z1_l17_p" points="357,3108 1480,3108"/>
+            <line xml:id="f15_z1_l17_t">maniere de bailler et deliurer une siẽ</line>
+          </zone>
+          <zone xml:id="f15_z1_l18" type="DefaultLine" subtype="none" n="18" points="354,3198 350,3123 1476,3108 1480,3198 1476,3217 350,3213" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,3108,1130,109/full/0/native.jpg">
+            <path xml:id="f15_z1_l18_p" points="354,3198 1480,3198"/>
+            <line xml:id="f15_z1_l18_t">ne fille au lieu de la bonne royne ber-</line>
+          </zone>
+          <zone xml:id="f15_z1_l19" type="DefaultLine" subtype="none" n="19" points="354,3285 354,3213 1480,3213 1480,3285 1476,3307 350,3304" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,3213,1130,94/full/0/native.jpg">
+            <path xml:id="f15_z1_l19_p" points="354,3285 1480,3285"/>
+            <line xml:id="f15_z1_l19_t">te. et elle mena et cõduisist ceste tra-</line>
+          </zone>
+          <zone xml:id="f15_z1_l20" type="DefaultLine" subtype="none" n="20" points="354,3379 346,3296 1465,3285 1476,3375 1468,3405 350,3398" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/346,3285,1130,120/full/0/native.jpg">
+            <path xml:id="f15_z1_l20_p" points="354,3379 1476,3375"/>
+            <line xml:id="f15_z1_l20_t">hison pour maintenir sa fille auec le</line>
+          </zone>
+          <zone xml:id="f15_z1_l21" type="DefaultLine" subtype="none" n="21" points="350,3462 350,3387 564,3387 568,3387 602,3368 606,3368 610,3368 704,3387 723,3390 738,3387 787,3371 790,3371 794,3371 1472,3394 1476,3473 1468,3488 342,3477" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/342,3368,1134,120/full/0/native.jpg">
+            <path xml:id="f15_z1_l21_p" points="350,3462 1476,3473"/>
+            <line xml:id="f15_z1_l21_t">roy au lieu de berthe son espouse. le-</line>
+          </zone>
+          <zone xml:id="f15_z1_l22" type="DefaultLine" subtype="none" n="22" points="350,3552 346,3477 870,3458 873,3458 877,3458 881,3458 896,3469 919,3484 1175,3484 1193,3466 1193,3462 1197,3462 1201,3462 1205,3462 1239,3466 1408,3481 1465,3462 1476,3560 1468,3590 342,3578" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/342,3458,1134,132/full/0/native.jpg">
+            <path xml:id="f15_z1_l22_p" points="350,3552 1476,3560"/>
+            <line xml:id="f15_z1_l22_t">q̃l roy d icelle fille eut deux filz hauf</line>
+          </zone>
+          <zone xml:id="f15_z1_l23" type="DefaultLine" subtype="none" n="23" points="354,3646 354,3571 1476,3575 1476,3646 1472,3669 350,3665" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/350,3571,1126,98/full/0/native.jpg">
+            <path xml:id="f15_z1_l23_p" points="354,3646 1476,3646"/>
+            <line xml:id="f15_z1_l23_t">froy et henry. qͥ ou tẽps de leur regne</line>
+          </zone>
+          <zone xml:id="f15_z1_l24" type="DefaultLine" subtype="none" n="24" points="346,3736 346,3650 1484,3661 1484,3736 1484,3759 346,3759" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/346,3650,1138,109/full/0/native.jpg">
+            <path xml:id="f15_z1_l24_p" points="346,3736 1484,3736"/>
+            <line xml:id="f15_z1_l24_t">moult fort greuerẽt et gasterent le</line>
+          </zone>
+        </zone>
+        <zone xml:id="f15_z2" type="MainZone" subtype="none" n="2" points="1551,401 1526,3887 2692,3887 2692,2216 2692,393" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1526,393,1166,3494/full/0/native.jpg">
+          <zone xml:id="f15_z2_l1" type="DefaultLine" subtype="none" n="25" points="1548,504 1544,421 2113,406 2116,406 2632,429 2700,511 2693,541 1540,519" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1540,406,1160,135/full/0/native.jpg">
+            <path xml:id="f15_z2_l1_p" points="1548,504 2700,511"/>
+            <line xml:id="f15_z2_l1_t">rage plaĩ et de male uoulẽte. ces deux</line>
+          </zone>
+          <zone xml:id="f15_z2_l2" type="DefaultLine" subtype="none" n="26" points="1574,587 1574,515 2696,519 2700,598 2693,620 1566,613" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1566,515,1134,105/full/0/native.jpg">
+            <path xml:id="f15_z2_l2_p" points="1574,587 2700,598"/>
+            <line xml:id="f15_z2_l2_t">furent cause de mettre la royne ber-</line>
+          </zone>
+          <zone xml:id="f15_z2_l3" type="DefaultLine" subtype="none" n="27" points="1570,681 1570,602 2693,617 2696,696 2689,711 1563,707" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1563,602,1133,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l3_p" points="1570,681 2696,696"/>
+            <line xml:id="f15_z2_l3_t">the en exil. dont luy cõuint mainte</line>
+          </zone>
+          <zone xml:id="f15_z2_l4" type="DefaultLine" subtype="none" n="28" points="1566,767 1566,688 2677,707 2681,786 2674,816 1559,790" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1559,688,1122,128/full/0/native.jpg">
+            <path xml:id="f15_z2_l4_p" points="1566,767 2681,786"/>
+            <line xml:id="f15_z2_l4_t">douleur et angoisse souffrir. et en ex</line>
+          </zone>
+          <zone xml:id="f15_z2_l5" type="DefaultLine" subtype="none" n="29" points="1563,858 1563,779 2689,797 2693,869 2685,891 1555,888" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,779,1138,112/full/0/native.jpg">
+            <path xml:id="f15_z2_l5_p" points="1563,858 2693,869"/>
+            <line xml:id="f15_z2_l5_t">il fut la dite dame moult lõguemẽt</line>
+          </zone>
+          <zone xml:id="f15_z2_l6" type="DefaultLine" subtype="none" n="30" points="1559,952 1559,869 2696,873 2696,963 2689,978 1551,963" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,869,1145,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l6_p" points="1559,952 2696,963"/>
+            <line xml:id="f15_z2_l6_t">usãt et passant les iours en larmes</line>
+          </zone>
+          <zone xml:id="f15_z2_l7" type="DefaultLine" subtype="none" n="31" points="1559,1042 1559,959 2677,963 2681,1053 2674,1080 1551,1068" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,959,1130,121/full/0/native.jpg">
+            <path xml:id="f15_z2_l7_p" points="1559,1042 2681,1053"/>
+            <line xml:id="f15_z2_l7_t">et gemissemẽs. Mais puis ap̃s de sõ</line>
+          </zone>
+          <zone xml:id="f15_z2_l8" type="DefaultLine" subtype="none" n="32" points="1563,1132 1563,1057 2685,1061 2689,1140 2681,1166 1555,1147" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,1057,1134,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l8_p" points="1563,1132 2689,1140"/>
+            <line xml:id="f15_z2_l8_t">amere et douloureuse fortune dieu le</line>
+          </zone>
+          <zone xml:id="f15_z2_l9" type="DefaultLine" subtype="none" n="33" points="1559,1219 1559,1144 2677,1147 2681,1234 2674,1260 1551,1234" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,1144,1130,116/full/0/native.jpg">
+            <path xml:id="f15_z2_l9_p" points="1559,1219 2681,1234"/>
+            <line xml:id="f15_z2_l9_t">createur des peines et tourmẽs uray</line>
+          </zone>
+          <zone xml:id="f15_z2_l10" type="DefaultLine" subtype="none" n="34" points="1563,1313 1563,1234 2674,1245 2677,1324 2670,1351 1555,1339" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,1234,1122,117/full/0/native.jpg">
+            <path xml:id="f15_z2_l10_p" points="1563,1313 2677,1324"/>
+            <line xml:id="f15_z2_l10_t">protecteur deffendeur et tres piteulx</line>
+          </zone>
+          <zone xml:id="f15_z2_l11" type="DefaultLine" subtype="none" n="35" points="1559,1399 1559,1320 2685,1332 2685,1411 2677,1441 1551,1430" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,1320,1134,121/full/0/native.jpg">
+            <path xml:id="f15_z2_l11_p" points="1559,1399 2685,1411"/>
+            <line xml:id="f15_z2_l11_t">uoulut la bõne dame en son auersite</line>
+          </zone>
+          <zone xml:id="f15_z2_l12" type="DefaultLine" subtype="none" n="36" points="1555,1490 1555,1411 2677,1422 2681,1501 2674,1527 1548,1509" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,1411,1133,116/full/0/native.jpg">
+            <path xml:id="f15_z2_l12_p" points="1555,1490 2681,1501"/>
+            <line xml:id="f15_z2_l12_t">misericordieusemẽt secourir. Et en</line>
+          </zone>
+          <zone xml:id="f15_z2_l13" type="DefaultLine" subtype="none" n="37" points="1559,1576 1559,1501 2674,1516 2677,1591 2670,1618 1551,1595" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,1501,1126,117/full/0/native.jpg">
+            <path xml:id="f15_z2_l13_p" points="1559,1576 2677,1591"/>
+            <line xml:id="f15_z2_l13_t">tãt q̃ dieu createur du mõde au moy</line>
+          </zone>
+          <zone xml:id="f15_z2_l14" type="DefaultLine" subtype="none" n="38" points="1555,1670 1555,1588 2685,1599 2685,1682 2677,1697 1548,1682" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,1588,1137,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l14_p" points="1555,1670 2685,1682"/>
+            <line xml:id="f15_z2_l14_t">en et a l itercessiõ de plusieurs barõs</line>
+          </zone>
+          <zone xml:id="f15_z2_l15" type="DefaultLine" subtype="none" n="39" points="1563,1765 1563,1685 2681,1685 2681,1765 2681,1783 1563,1783" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1563,1685,1118,98/full/0/native.jpg">
+            <path xml:id="f15_z2_l15_p" points="1563,1765 2681,1765"/>
+            <line xml:id="f15_z2_l15_t">de france desirãt le bien et utilite du</line>
+          </zone>
+          <zone xml:id="f15_z2_l16" type="DefaultLine" subtype="none" n="40" points="1566,1847 1566,1761 2685,1776 2685,1862 2681,1889 1864,1889 1860,1885 1713,1866 1634,1881 1630,1881 1627,1881 1555,1859" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,1761,1130,128/full/0/native.jpg">
+            <path xml:id="f15_z2_l16_p" points="1566,1847 2685,1862"/>
+            <line xml:id="f15_z2_l16_t">dit royaulme; la royne berthe fust a-</line>
+          </zone>
+          <zone xml:id="f15_z2_l17" type="DefaultLine" subtype="none" n="41" points="1555,1938 1555,1862 2685,1877 2685,1953 2677,1968 1548,1953" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,1862,1137,106/full/0/native.jpg">
+            <path xml:id="f15_z2_l17_p" points="1555,1938 2685,1953"/>
+            <line xml:id="f15_z2_l17_t">cordee au roy. lequel en grãt pitie et</line>
+          </zone>
+          <zone xml:id="f15_z2_l18" type="DefaultLine" subtype="none" n="42" points="1559,2028 1555,1949 1879,1938 1883,1938 1988,1953 2026,1960 2037,1956 2052,1941 2056,1941 2060,1941 2064,1941 2165,1956 2188,1960 2199,1956 2252,1941 2256,1941 2259,1941 2263,1941 2301,1960 2312,1968 2516,1968 2519,1964 2572,1945 2576,1945 2580,1945 2674,1968 2677,2039 2670,2069 1551,2047" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,1938,1126,131/full/0/native.jpg">
+            <path xml:id="f15_z2_l18_p" points="1559,2028 2677,2039"/>
+            <line xml:id="f15_z2_l18_t">hõneur la receust. et ap̃s peu de tẽps</line>
+          </zone>
+          <zone xml:id="f15_z2_l19" type="DefaultLine" subtype="none" n="43" points="1555,2122 1555,2043 2681,2051 2685,2130 2677,2160 1548,2137" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,2043,1137,117/full/0/native.jpg">
+            <path xml:id="f15_z2_l19_p" points="1555,2122 2685,2130"/>
+            <line xml:id="f15_z2_l19_t">en elle engendra ung filz. Ce fut le</line>
+          </zone>
+          <zone xml:id="f15_z2_l20" type="DefaultLine" subtype="none" n="44" points="1551,2212 1551,2137 2681,2137 2685,2220 2677,2235 1544,2227" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,2137,1141,98/full/0/native.jpg">
+            <path xml:id="f15_z2_l20_p" points="1551,2212 2685,2220"/>
+            <line xml:id="f15_z2_l20_t">tres puissant et redoubte roy charle-</line>
+          </zone>
+          <zone xml:id="f15_z2_l21" type="DefaultLine" subtype="none" n="45" points="1559,2299 1559,2220 2681,2227 2685,2310 2677,2333 1551,2314" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,2220,1134,113/full/0/native.jpg">
+            <path xml:id="f15_z2_l21_p" points="1559,2299 2685,2310"/>
+            <line xml:id="f15_z2_l21_t">maigne. leq̃l puis apres fut deboute</line>
+          </zone>
+          <zone xml:id="f15_z2_l22" type="DefaultLine" subtype="none" n="46" points="1555,2389 1551,2314 1758,2295 1762,2295 1766,2295 1770,2295 1792,2310 1796,2314 1800,2310 1822,2295 1826,2295 1830,2295 1834,2295 1939,2310 2003,2318 2052,2310 2109,2299 2113,2299 2116,2299 2146,2306 2195,2321 2327,2306 2376,2303 2380,2303 2384,2303 2387,2303 2391,2306 2414,2325 2485,2306 2489,2306 2493,2306 2497,2306 2553,2325 2670,2306 2677,2404 2670,2419 1548,2401" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,2295,1129,124/full/0/native.jpg">
+            <path xml:id="f15_z2_l22_p" points="1555,2389 2677,2404"/>
+            <line xml:id="f15_z2_l22_t">et dechasse hors du royaulme par les</line>
+          </zone>
+          <zone xml:id="f15_z2_l23" type="DefaultLine" subtype="none" n="47" points="1559,2480 1555,2404 1785,2385 1789,2385 1792,2385 1830,2404 1887,2385 1890,2385 1894,2385 1898,2385 1902,2385 1932,2408 1935,2408 1943,2408 2000,2389 2003,2389 2007,2389 2177,2408 2184,2408 2192,2408 2301,2389 2305,2389 2308,2389 2354,2412 2357,2416 2474,2416 2474,2412 2493,2397 2493,2393 2497,2393 2500,2393 2504,2393 2677,2416 2681,2491 2677,2506 1555,2510" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,2385,1126,125/full/0/native.jpg">
+            <path xml:id="f15_z2_l23_p" points="1559,2480 2681,2491"/>
+            <line xml:id="f15_z2_l23_t">dessus dis. hauffroy et hẽry. ainsi que</line>
+          </zone>
+          <zone xml:id="f15_z2_l24" type="DefaultLine" subtype="none" n="48" points="1563,2574 1563,2491 2677,2502 2681,2585 2674,2607 1555,2600" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1555,2491,1126,116/full/0/native.jpg">
+            <path xml:id="f15_z2_l24_p" points="1563,2574 2681,2585"/>
+            <line xml:id="f15_z2_l24_t">plus aplain appertence p̃sent liure.</line>
+          </zone>
+          <zone xml:id="f15_z2_l25" type="DefaultLine" subtype="none" n="49" points="1559,2660 1559,2585 2677,2592 2681,2671 2674,2687 1551,2675" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,2585,1130,102/full/0/native.jpg">
+            <path xml:id="f15_z2_l25_p" points="1559,2660 2681,2671"/>
+            <line xml:id="f15_z2_l25_t">mais a tant ie uous ueul parler de la</line>
+          </zone>
+          <zone xml:id="f15_z2_l26" type="DefaultLine" subtype="none" n="50" points="1559,2750 1555,2675 2674,2668 2681,2762 2674,2773 1551,2762" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,2668,1130,105/full/0/native.jpg">
+            <path xml:id="f15_z2_l26_p" points="1559,2750 2681,2762"/>
+            <line xml:id="f15_z2_l26_t">matiere subiecte ia deuãt proposee;</line>
+          </zone>
+          <zone xml:id="f15_z2_l27" type="DefaultLine" subtype="none" n="51" points="1555,2841 1551,2766 1822,2747 1826,2747 1830,2747 1834,2747 1834,2750 1849,2766 1853,2769 2677,2769 2681,2852 2677,2863 2384,2886 2380,2886 2015,2863 1958,2882 1954,2882 1951,2882 1947,2882 1894,2860 1630,2878 1627,2878 1623,2878 1544,2852" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,2747,1137,139/full/0/native.jpg">
+            <path xml:id="f15_z2_l27_p" points="1555,2841 2681,2852"/>
+            <line xml:id="f15_z2_l27_t">et par especial du fait et du gouuer</line>
+          </zone>
+          <zone xml:id="f15_z2_l28" type="DefaultLine" subtype="none" n="52" points="1555,2931 1555,2852 2674,2852 2677,2942 2670,2954 1548,2942" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,2852,1129,102/full/0/native.jpg">
+            <path xml:id="f15_z2_l28_p" points="1555,2931 2677,2942"/>
+            <line xml:id="f15_z2_l28_t">nemẽt du uaillant ualẽtin et de son</line>
+          </zone>
+          <zone xml:id="f15_z2_l29" type="DefaultLine" subtype="none" n="53" points="1555,3021 1555,2931 2674,2942 2677,3033 2674,3048 1551,3048" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,2931,1126,117/full/0/native.jpg">
+            <path xml:id="f15_z2_l29_p" points="1555,3021 2677,3033"/>
+            <line xml:id="f15_z2_l29_t">frere orson. Or est uray q̃ le roy pepĩ</line>
+          </zone>
+          <zone xml:id="f15_z2_l30" type="DefaultLine" subtype="none" n="54" points="1559,3112 1559,3033 2674,3033 2677,3123 2670,3138 1551,3134" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1551,3033,1126,105/full/0/native.jpg">
+            <path xml:id="f15_z2_l30_p" points="1559,3112 2677,3123"/>
+            <line xml:id="f15_z2_l30_t">auoit une seur nõmee bellissant; belle</line>
+          </zone>
+          <zone xml:id="f15_z2_l31" type="DefaultLine" subtype="none" n="55" points="1555,3202 1555,3108 2674,3131 2677,3213 2670,3243 1548,3225" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,3108,1129,135/full/0/native.jpg">
+            <path xml:id="f15_z2_l31_p" points="1555,3202 2677,3213"/>
+            <line xml:id="f15_z2_l31_t">plaisant et tres gracieuse en toutes</line>
+          </zone>
+          <zone xml:id="f15_z2_l32" type="DefaultLine" subtype="none" n="56" points="1555,3285 1555,3210 2674,3225 2677,3304 2670,3319 1548,3300" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1548,3210,1129,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l32_p" points="1555,3285 2677,3304"/>
+            <line xml:id="f15_z2_l32_t">choses biẽ aprise et endoctrinee et l ai</line>
+          </zone>
+          <zone xml:id="f15_z2_l33" type="DefaultLine" subtype="none" n="57" points="1551,3379 1551,3300 2674,3300 2677,3390 2670,3420 1544,3398" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,3300,1133,120/full/0/native.jpg">
+            <path xml:id="f15_z2_l33_p" points="1551,3379 2677,3390"/>
+            <line xml:id="f15_z2_l33_t">ma le roy pepin son frere de bonne a-</line>
+          </zone>
+          <zone xml:id="f15_z2_l34" type="DefaultLine" subtype="none" n="58" points="1551,3469 1551,3394 2670,3398 2674,3481 2666,3507 1544,3488" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,3394,1130,113/full/0/native.jpg">
+            <path xml:id="f15_z2_l34_p" points="1551,3469 2674,3481"/>
+            <line xml:id="f15_z2_l34_t">mour cordiale. Et tãt qͥl auint que</line>
+          </zone>
+          <zone xml:id="f15_z2_l35" type="DefaultLine" subtype="none" n="59" points="1551,3560 1551,3481 2674,3496 2677,3571 2670,3586 1544,3578" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,3481,1133,105/full/0/native.jpg">
+            <path xml:id="f15_z2_l35_p" points="1551,3560 2677,3571"/>
+            <line xml:id="f15_z2_l35_t">pour le bruit et renõmee d icelle laq̃l-</line>
+          </zone>
+          <zone xml:id="f15_z2_l36" type="DefaultLine" subtype="none" n="60" points="1551,3646 1551,3571 2674,3582 2677,3661 2670,3680 1544,3665" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1544,3571,1133,109/full/0/native.jpg">
+            <path xml:id="f15_z2_l36_p" points="1551,3646 2677,3661"/>
+            <line xml:id="f15_z2_l36_t">le de grãs et de petis estoit prisee et a-</line>
+          </zone>
+          <zone xml:id="f15_z2_l37" type="DefaultLine" subtype="none" n="61" points="1548,3736 1548,3665 2681,3676 2681,3748 2677,3763 2305,3782 2301,3782 1540,3752" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1540,3665,1141,117/full/0/native.jpg">
+            <path xml:id="f15_z2_l37_p" points="1548,3736 2681,3748"/>
+            <line xml:id="f15_z2_l37_t">mee. pour la beaulte et tres gracieulx</line>
+          </zone>
+          <zone xml:id="f15_z2_l38" type="DefaultLine" subtype="none" n="62" points="1548,3831 1548,3752 2685,3763 2689,3846 2685,3925 2339,3925 2335,3921 2331,3921 2316,3917 2237,3883 2041,3906 2037,3906 1860,3879 1758,3906 1721,3913 1717,3913 1713,3913 1710,3913 1706,3913 1694,3902 1657,3876 1615,3902 1597,3913 1593,3913 1589,3913 1585,3913 1581,3913 1536,3898" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/1536,3752,1153,173/full/0/native.jpg">
+            <path xml:id="f15_z2_l38_p" points="1548,3831 2689,3846"/>
+            <line xml:id="f15_z2_l38_t">parler maniere et cõtenance qͥ en elle</line>
+          </zone>
+        </zone>
+        <zone xml:id="f15_z3" type="StampZone" subtype="none" n="none" points="385,3762 385,4262 786,4262 963,4262 963,3762" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/385,3762,578,500/full/0/native.jpg">
+          <zone xml:id="f15_z3_l1" type="DefaultLine" subtype="none" n="63" points="354,3831 354,3736 1480,3755 1480,3831 1476,3861 1359,3857 1340,3864 1314,3883 1310,3883 1306,3883 1303,3883 1299,3883 1242,3868 1205,3857 1039,3857 983,3872 926,3883 922,3883 919,3883 881,3872 824,3857 802,3876 760,3913 760,3917 757,3917 753,3917 753,3921 433,3921 429,3917 425,3917 346,3883" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/346,3736,1134,185/full/0/native.jpg">
+            <path xml:id="f15_z3_l1_p" points="354,3831 1480,3831"/>
+            <line xml:id="f15_z3_l1_t">pays de france. Et furent de fier cou</line>
+          </zone>
+        </zone>
+        <zone xml:id="f15_z4" type="GraphicZone" subtype="none" n="none" points="521,652 521,1818 1454,1818 1454,1368 1454,652" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/521,652,933,1166/full/0/native.jpg"/>
+        <zone xml:id="f15_z5" type="GraphicZone" subtype="none" n="none" points="521,652 521,1818 1454,1818 1483,677" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f15/521,652,962,1166/full/0/native.jpg"/>
+      </surface>
+      <surface xml:id="f19" n="1" ulx="0" uly="0" lrx="3288" lry="4516">
+        <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/full/full/0/native.jpg"/>
+        <zone xml:id="f19_z1" type="MainZone" subtype="none" n="1" points="289,414 248,3889 1457,3852 1457,2280 1465,370" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/248,370,1217,3519/full/0/native.jpg">
+          <zone xml:id="f19_z1_l1" type="DefaultLine" subtype="none" n="1" points="320,492 316,410 1438,406 1442,492 1442,508 320,526" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/316,406,1126,120/full/0/native.jpg">
+            <path xml:id="f19_z1_l1_p" points="323,496 1446,494"/>
+            <line xml:id="f19_z1_l1_t">ne bellissant la male uoulente de son</line>
+          </zone>
+          <zone xml:id="f19_z1_l2" type="DefaultLine" subtype="none" n="2" points="312,583 305,511 1431,485 1442,572 1438,590 312,609" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/305,485,1137,124/full/0/native.jpg">
+            <path xml:id="f19_z1_l2_p" points="312,583 1442,572"/>
+            <line xml:id="f19_z1_l2_t">courage. Trop a tẽps cõmẽca la fo-</line>
+          </zone>
+          <zone xml:id="f19_z1_l3" type="DefaultLine" subtype="none" n="3" points="312,673 308,587 1431,587 1438,662 1434,688 312,696" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/308,587,1130,109/full/0/native.jpg">
+            <path xml:id="f19_z1_l3_p" points="312,673 1438,662"/>
+            <line xml:id="f19_z1_l3_t">lie; et tart s en repentit. Ainsy auie</line>
+          </zone>
+          <zone xml:id="f19_z1_l4" type="DefaultLine" subtype="none" n="4" points="316,763 312,677 1431,681 1438,752 1434,790 316,790" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/312,677,1126,113/full/0/native.jpg">
+            <path xml:id="f19_z1_l4_p" points="316,763 1438,752"/>
+            <line xml:id="f19_z1_l4_t">souuent q̃ ce que fol pense il demeure</line>
+          </zone>
+          <zone xml:id="f19_z1_l5" type="DefaultLine" subtype="none" n="5" points="320,858 316,767 768,775 775,846 772,865 320,888" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/316,767,459,121/full/0/native.jpg">
+            <path xml:id="f19_z1_l5_p" points="320,858 775,846"/>
+            <line xml:id="f19_z1_l5_t">estre parfait.</line>
+          </zone>
+          <zone xml:id="f19_z1_l6" type="DefaultLine" subtype="none" n="6" points="402,944 399,861 907,861 911,858 975,839 979,839 983,839 1431,858 1438,937 1438,955 937,955 930,955 847,974 843,974 399,955" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/399,839,1039,135/full/0/native.jpg">
+            <path xml:id="f19_z1_l6_p" points="402,944 1438,937"/>
+            <line xml:id="f19_z1_l6_t">Cõment l archeuesq̃ ap̃s ce qͥl fut</line>
+          </zone>
+          <zone xml:id="f19_z1_l7" type="DefaultLine" subtype="none" n="7" points="312,1031 305,955 369,933 372,933 376,933 568,952 576,952 580,952 632,933 636,933 640,933 723,952 730,952 745,952 881,933 885,933 1434,948 1434,1031 1434,1049 312,1049" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/305,933,1129,116/full/0/native.jpg">
+            <path xml:id="f19_z1_l7_p" points="312,1031 1434,1031"/>
+            <line xml:id="f19_z1_l7_t">escõdit de la dame bellissant pour sõ</line>
+          </zone>
+          <zone xml:id="f19_z1_l8" type="DefaultLine" subtype="none" n="8" points="316,1117 316,1031 1434,1038 1434,1117 1434,1132 316,1136" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/316,1031,1118,105/full/0/native.jpg">
+            <path xml:id="f19_z1_l8_p" points="316,1117 1434,1117"/>
+            <line xml:id="f19_z1_l8_t">hõneur sauluer cõtre la noble dame</line>
+          </zone>
+          <zone xml:id="f19_z1_l9" type="DefaultLine" subtype="none" n="9" points="323,1215 316,1129 1423,1121 1434,1204 1434,1219 1344,1241 1340,1241 1133,1230 1080,1226 1054,1230 983,1245 979,1245 839,1238 730,1230 711,1241 700,1249 696,1249 693,1249 693,1253 323,1253" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/316,1121,1118,132/full/0/native.jpg">
+            <path xml:id="f19_z1_l9_p" points="323,1215 1434,1204"/>
+            <line xml:id="f19_z1_l9_t">pẽsa et machina une grãt trahisõ. iii.</line>
+          </zone>
+          <zone xml:id="f19_z1_l10" type="DefaultLine" subtype="none" n="10" points="580,2559 576,2464 1423,2480 1431,2555 1427,2574 580,2577" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/576,2464,855,113/full/0/native.jpg">
+            <path xml:id="f19_z1_l10_p" points="580,2559 1431,2555"/>
+            <line xml:id="f19_z1_l10_t">N pensee et sousy trop par</line>
+          </zone>
+          <zone xml:id="f19_z1_l11" type="DropCapitalLine" subtype="none" n="11" points="308,2645 305,2570 387,2555 391,2649 387,2668 305,2668" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/305,2555,86,113/full/0/native.jpg">
+            <path xml:id="f19_z1_l11_p" points="311,2649 395,2650"/>
+            <line xml:id="f19_z1_l11_t">E</line>
+          </zone>
+          <zone xml:id="f19_z1_l12" type="DefaultLine" subtype="none" n="12" points="576,2649 576,2566 1438,2570 1438,2649 1438,2664 1269,2687 1265,2687 572,2668" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/572,2566,866,121/full/0/native.jpg">
+            <path xml:id="f19_z1_l12_p" points="576,2649 1438,2649"/>
+            <line xml:id="f19_z1_l12_t">fait et ennuyeulx fut l ar-</line>
+          </zone>
+          <zone xml:id="f19_z1_l13" type="DefaultLine" subtype="none" n="13" points="576,2739 576,2668 1431,2668 1431,2739 1427,2762 572,2754" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/572,2668,859,94/full/0/native.jpg">
+            <path xml:id="f19_z1_l13_p" points="576,2739 1431,2739"/>
+            <line xml:id="f19_z1_l13_t">cheuesque doubtãt q̃ l empe</line>
+          </zone>
+          <zone xml:id="f19_z1_l14" type="DefaultLine" subtype="none" n="14" points="301,2830 301,2754 1431,2754 1431,2830 1431,2848 301,2848" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/301,2754,1130,94/full/0/native.jpg">
+            <path xml:id="f19_z1_l14_p" points="301,2830 1431,2830"/>
+            <line xml:id="f19_z1_l14_t">reur ne le fist mourir pour sa faulte</line>
+          </zone>
+          <zone xml:id="f19_z1_l15" type="DefaultLine" subtype="none" n="15" points="301,2920 290,2845 350,2822 354,2822 357,2822 644,2837 715,2837 1423,2818 1434,2912 1431,2942 301,2942" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/290,2818,1144,124/full/0/native.jpg">
+            <path xml:id="f19_z1_l15_p" points="301,2920 1434,2912"/>
+            <line xml:id="f19_z1_l15_t">criminelle; laq̃lle cõtre sa haulte sei</line>
+          </zone>
+          <zone xml:id="f19_z1_l16" type="DefaultLine" subtype="none" n="16" points="297,3018 290,2942 1431,2912 1442,3006 1442,3025 297,3044" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/290,2912,1152,132/full/0/native.jpg">
+            <path xml:id="f19_z1_l16_p" points="297,3018 1442,3006"/>
+            <line xml:id="f19_z1_l16_t">gneurie et magnificẽte il auoit cõmi</line>
+          </zone>
+          <zone xml:id="f19_z1_l17" type="DefaultLine" subtype="none" n="17" points="312,3100 312,3025 1438,3025 1438,3100 1438,3123 312,3123" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/312,3025,1126,98/full/0/native.jpg">
+            <path xml:id="f19_z1_l17_p" points="312,3100 1438,3100"/>
+            <line xml:id="f19_z1_l17_t">se. Si se pensa de sauluer sõ hõneur</line>
+          </zone>
+          <zone xml:id="f19_z1_l18" type="DefaultLine" subtype="none" n="18" points="312,3183 308,3108 839,3089 843,3089 949,3112 960,3116 1126,3116 1126,3112 1144,3097 1144,3093 1148,3093 1152,3093 1156,3093 1393,3093 1397,3093 1438,3116 1438,3191 1431,3202 305,3195" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/305,3089,1133,113/full/0/native.jpg">
+            <path xml:id="f19_z1_l18_p" points="312,3183 1438,3191"/>
+            <line xml:id="f19_z1_l18_t">tout au mieulx q̃ il pourroit Et tãt</line>
+          </zone>
+          <zone xml:id="f19_z1_l19" type="DefaultLine" subtype="none" n="19" points="312,3281 308,3195 591,3202 617,3195 655,3183 659,3183 662,3183 745,3195 790,3202 824,3195 907,3180 911,3180 1434,3202 1442,3274 1438,3296 312,3311" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/308,3180,1134,131/full/0/native.jpg">
+            <path xml:id="f19_z1_l19_p" points="312,3281 1442,3274"/>
+            <line xml:id="f19_z1_l19_t">fit q̃ pour sa malediction couurit et</line>
+          </zone>
+          <zone xml:id="f19_z1_l20" type="DefaultLine" subtype="none" n="20" points="312,3371 312,3285 1442,3292 1442,3371 1442,3383 312,3398" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/312,3285,1130,113/full/0/native.jpg">
+            <path xml:id="f19_z1_l20_p" points="312,3371 1442,3371"/>
+            <line xml:id="f19_z1_l20_t">pour monstrer apparãce de le aute et</line>
+          </zone>
+          <zone xml:id="f19_z1_l21" type="DefaultLine" subtype="none" n="21" points="312,3454 312,3383 1438,3383 1438,3454 1438,3477 312,3477" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/312,3383,1126,94/full/0/native.jpg">
+            <path xml:id="f19_z1_l21_p" points="312,3454 1438,3454"/>
+            <line xml:id="f19_z1_l21_t">preudõmie; en faignant et dissimu-</line>
+          </zone>
+          <zone xml:id="f19_z1_l22" type="DefaultLine" subtype="none" n="22" points="308,3548 301,3462 1434,3462 1442,3541 1438,3556 308,3571" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/301,3462,1141,109/full/0/native.jpg">
+            <path xml:id="f19_z1_l22_p" points="308,3548 1442,3541"/>
+            <line xml:id="f19_z1_l22_t">lãt q̃ de tout son pouoir il uouloit et</line>
+          </zone>
+          <zone xml:id="f19_z1_l23" type="DefaultLine" subtype="none" n="23" points="308,3639 305,3552 1434,3560 1442,3631 1438,3646 308,3654" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/305,3552,1137,102/full/0/native.jpg">
+            <path xml:id="f19_z1_l23_p" points="308,3639 1442,3631"/>
+            <line xml:id="f19_z1_l23_t">desiroit le bien et honneur et ualeur</line>
+          </zone>
+          <zone xml:id="f19_z1_l24" type="DefaultLine" subtype="none" n="24" points="308,3725 308,3646 1442,3646 1442,3725 1442,3744 308,3748" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/308,3646,1134,102/full/0/native.jpg">
+            <path xml:id="f19_z1_l24_p" points="308,3725 1442,3725"/>
+            <line xml:id="f19_z1_l24_t">et utilite de l ẽpereur. Le iour de l a-</line>
+          </zone>
+          <zone xml:id="f19_z1_l25" type="DefaultLine" subtype="none" n="25" points="312,3808 312,3729 1438,3736 1442,3819 1442,3846 1359,3872 1355,3872 1352,3872 1163,3849 1156,3849 1152,3849 1080,3872 1077,3872 1073,3872 1069,3872 1016,3849 1005,3846 971,3849 854,3868 851,3868 726,3853 644,3842 308,3853" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/308,3729,1134,143/full/0/native.jpg">
+            <path xml:id="f19_z1_l25_p" points="312,3808 1442,3819"/>
+            <line xml:id="f19_z1_l25_t">scetion nostre seigneur. il uint par-</line>
+          </zone>
+        </zone>
+        <zone xml:id="f19_z2" type="MainZone" subtype="none" n="2" points="1493,368 1477,3862 2703,3862 2703,3066 2703,388" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1477,368,1226,3494/full/0/native.jpg">
+          <zone xml:id="f19_z2_l1" type="DefaultLine" subtype="none" n="26" points="1502,492 1495,421 2625,417 2636,489 2632,515 1498,508" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,417,1141,98/full/0/native.jpg">
+            <path xml:id="f19_z2_l1_p" points="1506,494 2640,492"/>
+            <line xml:id="f19_z2_l1_t">deuers l ẽpereur et le tyra a part. et</line>
+          </zone>
+          <zone xml:id="f19_z2_l2" type="DefaultLine" subtype="none" n="27" points="1506,572 1502,496 2350,485 2353,485 2357,485 2402,504 2417,489 2417,485 2421,485 2425,485 2429,485 2598,485 2602,485 2606,485 2643,508 2640,583 2632,605 1498,587" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,485,1145,120/full/0/native.jpg">
+            <path xml:id="f19_z2_l2_p" points="1506,572 2640,583"/>
+            <line xml:id="f19_z2_l2_t">luy dist en telle maniere. Tres hault</line>
+          </zone>
+          <zone xml:id="f19_z2_l3" type="DefaultLine" subtype="none" n="28" points="1506,669 1506,598 2636,598 2636,669 2636,696 1506,696" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1506,598,1130,98/full/0/native.jpg">
+            <path xml:id="f19_z2_l3_p" points="1506,669 2636,669"/>
+            <line xml:id="f19_z2_l3_t">empereur il est uray q̃ ie cognois les</line>
+          </zone>
+          <zone xml:id="f19_z2_l4" type="DefaultLine" subtype="none" n="29" points="1506,760 1502,688 2636,673 2640,760 2640,786 1506,797" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,673,1138,124/full/0/native.jpg">
+            <path xml:id="f19_z2_l4_p" points="1506,760 2640,760"/>
+            <line xml:id="f19_z2_l4_t">grans graces et benefices q̃ uous m a</line>
+          </zone>
+          <zone xml:id="f19_z2_l5" type="DefaultLine" subtype="none" n="30" points="1510,842 1506,771 2625,760 2632,850 2625,876 1502,861" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,760,1130,116/full/0/native.jpg">
+            <path xml:id="f19_z2_l5_p" points="1510,842 2632,850"/>
+            <line xml:id="f19_z2_l5_t">ues donez et ottroyez; et scay bien q̃</line>
+          </zone>
+          <zone xml:id="f19_z2_l6" type="DefaultLine" subtype="none" n="31" points="1510,933 1510,846 2628,865 2632,940 2628,967 1506,967" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1506,846,1126,121/full/0/native.jpg">
+            <path xml:id="f19_z2_l6_p" points="1510,933 2632,940"/>
+            <line xml:id="f19_z2_l6_t">par uous ie suis en hõneur monte et</line>
+          </zone>
+          <zone xml:id="f19_z2_l7" type="DefaultLine" subtype="none" n="32" points="1506,1023 1502,952 2625,948 2632,1031 2625,1046 1498,1042" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,948,1134,98/full/0/native.jpg">
+            <path xml:id="f19_z2_l7_p" points="1506,1023 2632,1031"/>
+            <line xml:id="f19_z2_l7_t">eleue plus que a moy n apartiẽt. Et</line>
+          </zone>
+          <zone xml:id="f19_z2_l8" type="DefaultLine" subtype="none" n="33" points="1514,1110 1514,1019 1630,1038 1905,1027 2022,1023 2026,1023 2030,1023 2048,1031 2075,1042 2135,1031 2176,1027 2180,1027 2628,1046 2632,1117 2628,1144 1510,1147" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1510,1019,1122,128/full/0/native.jpg">
+            <path xml:id="f19_z2_l8_p" points="1514,1110 2632,1117"/>
+            <line xml:id="f19_z2_l8_t">sy m auez fait cõme indigne et insuf-</line>
+          </zone>
+          <zone xml:id="f19_z2_l9" type="DefaultLine" subtype="none" n="34" points="1510,1208 1510,1132 2628,1132 2628,1208 2625,1238 1506,1226" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1506,1132,1122,106/full/0/native.jpg">
+            <path xml:id="f19_z2_l9_p" points="1510,1208 2628,1208"/>
+            <line xml:id="f19_z2_l9_t">fisant maistre et gouuerneur de tou</line>
+          </zone>
+          <zone xml:id="f19_z2_l10" type="DefaultLine" subtype="none" n="35" points="1506,1294 1502,1219 2621,1211 2628,1302 2621,1320 1498,1313" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,1211,1130,109/full/0/native.jpg">
+            <path xml:id="f19_z2_l10_p" points="1506,1294 2628,1302"/>
+            <line xml:id="f19_z2_l10_t">te uostre maison; du tout a moy uoꝰ</line>
+          </zone>
+          <zone xml:id="f19_z2_l11" type="DefaultLine" subtype="none" n="36" points="1506,1381 1506,1305 2625,1305 2628,1392 2621,1407 1498,1396" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,1305,1130,102/full/0/native.jpg">
+            <path xml:id="f19_z2_l11_p" points="1506,1381 2628,1392"/>
+            <line xml:id="f19_z2_l11_t">confiant plus qu en nul aultre de uo</line>
+          </zone>
+          <zone xml:id="f19_z2_l12" type="DefaultLine" subtype="none" n="37" points="1502,1471 1502,1399 2625,1407 2628,1478 2621,1509 1495,1505" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,1399,1133,110/full/0/native.jpg">
+            <path xml:id="f19_z2_l12_p" points="1502,1471 2628,1478"/>
+            <line xml:id="f19_z2_l12_t">stre court. sy ne doy pas estre en lieu</line>
+          </zone>
+          <zone xml:id="f19_z2_l13" type="DefaultLine" subtype="none" n="38" points="1502,1569 1495,1501 1634,1475 1638,1475 1834,1494 1837,1494 1845,1494 2018,1475 2022,1475 2105,1490 2127,1471 2131,1471 2135,1471 2139,1471 2237,1490 2248,1490 2267,1490 2417,1471 2421,1471 2425,1471 2429,1471 2451,1486 2463,1490 2613,1486 2625,1561 2617,1595 1498,1588" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,1471,1130,124/full/0/native.jpg">
+            <path xml:id="f19_z2_l13_p" points="1502,1569 2625,1561"/>
+            <line xml:id="f19_z2_l13_t">ne en place ou ie seuffre ne endure uo</line>
+          </zone>
+          <zone xml:id="f19_z2_l14" type="DefaultLine" subtype="none" n="39" points="1506,1659 1506,1576 2628,1576 2628,1659 2625,1689 1502,1682" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,1576,1126,113/full/0/native.jpg">
+            <path xml:id="f19_z2_l14_p" points="1506,1659 2628,1659"/>
+            <line xml:id="f19_z2_l14_t">stre estat estre diffame et uostre renõ</line>
+          </zone>
+          <zone xml:id="f19_z2_l15" type="DefaultLine" subtype="none" n="40" points="1502,1742 1502,1670 2632,1674 2632,1749 2625,1776 1495,1757" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,1670,1137,106/full/0/native.jpg">
+            <path xml:id="f19_z2_l15_p" points="1502,1742 2632,1749"/>
+            <line xml:id="f19_z2_l15_t">mee mys au bas. Car ainsy me soit</line>
+          </zone>
+          <zone xml:id="f19_z2_l16" type="DefaultLine" subtype="none" n="41" points="1502,1832 1502,1753 2628,1761 2632,1844 2625,1862 1495,1847" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,1753,1137,109/full/0/native.jpg">
+            <path xml:id="f19_z2_l16_p" points="1502,1832 2632,1844"/>
+            <line xml:id="f19_z2_l16_t">dieu propice q̃ i aimeroye plus chier</line>
+          </zone>
+          <zone xml:id="f19_z2_l17" type="DefaultLine" subtype="none" n="42" points="1502,1930 1487,1859 1517,1836 1521,1836 1525,1836 1529,1836 2621,1836 2628,1923 2621,1956 1498,1949" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1487,1836,1141,120/full/0/native.jpg">
+            <path xml:id="f19_z2_l17_p" points="1502,1930 2628,1923"/>
+            <line xml:id="f19_z2_l17_t">deuant toꝰ de moy soubmettre a subi</line>
+          </zone>
+          <zone xml:id="f19_z2_l18" type="DefaultLine" subtype="none" n="43" points="1502,2009 1502,1934 2625,1934 2628,2024 2621,2054 1495,2024" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,1934,1133,120/full/0/native.jpg">
+            <path xml:id="f19_z2_l18_p" points="1502,2009 2628,2024"/>
+            <line xml:id="f19_z2_l18_t">te mort finer mes iours q̃ uoir ou es-</line>
+          </zone>
+          <zone xml:id="f19_z2_l19" type="DefaultLine" subtype="none" n="44" points="1498,2103 1498,2028 2632,2039 2632,2114 2625,2137 1491,2133" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1491,2028,1141,109/full/0/native.jpg">
+            <path xml:id="f19_z2_l19_p" points="1498,2103 2632,2114"/>
+            <line xml:id="f19_z2_l19_t">couter deuãt ma presence langaiges</line>
+          </zone>
+          <zone xml:id="f19_z2_l20" type="DefaultLine" subtype="none" n="45" points="1506,2190 1502,2118 1837,2099 1841,2099 1845,2099 1890,2118 1905,2122 1928,2118 2003,2103 2007,2103 2011,2103 2014,2103 2037,2118 2041,2122 2048,2118 2067,2103 2071,2103 2075,2103 2079,2103 2625,2122 2628,2201 2621,2220 1498,2205" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,2099,1130,121/full/0/native.jpg">
+            <path xml:id="f19_z2_l20_p" points="1506,2190 2628,2201"/>
+            <line xml:id="f19_z2_l20_t">ou parolles qui a uostre hõneur et do</line>
+          </zone>
+          <zone xml:id="f19_z2_l21" type="DefaultLine" subtype="none" n="46" points="1502,2284 1498,2209 2625,2197 2632,2291 2625,2310 1495,2299" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,2197,1137,113/full/0/native.jpg">
+            <path xml:id="f19_z2_l21_p" points="1502,2284 2632,2291"/>
+            <line xml:id="f19_z2_l21_t">mination et seigneurie fussent mal</line>
+          </zone>
+          <zone xml:id="f19_z2_l22" type="DefaultLine" subtype="none" n="47" points="1502,2374 1502,2291 2625,2291 2628,2385 2621,2416 1495,2389" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,2291,1133,125/full/0/native.jpg">
+            <path xml:id="f19_z2_l22_p" points="1502,2374 2628,2385"/>
+            <line xml:id="f19_z2_l22_t">cõuenables ne licites Si me ueullez</line>
+          </zone>
+          <zone xml:id="f19_z2_l23" type="DefaultLine" subtype="none" n="48" points="1506,2464 1506,2389 2628,2401 2632,2476 2625,2495 1498,2487" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,2389,1134,106/full/0/native.jpg">
+            <path xml:id="f19_z2_l23_p" points="1506,2464 2632,2476"/>
+            <line xml:id="f19_z2_l23_t">oyr reciter et declairer ung cas qͥ grã</line>
+          </zone>
+          <zone xml:id="f19_z2_l24" type="DefaultLine" subtype="none" n="49" points="1502,2555 1502,2476 2628,2483 2632,2562 2625,2581 1495,2570" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,2476,1137,105/full/0/native.jpg">
+            <path xml:id="f19_z2_l24_p" points="1502,2555 2632,2562"/>
+            <line xml:id="f19_z2_l24_t">demẽt touche et ataint uostre profit</line>
+          </zone>
+          <zone xml:id="f19_z2_l25" type="DefaultLine" subtype="none" n="50" points="1502,2641 1498,2562 2632,2559 2636,2656 2628,2671 1495,2664" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,2559,1141,112/full/0/native.jpg">
+            <path xml:id="f19_z2_l25_p" points="1502,2641 2636,2656"/>
+            <line xml:id="f19_z2_l25_t">et hõneur plu q̃ nulles riẽs. Sire il</line>
+          </zone>
+          <zone xml:id="f19_z2_l26" type="DefaultLine" subtype="none" n="51" points="1502,2732 1502,2653 2628,2664 2632,2747 2625,2777 1495,2747" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1495,2653,1137,124/full/0/native.jpg">
+            <path xml:id="f19_z2_l26_p" points="1502,2732 2632,2747"/>
+            <line xml:id="f19_z2_l26_t">est uray et certain q̃ bellissãt uostre</line>
+          </zone>
+          <zone xml:id="f19_z2_l27" type="DefaultLine" subtype="none" n="52" points="1510,2822 1510,2735 2628,2754 2632,2833 2628,2852 1506,2856" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1506,2735,1126,121/full/0/native.jpg">
+            <path xml:id="f19_z2_l27_p" points="1510,2822 2632,2833"/>
+            <line xml:id="f19_z2_l27_t">fẽme seur du roy pepĩ de frãce. laq̃lle</line>
+          </zone>
+          <zone xml:id="f19_z2_l28" type="DefaultLine" subtype="none" n="53" points="1510,2916 1510,2833 2628,2845 2632,2924 2628,2942 1506,2942" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1506,2833,1126,109/full/0/native.jpg">
+            <path xml:id="f19_z2_l28_p" points="1510,2916 2632,2924"/>
+            <line xml:id="f19_z2_l28_t">uoꝰ auez uoulu ca priser et hõnourer</line>
+          </zone>
+          <zone xml:id="f19_z2_l29" type="DefaultLine" subtype="none" n="54" points="1506,3006 1506,2924 2636,2939 2636,3014 2628,3029 1498,3021" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,2924,1138,105/full/0/native.jpg">
+            <path xml:id="f19_z2_l29_p" points="1506,3006 2636,3014"/>
+            <line xml:id="f19_z2_l29_t">q̃ pour fẽme et espouse l auez prise. ne</line>
+          </zone>
+          <zone xml:id="f19_z2_l30" type="DefaultLine" subtype="none" n="55" points="1506,3097 1506,3018 2628,3029 2632,3108 2625,3123 1498,3112" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,3018,1134,105/full/0/native.jpg">
+            <path xml:id="f19_z2_l30_p" points="1506,3097 2632,3108"/>
+            <line xml:id="f19_z2_l30_t">uous tiẽt pas foy ne loyaulte cõme</line>
+          </zone>
+          <zone xml:id="f19_z2_l31" type="DefaultLine" subtype="none" n="56" points="1510,3187 1510,3097 2628,3119 2632,3195 2625,3206 1502,3202" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,3097,1130,109/full/0/native.jpg">
+            <path xml:id="f19_z2_l31_p" points="1510,3187 2632,3195"/>
+            <line xml:id="f19_z2_l31_t">doit. car pour tout uray elle aime au</line>
+          </zone>
+          <zone xml:id="f19_z2_l32" type="DefaultLine" subtype="none" n="57" points="1506,3277 1502,3198 2131,3183 2135,3183 2139,3183 2154,3191 2180,3202 2214,3191 2237,3183 2240,3183 2244,3183 2248,3183 2252,3183 2259,3191 2282,3206 2369,3187 2384,3187 2387,3187 2414,3187 2579,3206 2628,3187 2636,3289 2628,3307 1498,3300" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,3183,1138,124/full/0/native.jpg">
+            <path xml:id="f19_z2_l32_p" points="1506,3277 2636,3289"/>
+            <line xml:id="f19_z2_l32_t">tre q̃ uoꝰ; et q̃lle uoꝰ ẽ desloyalle. mais</line>
+          </zone>
+          <zone xml:id="f19_z2_l33" type="DefaultLine" subtype="none" n="58" points="1514,3371 1510,3281 2628,3292 2636,3364 2632,3390 1514,3394" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1510,3281,1126,113/full/0/native.jpg">
+            <path xml:id="f19_z2_l33_p" points="1514,3371 2636,3364"/>
+            <line xml:id="f19_z2_l33_t">tãt y a q̃ ne ueulx pas mener ne nõ-</line>
+          </zone>
+          <zone xml:id="f19_z2_l34" type="DefaultLine" subtype="none" n="59" points="1514,3462 1514,3387 2632,3387 2632,3462 2632,3481 1514,3481" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1514,3387,1118,94/full/0/native.jpg">
+            <path xml:id="f19_z2_l34_p" points="1514,3462 2632,3462"/>
+            <line xml:id="f19_z2_l34_t">mer celuy qͥ de uostre fẽme fait sa uou</line>
+          </zone>
+          <zone xml:id="f19_z2_l35" type="DefaultLine" subtype="none" n="60" points="1506,3545 1506,3469 2640,3473 2640,3552 2632,3575 1498,3563" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1498,3469,1142,106/full/0/native.jpg">
+            <path xml:id="f19_z2_l35_p" points="1506,3545 2640,3552"/>
+            <line xml:id="f19_z2_l35_t">lẽte. Car uoꝰ scauez q̃ ie suis p̃stre sa</line>
+          </zone>
+          <zone xml:id="f19_z2_l36" type="DefaultLine" subtype="none" n="61" points="1510,3635 1506,3556 2625,3552 2632,3650 2625,3669 1502,3654" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,3552,1130,117/full/0/native.jpg">
+            <path xml:id="f19_z2_l36_p" points="1510,3635 2632,3650"/>
+            <line xml:id="f19_z2_l36_t">cre. il est uray q̃ la uerite de ceste chose</line>
+          </zone>
+          <zone xml:id="f19_z2_l37" type="DefaultLine" subtype="none" n="62" points="1510,3725 1510,3635 2643,3650 2643,3733 2636,3755 1502,3748" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1502,3635,1141,120/full/0/native.jpg">
+            <path xml:id="f19_z2_l37_p" points="1510,3725 2643,3733"/>
+            <line xml:id="f19_z2_l37_t">m est uenue en cõfession sine la doyne</line>
+          </zone>
+          <zone xml:id="f19_z2_l38" type="DefaultLine" subtype="none" n="63" points="1517,3819 1517,3733 2621,3733 2647,3831 2640,3876 2482,3876 2470,3879 2425,3898 2421,3898 2417,3898 2342,3879 2301,3872 2237,3883 2154,3895 2150,3895 2146,3895 2120,3883 2090,3868 1514,3887" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/1514,3733,1133,165/full/0/native.jpg">
+            <path xml:id="f19_z2_l38_p" points="1517,3819 2647,3831"/>
+            <line xml:id="f19_z2_l38_t">ne ueul pas reciter en matere q̃ ie uoꝰ</line>
+          </zone>
+        </zone>
+        <zone xml:id="f19_z3" type="GraphicZone" subtype="none" n="none" points="456,1294 456,2440 1422,2440 1422,1294" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f19/456,1294,966,1146/full/0/native.jpg"/>
+      </surface>
+      <surface xml:id="f23" n="2" ulx="0" uly="0" lrx="3264" lry="4516">
+        <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/full/full/0/native.jpg"/>
+        <zone xml:id="f23_z1" type="MainZone" subtype="none" n="1" points="230,410 234,3849 1396,3849 1396,410" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/230,410,1166,3439/full/0/native.jpg">
+          <zone xml:id="f23_z1_l1" type="DefaultLine" subtype="none" n="1" points="263,492 259,391 1374,395 1381,481 1381,496 263,508" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/259,391,1122,117/full/0/native.jpg">
+            <path xml:id="f23_z1_l1_p" points="267,496 1384,485"/>
+            <line xml:id="f23_z1_l1_t">uillainement dechassee Alors elle cõ</line>
+          </zone>
+          <zone xml:id="f23_z1_l2" type="DefaultLine" subtype="none" n="2" points="259,583 252,508 542,481 545,481 1404,492 1411,568 1415,579 1336,602 1332,602 1328,602 1208,587 1125,605 1121,605 1121,609 259,609" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,481,1163,128/full/0/native.jpg">
+            <path xml:id="f23_z1_l2_p" points="259,583 1411,568"/>
+            <line xml:id="f23_z1_l2_t">sidere le lignage et sang royal dõt el</line>
+          </zone>
+          <zone xml:id="f23_z1_l3" type="DefaultLine" subtype="none" n="3" points="259,677 248,598 880,568 884,568 918,572 978,583 993,572 1001,564 1005,564 1008,564 1012,564 1050,568 1125,579 1185,564 1197,560 1200,560 1204,560 1231,560 1344,575 1381,556 1396,654 1396,677 824,699 820,699 715,684 696,684 688,684 640,703 636,703 632,703 553,688 549,688 448,707 444,707 256,688" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,556,1148,151/full/0/native.jpg">
+            <path xml:id="f23_z1_l3_p" points="259,677 1396,654"/>
+            <line xml:id="f23_z1_l3_t">le estoit partie et yssue. La tres haul</line>
+          </zone>
+          <zone xml:id="f23_z1_l4" type="DefaultLine" subtype="none" n="4" points="267,760 259,684 975,658 978,658 1389,677 1396,752 1396,779 267,786" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/259,658,1137,128/full/0/native.jpg">
+            <path xml:id="f23_z1_l4_p" points="271,763 1399,756"/>
+            <line xml:id="f23_z1_l4_t">te magnificience imperiale ou elle a-</line>
+          </zone>
+          <zone xml:id="f23_z1_l5" type="DefaultLine" subtype="none" n="5" points="263,854 256,779 365,756 368,756 681,767 700,752 700,748 704,748 707,748 711,748 1385,760 1392,835 1389,850 263,869" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/256,748,1136,121/full/0/native.jpg">
+            <path xml:id="f23_z1_l5_p" points="263,854 1392,835"/>
+            <line xml:id="f23_z1_l5_t">uoit este mise. Puis pensa la misera</line>
+          </zone>
+          <zone xml:id="f23_z1_l6" type="DefaultLine" subtype="none" n="6" points="259,940 248,861 1389,846 1400,925 1400,940 259,959" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,846,1152,113/full/0/native.jpg">
+            <path xml:id="f23_z1_l6_p" points="259,940 1400,925"/>
+            <line xml:id="f23_z1_l6_t">ble et dolãte fortune q̃ sur elle estoit</line>
+          </zone>
+          <zone xml:id="f23_z1_l7" type="DefaultLine" subtype="none" n="7" points="263,1034 256,959 448,933 451,933 1385,937 1392,1012 1389,1027 263,1049" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/256,933,1136,116/full/0/native.jpg">
+            <path xml:id="f23_z1_l7_p" points="263,1034 1392,1012"/>
+            <line xml:id="f23_z1_l7_t">si soudainemẽt tournee. Helas he-</line>
+          </zone>
+          <zone xml:id="f23_z1_l8" type="DefaultLine" subtype="none" n="8" points="256,1121 252,1038 798,1038 809,1038 862,1019 865,1019 869,1019 873,1019 877,1019 896,1038 929,1019 933,1019 937,1019 941,1019 993,1038 1005,1038 1020,1038 1136,1016 1140,1016 1389,1038 1396,1110 1392,1125 256,1136" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,1016,1144,120/full/0/native.jpg">
+            <path xml:id="f23_z1_l8_p" points="256,1121 1396,1110"/>
+            <line xml:id="f23_z1_l8_t">las pour quoy tarde la mort q̃lle ne</line>
+          </zone>
+          <zone xml:id="f23_z1_l9" type="DefaultLine" subtype="none" n="9" points="259,1211 248,1140 481,1117 485,1117 843,1129 899,1129 903,1129 922,1110 926,1110 929,1110 933,1110 1389,1121 1396,1192 1392,1208 259,1226" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1110,1148,116/full/0/native.jpg">
+            <path xml:id="f23_z1_l9_p" points="259,1211 1396,1192"/>
+            <line xml:id="f23_z1_l9_t">uient a moy pour ma uie abreger et</line>
+          </zone>
+          <zone xml:id="f23_z1_l10" type="DefaultLine" subtype="none" n="10" points="259,1302 252,1226 470,1226 481,1219 496,1204 500,1204 504,1204 508,1204 602,1215 662,1219 685,1211 715,1200 719,1200 722,1200 801,1208 884,1215 911,1204 929,1196 933,1196 937,1196 1061,1200 1344,1208 1377,1189 1396,1283 1389,1324 256,1320" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,1189,1144,135/full/0/native.jpg">
+            <path xml:id="f23_z1_l10_p" points="259,1302 1396,1283"/>
+            <line xml:id="f23_z1_l10_t">mes angoisses et douleurs afin met</line>
+          </zone>
+          <zone xml:id="f23_z1_l11" type="DefaultLine" subtype="none" n="11" points="259,1396 248,1324 436,1294 440,1294 444,1294 527,1313 673,1290 677,1290 1385,1302 1392,1373 1392,1392 636,1418 632,1418 500,1403 493,1403 489,1403 436,1422 432,1422 429,1422 256,1403" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1290,1144,132/full/0/native.jpg">
+            <path xml:id="f23_z1_l11_p" points="259,1396 1392,1373"/>
+            <line xml:id="f23_z1_l11_t">tre. Las de malleure fus ie nee pour</line>
+          </zone>
+          <zone xml:id="f23_z1_l12" type="DefaultLine" subtype="none" n="12" points="256,1486 244,1407 308,1384 312,1384 316,1384 451,1399 455,1399 700,1377 704,1377 1377,1381 1385,1467 1374,1501 1291,1482 1155,1505 1144,1505 1140,1505 1110,1505 752,1490 715,1509 707,1512 704,1512 700,1512 696,1512 685,1509 636,1494 606,1512 602,1512 598,1512 598,1516 256,1516" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/244,1377,1141,139/full/0/native.jpg">
+            <path xml:id="f23_z1_l12_p" points="256,1486 1385,1467"/>
+            <line xml:id="f23_z1_l12_t">telle peine souffrir Et de sy hault es</line>
+          </zone>
+          <zone xml:id="f23_z1_l13" type="DefaultLine" subtype="none" n="13" points="259,1576 248,1497 1381,1478 1392,1558 1389,1569 259,1603" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1478,1144,125/full/0/native.jpg">
+            <path xml:id="f23_z1_l13_p" points="259,1576 1392,1558"/>
+            <line xml:id="f23_z1_l13_t">tat cheoir en telle pourete. car de tou</line>
+          </zone>
+          <zone xml:id="f23_z1_l14" type="DefaultLine" subtype="none" n="14" points="256,1667 248,1595 357,1569 361,1569 365,1569 425,1588 440,1569 444,1569 444,1565 448,1565 451,1565 455,1565 707,1580 745,1561 749,1561 752,1561 756,1561 760,1561 783,1576 798,1565 798,1561 801,1561 805,1561 809,1561 911,1576 1065,1554 1069,1554 1072,1554 1076,1554 1103,1573 1257,1550 1261,1550 1385,1573 1392,1644 1389,1659 256,1689" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1550,1144,139/full/0/native.jpg">
+            <path xml:id="f23_z1_l14_p" points="256,1667 1392,1644"/>
+            <line xml:id="f23_z1_l14_t">tes les maleureuses ie suis la nõ pas</line>
+          </zone>
+          <zone xml:id="f23_z1_l15" type="DefaultLine" subtype="none" n="15" points="252,1749 240,1674 515,1652 519,1652 1385,1659 1392,1734 1392,1768 252,1772" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/240,1652,1152,120/full/0/native.jpg">
+            <path xml:id="f23_z1_l15_p" points="252,1749 1392,1734"/>
+            <line xml:id="f23_z1_l15_t">reille. Or sont toutes mes ioyes en</line>
+          </zone>
+          <zone xml:id="f23_z1_l16" type="DefaultLine" subtype="none" n="16" points="256,1844 248,1776 530,1746 534,1746 662,1765 685,1746 688,1746 692,1746 696,1746 813,1765 1216,1738 1219,1738 1381,1761 1389,1828 1385,1844 256,1859" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1738,1141,121/full/0/native.jpg">
+            <path xml:id="f23_z1_l16_p" points="256,1844 1389,1828"/>
+            <line xml:id="f23_z1_l16_t">tristresse muees. Mes ris en pleurs</line>
+          </zone>
+          <zone xml:id="f23_z1_l17" type="DefaultLine" subtype="none" n="17" points="252,1930 240,1859 289,1836 293,1836 297,1836 613,1851 1001,1828 1005,1828 1381,1847 1389,1919 1385,1938 252,1949" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/240,1828,1149,121/full/0/native.jpg">
+            <path xml:id="f23_z1_l17_p" points="252,1930 1389,1919"/>
+            <line xml:id="f23_z1_l17_t">changez. mes chans en souspirs con</line>
+          </zone>
+          <zone xml:id="f23_z1_l18" type="DefaultLine" subtype="none" n="18" points="256,2020 248,1949 496,1945 500,1941 523,1923 527,1923 530,1923 534,1923 1385,1923 1392,2005 1392,2024 256,2039" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,1923,1144,116/full/0/native.jpg">
+            <path xml:id="f23_z1_l18_p" points="256,2020 1392,2005"/>
+            <line xml:id="f23_z1_l18_t">uertis. en lieu de robe de drap d or dõt</line>
+          </zone>
+          <zone xml:id="f23_z1_l19" type="DefaultLine" subtype="none" n="19" points="256,2114 248,2035 1377,2017 1389,2096 1389,2111 700,2141 696,2141 493,2126 489,2126 444,2145 440,2145 436,2145 252,2126" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,2017,1141,128/full/0/native.jpg">
+            <path xml:id="f23_z1_l19_p" points="256,2114 1389,2096"/>
+            <line xml:id="f23_z1_l19_t">souloie estre paree. ie suis cõme fem</line>
+          </zone>
+          <zone xml:id="f23_z1_l20" type="DefaultLine" subtype="none" n="20" points="252,2201 240,2130 304,2107 308,2107 312,2107 617,2118 696,2118 1370,2096 1381,2186 1377,2220 252,2235" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/240,2096,1141,139/full/0/native.jpg">
+            <path xml:id="f23_z1_l20_p" points="252,2201 1381,2186"/>
+            <line xml:id="f23_z1_l20_t">me publiq̃. de iniures et uituperez cõ</line>
+          </zone>
+          <zone xml:id="f23_z1_l21" type="DefaultLine" subtype="none" n="21" points="252,2291 244,2220 350,2197 353,2197 598,2212 628,2194 632,2194 636,2194 640,2194 1389,2209 1396,2280 1400,2291 1344,2314 1340,2314 1336,2314 248,2303" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/244,2194,1156,120/full/0/native.jpg">
+            <path xml:id="f23_z1_l21_p" points="252,2291 1396,2280"/>
+            <line xml:id="f23_z1_l21_t">mise et adornee. Et pour pierres pre</line>
+          </zone>
+          <zone xml:id="f23_z1_l22" type="DefaultLine" subtype="none" n="22" points="252,2382 244,2306 632,2280 636,2280 1385,2288 1392,2370 1389,2389 252,2401" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/244,2280,1148,121/full/0/native.jpg">
+            <path xml:id="f23_z1_l22_p" points="252,2382 1392,2370"/>
+            <line xml:id="f23_z1_l22_t">cieuses grosses de ualeur inestima-</line>
+          </zone>
+          <zone xml:id="f23_z1_l23" type="DefaultLine" subtype="none" n="23" points="256,2472 252,2389 1069,2389 1072,2385 1099,2367 1103,2367 1106,2367 1110,2367 1385,2385 1392,2457 1389,2491 256,2506" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,2367,1140,139/full/0/native.jpg">
+            <path xml:id="f23_z1_l23_p" points="256,2472 1392,2457"/>
+            <line xml:id="f23_z1_l23_t">bles de toutes pars me conuient le de</line>
+          </zone>
+          <zone xml:id="f23_z1_l24" type="DefaultLine" subtype="none" n="24" points="256,2566 252,2480 986,2480 997,2476 1099,2457 1103,2457 1385,2476 1392,2551 1392,2562 256,2585" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,2457,1140,128/full/0/native.jpg">
+            <path xml:id="f23_z1_l24_p" points="256,2566 1392,2551"/>
+            <line xml:id="f23_z1_l24_t">mourãt de ma poure uie dolãte semer</line>
+          </zone>
+          <zone xml:id="f23_z1_l25" type="DefaultLine" subtype="none" n="25" points="256,2653 248,2577 353,2555 357,2555 1377,2555 1385,2638 1381,2660 256,2671" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,2555,1137,116/full/0/native.jpg">
+            <path xml:id="f23_z1_l25_p" points="256,2653 1385,2638"/>
+            <line xml:id="f23_z1_l25_t">et couurir mes habis de grosses lar-</line>
+          </zone>
+          <zone xml:id="f23_z1_l26" type="DefaultLine" subtype="none" n="26" points="259,2743 252,2671 628,2641 632,2641 722,2660 737,2660 752,2656 809,2641 813,2641 816,2641 880,2656 911,2660 1377,2645 1389,2732 1385,2750 259,2758" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/252,2641,1137,117/full/0/native.jpg">
+            <path xml:id="f23_z1_l26_p" points="259,2743 1389,2732"/>
+            <line xml:id="f23_z1_l26_t">mes et dueil qͥ mes iours et ma uie</line>
+          </zone>
+          <zone xml:id="f23_z1_l27" type="DefaultLine" subtype="none" n="27" points="256,2833 248,2754 481,2732 485,2732 617,2747 643,2728 647,2728 651,2728 655,2728 1377,2743 1385,2822 1377,2852 252,2848" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,2728,1137,124/full/0/native.jpg">
+            <path xml:id="f23_z1_l27_p" points="256,2833 1385,2822"/>
+            <line xml:id="f23_z1_l27_t">me ferõt finer. O uous pastourelles</line>
+          </zone>
+          <zone xml:id="f23_z1_l28" type="DefaultLine" subtype="none" n="28" points="252,2920 248,2848 357,2826 361,2826 365,2826 368,2826 395,2845 527,2826 530,2826 707,2845 775,2826 779,2826 783,2826 918,2845 1272,2826 1276,2826 1389,2848 1389,2920 1389,2935 286,2957 282,2957 278,2957 274,2957 240,2935" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/240,2826,1149,131/full/0/native.jpg">
+            <path xml:id="f23_z1_l28_p" points="252,2920 1389,2920"/>
+            <line xml:id="f23_z1_l28_t">et bergieres des champs; consideres</line>
+          </zone>
+          <zone xml:id="f23_z1_l29" type="DefaultLine" subtype="none" n="29" points="256,3014 244,2942 316,2920 320,2920 323,2920 1377,2924 1385,3003 1381,3018 256,3029" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/244,2920,1141,109/full/0/native.jpg">
+            <path xml:id="f23_z1_l29_p" points="256,3014 1385,3003"/>
+            <line xml:id="f23_z1_l29_t">ma grant douleur et ploures mõ do-</line>
+          </zone>
+          <zone xml:id="f23_z1_l30" type="DefaultLine" subtype="none" n="30" points="256,3104 240,3025 274,3003 278,3003 282,3003 286,3003 1385,3010 1392,3093 1389,3108 256,3127" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/240,3003,1152,124/full/0/native.jpg">
+            <path xml:id="f23_z1_l30_p" points="256,3104 1392,3093"/>
+            <line xml:id="f23_z1_l30_t">lant exil. Or pleust a dieu q̃ ie fusse</line>
+          </zone>
+          <zone xml:id="f23_z1_l31" type="DefaultLine" subtype="none" n="31" points="259,3191 248,3116 289,3093 293,3093 297,3093 1385,3100 1392,3180 1389,3198 259,3210" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,3093,1144,117/full/0/native.jpg">
+            <path xml:id="f23_z1_l31_p" points="259,3191 1392,3180"/>
+            <line xml:id="f23_z1_l31_t">de aussi basse cõdition et estat descẽ</line>
+          </zone>
+          <zone xml:id="f23_z1_l32" type="DefaultLine" subtype="none" n="32" points="263,3281 244,3213 263,3191 267,3191 267,3187 271,3187 274,3187 278,3187 944,3198 1005,3180 1008,3180 1012,3180 1385,3198 1392,3270 1392,3285 263,3296" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/244,3180,1148,116/full/0/native.jpg">
+            <path xml:id="f23_z1_l32_p" points="263,3281 1392,3270"/>
+            <line xml:id="f23_z1_l32_t">due q̃ la plꝰ poure du mõde. Au moĩs</line>
+          </zone>
+          <zone xml:id="f23_z1_l33" type="DefaultLine" subtype="none" n="33" points="263,3371 263,3285 1389,3289 1389,3371 1389,3387 263,3390" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/263,3285,1126,105/full/0/native.jpg">
+            <path xml:id="f23_z1_l33_p" points="263,3371 1389,3371"/>
+            <line xml:id="f23_z1_l33_t">ie n auroye nul regret de moy ueoir en</line>
+          </zone>
+          <zone xml:id="f23_z1_l34" type="DefaultLine" subtype="none" n="34" points="259,3466 248,3394 316,3371 320,3371 323,3371 576,3387 628,3387 1377,3368 1389,3458 1381,3488 256,3481" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/248,3368,1141,120/full/0/native.jpg">
+            <path xml:id="f23_z1_l34_p" points="259,3466 1389,3458"/>
+            <line xml:id="f23_z1_l34_t">telle pourete Helas pourquoy me a-</line>
+          </zone>
+          <zone xml:id="f23_z1_l35" type="DefaultLine" subtype="none" n="35" points="259,3552 256,3477 1392,3469 1396,3552 1392,3571 256,3567" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/256,3469,1140,102/full/0/native.jpg">
+            <path xml:id="f23_z1_l35_p" points="259,3552 1396,3552"/>
+            <line xml:id="f23_z1_l35_t">lume le soleil et pourquoy me sousti</line>
+          </zone>
+          <zone xml:id="f23_z1_l36" type="DefaultLine" subtype="none" n="36" points="263,3642 256,3556 496,3545 500,3545 560,3556 598,3563 640,3556 715,3545 719,3545 722,3545 771,3560 794,3563 847,3560 1020,3541 1024,3541 1027,3541 1061,3560 1088,3541 1091,3541 1095,3541 1099,3541 1242,3560 1344,3541 1347,3541 1351,3541 1396,3563 1400,3635 1400,3654 1351,3676 1347,3676 1344,3676 1257,3657 1238,3673 1238,3676 1234,3676 1231,3676 1227,3676 903,3657 869,3657 858,3657 752,3680 749,3680 658,3661 655,3661 376,3661 372,3661 357,3676 357,3680 353,3680 350,3680 346,3680 259,3661" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/256,3541,1144,139/full/0/native.jpg">
+            <path xml:id="f23_z1_l36_p" points="263,3642 1400,3635"/>
+            <line xml:id="f23_z1_l36_t">ent la terre. Car ie n ay besoing q̃ de</line>
+          </zone>
+          <zone xml:id="f23_z1_l37" type="DefaultLine" subtype="none" n="37" points="263,3729 263,3642 1400,3657 1400,3729 1396,3759 259,3748" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/259,3642,1141,117/full/0/native.jpg">
+            <path xml:id="f23_z1_l37_p" points="263,3729 1400,3729"/>
+            <line xml:id="f23_z1_l37_t">la fontaine dãgereuse de tristesse et</line>
+          </zone>
+          <zone xml:id="f23_z1_l38" type="DefaultLine" subtype="none" n="38" points="267,3823 256,3740 523,3725 527,3725 530,3725 568,3740 594,3748 617,3740 655,3725 658,3725 662,3725 666,3725 707,3740 734,3748 771,3740 865,3721 869,3721 963,3740 982,3744 997,3740 1065,3721 1069,3721 1072,3721 1076,3721 1080,3721 1103,3740 1110,3744 1389,3744 1400,3816 1392,3895 1140,3887 1110,3895 1072,3906 1069,3906 1065,3906 1061,3906 1012,3895 967,3883 922,3895 858,3906 854,3906 850,3906 847,3906 832,3891 824,3887 670,3887 666,3891 647,3906 647,3910 643,3910 640,3910 640,3913 512,3913 508,3910 504,3910 448,3891 436,3887 425,3891 350,3910 346,3910 342,3910 338,3910 259,3887" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/256,3721,1144,192/full/0/native.jpg">
+            <path xml:id="f23_z1_l38_p" points="267,3823 1400,3816"/>
+            <line xml:id="f23_z1_l38_t">mortelle misere. Pour dõner a mes</line>
+          </zone>
+        </zone>
+        <zone xml:id="f23_z2" type="MainZone" subtype="none" n="2" points="1427,384 1443,3575 2640,3579 2620,384" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1427,384,1213,3195/full/0/native.jpg">
+          <zone xml:id="f23_z2_l1" type="DefaultLine" subtype="none" n="39" points="1449,481 1438,413 1487,387 1490,387 1494,387 1641,406 1667,387 1671,387 1675,387 1679,387 1814,406 1893,387 1897,387 1901,387 2586,402 2593,470 2593,492 1449,511" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1438,387,1155,124/full/0/native.jpg">
+            <path xml:id="f23_z2_l1_p" points="1451,485 2597,474"/>
+            <line xml:id="f23_z2_l1_t">yeulx force et habõdance de larmes.</line>
+          </zone>
+          <zone xml:id="f23_z2_l2" type="DefaultLine" subtype="none" n="40" points="1445,568 1434,500 1502,477 1505,477 1509,477 2593,492 2601,560 2597,579 1445,587" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1434,477,1167,110/full/0/native.jpg">
+            <path xml:id="f23_z2_l2_p" points="1445,568 2601,560"/>
+            <line xml:id="f23_z2_l2_t">Car il n est pas en ma puissance hu</line>
+          </zone>
+          <zone xml:id="f23_z2_l3" type="DefaultLine" subtype="none" n="41" points="1453,658 1449,583 2597,572 2601,658 2601,673 1453,688" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,572,1152,116/full/0/native.jpg">
+            <path xml:id="f23_z2_l3_p" points="1453,658 2601,658"/>
+            <line xml:id="f23_z2_l3_t">maine et corporelle de ma destresse lã</line>
+          </zone>
+          <zone xml:id="f23_z2_l4" type="DefaultLine" subtype="none" n="42" points="1460,752 1449,681 1490,658 1494,658 1498,658 1577,673 1814,654 1818,654 1822,654 1859,669 1867,673 1867,669 1882,658 1882,654 1886,654 1889,654 1893,654 2085,662 2247,669 2270,658 2285,651 2288,651 2292,651 2296,651 2300,651 2304,658 2322,673 2492,673 2563,651 2578,745 2578,767 1460,782" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,651,1129,131/full/0/native.jpg">
+            <path xml:id="f23_z2_l4_p" points="1463,755 2582,748"/>
+            <line xml:id="f23_z2_l4_t">goureuse souffisãment plourer. O</line>
+          </zone>
+          <zone xml:id="f23_z2_l5" type="DefaultLine" subtype="none" n="43" points="1460,831 1456,756 2593,745 2601,839 2597,854 2044,873 2040,873 2036,873 1999,854 1479,869 1475,869 1472,869 1468,869 1468,865 1445,842" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1445,745,1156,128/full/0/native.jpg">
+            <path xml:id="f23_z2_l5_p" points="1460,831 2601,839"/>
+            <line xml:id="f23_z2_l5_t">faulte enuye et trahyson ie te doy biẽ</line>
+          </zone>
+          <zone xml:id="f23_z2_l6" type="DefaultLine" subtype="none" n="44" points="1449,925 1438,858 1464,835 1468,835 1472,835 1475,835 1479,835 1483,835 1509,854 1569,835 1573,835 1577,835 1664,854 1728,835 1731,835 1735,835 1739,835 1788,854 1916,835 1920,835 2507,854 2552,835 2556,835 2560,835 2563,835 2605,858 2601,925 2601,944 1449,944" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1438,835,1167,109/full/0/native.jpg">
+            <path xml:id="f23_z2_l6_p" points="1449,925 2601,925"/>
+            <line xml:id="f23_z2_l6_t">du cueur mauldire. Car par toy ie</line>
+          </zone>
+          <zone xml:id="f23_z2_l7" type="DefaultLine" subtype="none" n="45" points="1456,1016 1441,948 1468,925 1472,925 1475,925 1479,925 2593,937 2601,1008 2601,1023 1456,1038" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1441,925,1160,113/full/0/native.jpg">
+            <path xml:id="f23_z2_l7_p" points="1456,1016 2601,1008"/>
+            <line xml:id="f23_z2_l7_t">suis au iourduy la plus dolente cre-</line>
+          </zone>
+          <zone xml:id="f23_z2_l8" type="DefaultLine" subtype="none" n="46" points="1456,1102 1456,1027 2593,1034 2597,1110 2590,1125 1449,1113" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,1027,1148,98/full/0/native.jpg">
+            <path xml:id="f23_z2_l8_p" points="1456,1102 2597,1110"/>
+            <line xml:id="f23_z2_l8_t">ature qͥ soit uiuant sur la terre. He</line>
+          </zone>
+          <zone xml:id="f23_z2_l9" type="DefaultLine" subtype="none" n="47" points="1453,1196 1453,1125 2593,1125 2593,1196 2593,1211 1453,1219" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1453,1125,1140,94/full/0/native.jpg">
+            <path xml:id="f23_z2_l9_p" points="1453,1196 2593,1196"/>
+            <line xml:id="f23_z2_l9_t">las mon frere roy pepin q̃ ferez uous</line>
+          </zone>
+          <zone xml:id="f23_z2_l10" type="DefaultLine" subtype="none" n="48" points="1449,1287 1445,1211 2593,1192 2597,1287 2597,1305 1449,1305" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1445,1192,1152,113/full/0/native.jpg">
+            <path xml:id="f23_z2_l10_p" points="1449,1287 2597,1287"/>
+            <line xml:id="f23_z2_l10_t">de ceste dolente. Or uous uausist il</line>
+          </zone>
+          <zone xml:id="f23_z2_l11" type="DefaultLine" subtype="none" n="49" points="1456,1377 1445,1305 1502,1283 1505,1283 1509,1283 2586,1294 2593,1369 2590,1399 1456,1399" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1445,1283,1148,116/full/0/native.jpg">
+            <path xml:id="f23_z2_l11_p" points="1456,1377 2593,1369"/>
+            <line xml:id="f23_z2_l11_t">mieulx q̃ oncq̃s sur terre ie n eusse es-</line>
+          </zone>
+          <zone xml:id="f23_z2_l12" type="DefaultLine" subtype="none" n="50" points="1453,1471 1445,1403 1626,1377 1630,1377 1807,1396 1931,1377 1935,1377 1938,1377 1980,1396 2010,1373 2014,1373 2017,1373 2021,1373 2593,1396 2601,1463 2593,1494 1449,1490" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1445,1373,1156,121/full/0/native.jpg">
+            <path xml:id="f23_z2_l12_p" points="1453,1471 2601,1463"/>
+            <line xml:id="f23_z2_l12_t">te enfantee. Ou q̃ du uentre de ma</line>
+          </zone>
+          <zone xml:id="f23_z2_l13" type="DefaultLine" subtype="none" n="51" points="1456,1554 1453,1478 2586,1467 2593,1561 2586,1576 1449,1569" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,1467,1144,109/full/0/native.jpg">
+            <path xml:id="f23_z2_l13_p" points="1456,1554 2593,1561"/>
+            <line xml:id="f23_z2_l13_t">mere ie eusse este en terre boutee En</line>
+          </zone>
+          <zone xml:id="f23_z2_l14" type="DefaultLine" subtype="none" n="52" points="1456,1644 1456,1569 2593,1576 2597,1652 2593,1667 1453,1667" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1453,1569,1144,98/full/0/native.jpg">
+            <path xml:id="f23_z2_l14_p" points="1456,1644 2597,1652"/>
+            <line xml:id="f23_z2_l14_t">faisant ceste dure cõplainte la dame</line>
+          </zone>
+          <zone xml:id="f23_z2_l15" type="DefaultLine" subtype="none" n="53" points="1460,1738 1460,1655 1852,1667 1874,1659 1901,1648 1904,1648 1908,1648 1972,1659 2006,1667 2021,1659 2051,1648 2055,1648 2059,1648 2063,1648 2104,1663 2115,1667 2119,1663 2134,1652 2134,1648 2138,1648 2142,1648 2145,1648 2311,1648 2315,1648 2383,1667 2390,1667 2394,1667 2420,1648 2424,1648 2428,1648 2432,1648 2597,1670 2597,1738 2593,1757 1456,1753" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,1648,1141,109/full/0/native.jpg">
+            <path xml:id="f23_z2_l15_p" points="1460,1738 2597,1738"/>
+            <line xml:id="f23_z2_l15_t">demoura pasmee sur le cheual; et a</line>
+          </zone>
+          <zone xml:id="f23_z2_l16" type="DefaultLine" subtype="none" n="54" points="1456,1828 1456,1742 2593,1749 2593,1828 2593,1847 1456,1859" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,1742,1137,117/full/0/native.jpg">
+            <path xml:id="f23_z2_l16_p" points="1456,1828 2593,1828"/>
+            <line xml:id="f23_z2_l16_t">terre fust tõbee Quand blandimain</line>
+          </zone>
+          <zone xml:id="f23_z2_l17" type="DefaultLine" subtype="none" n="55" points="1460,1923 1445,1855 1472,1828 1472,1825 1475,1825 1479,1825 1483,1825 1577,1844 1675,1825 1679,1825 1867,1840 1912,1844 1920,1840 1942,1825 1946,1825 1950,1825 1953,1825 1957,1825 1961,1825 1961,1828 1972,1836 1976,1844 1987,1836 2014,1825 2017,1825 2021,1825 2217,1832 2507,1840 2578,1821 2593,1915 2590,1934 1460,1949" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1445,1821,1148,128/full/0/native.jpg">
+            <path xml:id="f23_z2_l17_p" points="1460,1923 2593,1915"/>
+            <line xml:id="f23_z2_l17_t">s aprocha pour le soustenir. helas dist</line>
+          </zone>
+          <zone xml:id="f23_z2_l18" type="DefaultLine" subtype="none" n="56" points="1460,2009 1460,1934 2590,1941 2593,2017 2586,2028 1453,2020" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1453,1934,1140,94/full/0/native.jpg">
+            <path xml:id="f23_z2_l18_p" points="1460,2009 2593,2017"/>
+            <line xml:id="f23_z2_l18_t">il madame prenez en uoꝰ cõfort et ne</line>
+          </zone>
+          <zone xml:id="f23_z2_l19" type="DefaultLine" subtype="none" n="57" points="1460,2096 1460,2013 1573,2020 1600,2009 1630,1998 1633,1998 1637,1998 1641,1998 1645,1998 1645,2002 1656,2009 1667,2024 2032,2024 2145,2005 2183,2002 2187,2002 2191,2002 2194,2002 2198,2005 2221,2020 2240,2005 2243,2005 2247,2005 2251,2005 2255,2005 2258,2005 2288,2032 2375,2032 2401,2005 2405,2005 2409,2005 2413,2005 2586,2005 2590,2107 2586,2118 1456,2126" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,1998,1134,128/full/0/native.jpg">
+            <path xml:id="f23_z2_l19_p" points="1460,2096 2590,2107"/>
+            <line xml:id="f23_z2_l19_t">ueullez entrer en tel desespoir. Ayez</line>
+          </zone>
+          <zone xml:id="f23_z2_l20" type="DefaultLine" subtype="none" n="58" points="1464,2190 1456,2114 1502,2096 1505,2096 1509,2096 1513,2096 1517,2096 1536,2111 1539,2118 1675,2118 1694,2111 1750,2092 1754,2092 1758,2092 1852,2107 1901,2114 1912,2107 1927,2092 1931,2092 1935,2092 1938,2092 1942,2092 1946,2092 1946,2096 1957,2103 1968,2114 2063,2103 2134,2096 2138,2096 2172,2099 2251,2118 2281,2099 2285,2096 2288,2096 2292,2096 2296,2096 2300,2096 2304,2096 2304,2099 2322,2118 2360,2099 2368,2096 2371,2096 2375,2096 2379,2096 2383,2096 2413,2118 2582,2096 2590,2197 2582,2224 1456,2220" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,2092,1134,132/full/0/native.jpg">
+            <path xml:id="f23_z2_l20_p" points="1464,2190 2590,2197"/>
+            <line xml:id="f23_z2_l20_t">ferme fiãce en dieu Et aĩsy cõme uoꝰ</line>
+          </zone>
+          <zone xml:id="f23_z2_l21" type="DefaultLine" subtype="none" n="59" points="1453,2284 1449,2209 2593,2197 2597,2284 2597,2303 1453,2306" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,2197,1148,109/full/0/native.jpg">
+            <path xml:id="f23_z2_l21_p" points="1453,2284 2597,2284"/>
+            <line xml:id="f23_z2_l21_t">estes innocente sachez qͥl uoꝰ cõforte-</line>
+          </zone>
+          <zone xml:id="f23_z2_l22" type="DefaultLine" subtype="none" n="60" points="1460,2367 1456,2291 2590,2288 2597,2374 2593,2393 1456,2393" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,2288,1141,105/full/0/native.jpg">
+            <path xml:id="f23_z2_l22_p" points="1460,2367 2597,2374"/>
+            <line xml:id="f23_z2_l22_t">ra et uostre bon droit gardera. A dõt</line>
+          </zone>
+          <zone xml:id="f23_z2_l23" type="DefaultLine" subtype="none" n="61" points="1456,2461 1456,2382 1968,2385 1972,2385 2006,2367 2010,2367 2014,2367 2356,2389 2383,2389 2390,2389 2484,2370 2488,2370 2590,2393 2593,2468 2586,2483 1449,2476" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,2367,1144,116/full/0/native.jpg">
+            <path xml:id="f23_z2_l23_p" points="1456,2461 2593,2468"/>
+            <line xml:id="f23_z2_l23_t">il auisa une moult belle fõtaine uers</line>
+          </zone>
+          <zone xml:id="f23_z2_l24" type="DefaultLine" subtype="none" n="62" points="1460,2547 1460,2472 2590,2487 2593,2562 2586,2596 1453,2574" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1453,2472,1140,124/full/0/native.jpg">
+            <path xml:id="f23_z2_l24_p" points="1460,2547 2593,2562"/>
+            <line xml:id="f23_z2_l24_t">laquelle il mena sa dame et au plus</line>
+          </zone>
+          <zone xml:id="f23_z2_l25" type="DefaultLine" subtype="none" n="63" points="1468,2641 1464,2566 2213,2555 2217,2555 2590,2577 2593,2653 2593,2664 2522,2687 2518,2687 2514,2687 2511,2687 2458,2668 2266,2687 2262,2687 2258,2687 2194,2668 2176,2664 2157,2668 2104,2683 2100,2683 2100,2687 1901,2687 1897,2683 1893,2683 1856,2671 1825,2660 1803,2671 1788,2679 1784,2679 1780,2679 1460,2671" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1460,2555,1133,132/full/0/native.jpg">
+            <path xml:id="f23_z2_l25_p" points="1468,2641 2593,2653"/>
+            <line xml:id="f23_z2_l25_t">pres la fist assoir pour ung peu repo</line>
+          </zone>
+          <zone xml:id="f23_z2_l26" type="DefaultLine" subtype="none" n="64" points="1464,2739 1464,2668 2593,2671 2593,2739 2590,2773 1460,2754" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1460,2668,1133,105/full/0/native.jpg">
+            <path xml:id="f23_z2_l26_p" points="1464,2739 2593,2739"/>
+            <line xml:id="f23_z2_l26_t">ser et reprendre courage. Sy uous</line>
+          </zone>
+          <zone xml:id="f23_z2_l27" type="DefaultLine" subtype="none" n="65" points="1456,2826 1456,2739 2379,2754 2386,2754 2435,2735 2439,2735 2443,2735 2582,2758 2586,2833 2578,2863 1852,2845 1769,2848 1490,2863 1487,2863 1483,2863 1479,2863 1441,2841" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1441,2735,1145,128/full/0/native.jpg">
+            <path xml:id="f23_z2_l27_p" points="1456,2826 2586,2833"/>
+            <line xml:id="f23_z2_l27_t">laisseray a parler d eulx et parleray</line>
+          </zone>
+          <zone xml:id="f23_z2_l28" type="DefaultLine" subtype="none" n="66" points="1460,2916 1460,2833 2586,2833 2590,2927 2586,2942 1859,2957 1856,2957 1453,2931" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1453,2833,1137,124/full/0/native.jpg">
+            <path xml:id="f23_z2_l28_p" points="1460,2916 2590,2927"/>
+            <line xml:id="f23_z2_l28_t">de l archeuesque qͥ fut perseuerãt en</line>
+          </zone>
+          <zone xml:id="f23_z2_l29" type="DefaultLine" subtype="none" n="67" points="1468,3014 1460,2927 1780,2916 1784,2916 1788,2916 1837,2931 1867,2939 1878,2931 1893,2916 1897,2916 1901,2916 1991,2912 1995,2912 1999,2912 2002,2912 2025,2931 2029,2935 2040,2931 2112,2912 2115,2912 2119,2912 2123,2912 2187,2935 2191,2935 2209,2916 2209,2912 2213,2912 2217,2912 2221,2912 2477,2939 2484,3006 2484,3033 2390,3055 2386,3055 2130,3044 2032,3040 2006,3048 1965,3059 1961,3059 1961,3063 1468,3063" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1460,2912,1024,151/full/0/native.jpg">
+            <path xml:id="f23_z2_l29_p" points="1468,3014 2484,3006"/>
+            <line xml:id="f23_z2_l29_t">sa malice dãnable et diabolique.</line>
+          </zone>
+          <zone xml:id="f23_z2_l30" type="HeadingLine" subtype="none" n="68" points="1543,3281 1539,3210 2586,3195 2590,3281 2590,3296 1543,3300" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1539,3195,1051,105/full/0/native.jpg">
+            <path xml:id="f23_z2_l30_p" points="1543,3281 2590,3281"/>
+            <line xml:id="f23_z2_l30_t">Comme l archeuesque se mist</line>
+          </zone>
+          <zone xml:id="f23_z2_l31" type="HeadingLine" subtype="none" n="69" points="1460,3371 1456,3296 1897,3277 1901,3277 1995,3296 1999,3296 2002,3296 2070,3277 2074,3277 2078,3277 2081,3277 2119,3296 2123,3300 2432,3300 2473,3300 2507,3277 2511,3277 2514,3277 2518,3277 2522,3277 2597,3300 2593,3371 2593,3398 1460,3398" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1456,3277,1141,121/full/0/native.jpg">
+            <path xml:id="f23_z2_l31_p" points="1460,3371 2593,3371"/>
+            <line xml:id="f23_z2_l31_t">en habit de cheualier et monta a che</line>
+          </zone>
+          <zone xml:id="f23_z2_l32" type="HeadingLine" subtype="none" n="70" points="1468,3466 1460,3390 1577,3368 1581,3368 1950,3383 2021,3364 2025,3364 2029,3364 2582,3383 2590,3458 2582,3507 2492,3484 2447,3507 2435,3511 2432,3511 2428,3511 2424,3511 2409,3503 2360,3484 2221,3484 2164,3499 2104,3518 2100,3518 1773,3522 1769,3522 1765,3522 1697,3492 1690,3488 1675,3488 1539,3511 1536,3511 1532,3511 1460,3484" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1460,3364,1130,158/full/0/native.jpg">
+            <path xml:id="f23_z2_l32_p" points="1468,3466 2590,3458"/>
+            <line xml:id="f23_z2_l32_t">ual pour suiuye bellissant qui estoit</line>
+          </zone>
+          <zone xml:id="f23_z2_l33" type="HeadingLine" subtype="none" n="71" points="1460,3552 1456,3484 1664,3469 1667,3469 1667,3469 1667,3469 1792,3492 1795,3556 1792,3597 1536,3616 1532,3616 1532,3616 1532,3616 1528,3616 1449,3593" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/1449,3469,346,147/full/0/native.jpg">
+            <path xml:id="f23_z2_l33_p" points="1464,3556 1799,3557"/>
+            <line xml:id="f23_z2_l33_t">bannye.</line>
+          </zone>
+          <zone xml:id="f23_z2_l34" type="HeadingLine" subtype="none" n="72" points="2115,3537 2112,3473 2228,3454 2228,3454 2232,3454 2232,3454 2232,3454 2236,3454 2236,3454 2236,3454 2277,3477 2281,3477 2288,3477 2360,3458 2364,3458 2364,3458 2368,3458 2368,3458 2368,3458 2371,3458 2371,3458 2371,3458 2375,3458 2375,3458 2375,3462 2394,3477 2484,3462 2484,3462 2488,3462 2488,3462 2488,3462 2582,3484 2582,3548 2575,3699 2401,3695 2401,3695 2401,3695 2398,3695 2398,3695 2398,3695 2394,3695 2394,3695 2349,3654 2304,3616 2209,3627 2187,3627 2187,3627 2183,3627 2183,3627 2179,3627 2104,3605" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/2104,3454,478,245/full/0/native.jpg">
+            <path xml:id="f23_z2_l34_p" points="2119,3541 2584,3550"/>
+            <line xml:id="f23_z2_l34_t">. iiii.chapitre.</line>
+          </zone>
+        </zone>
+        <zone xml:id="f23_z3" type="QuireMarksZone" subtype="none" n="none" points="2501,3584 2501,3687 2342,3687 2342,3584" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/2342,3584,159,103/full/0/native.jpg">
+          <zone xml:id="f23_z3_l1" type="HeadingLine" subtype="none" n="73" points="2360,3646 2349,3567 2465,3560 2477,3639 2477,3691 2360,3695" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f23/2349,3560,128,135/full/0/native.jpg">
+            <path xml:id="f23_z3_l1_p" points="2360,3646 2477,3639"/>
+            <line xml:id="f23_z3_l1_t">ui</line>
+          </zone>
+        </zone>
+      </surface>
+      <surface xml:id="f24" n="3" ulx="0" uly="0" lrx="3424" lry="4652">
+        <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/full/full/0/native.jpg"/>
+        <zone xml:id="f24_z1" type="MainZone" subtype="none" n="1" points="718,443 714,3950 1872,3950 1867,3214 1895,456" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/714,443,1181,3507/full/0/native.jpg">
+          <zone xml:id="f24_z1_l1" type="DefaultLine" subtype="none" n="1" points="1012,1825 1012,1713 1136,1740 1229,1721 1252,1717 1256,1717 1260,1717 1279,1721 1333,1740 1364,1725 1384,1717 1388,1717 1392,1717 1395,1717 1419,1728 1450,1744 1485,1732 1512,1721 1516,1721 1520,1721 1585,1736 1609,1740 1624,1736 1671,1721 1675,1721 1679,1721 1682,1721 1686,1721 1710,1740 1713,1744 1729,1740 1826,1721 1830,1721 1834,1721 1884,1748 1884,1833 1880,1845 1008,1849" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1008,1713,876,136/full/0/native.jpg">
+            <path xml:id="f24_z1_l1_p" points="1012,1825 1884,1833"/>
+            <line xml:id="f24_z1_l1_t">Uant l archeuesq̃ uit que la</line>
+          </zone>
+          <zone xml:id="f24_z1_l2" type="DropCapitalLine" subtype="none" n="2" points="760,1926 760,1845 822,1845 822,1926 822,1946 760,1953" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/760,1845,62,108/full/0/native.jpg">
+            <path xml:id="f24_z1_l2_p" points="763,1930 825,1930"/>
+            <line xml:id="f24_z1_l2_t">q</line>
+          </zone>
+          <zone xml:id="f24_z1_l3" type="DefaultLine" subtype="none" n="3" points="1004,1922 988,1849 1012,1825 1012,1822 1015,1822 1019,1822 1023,1822 1434,1841 1585,1841 1605,1822 1605,1818 1609,1818 1613,1818 1616,1818 1876,1841 1884,1915 1876,1938 1000,1934" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/988,1818,896,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l3_p" points="1004,1922 1884,1915"/>
+            <line xml:id="f24_z1_l3_t">dame estoit partie il se pẽsa</line>
+          </zone>
+          <zone xml:id="f24_z1_l4" type="DefaultLine" subtype="none" n="4" points="1012,2011 1012,1915 1430,1930 1438,1922 1450,1915 1450,1911 1454,1911 1458,1911 1461,1911 1682,1911 1686,1911 1729,1930 1733,1930 1775,1911 1779,1911 1783,1911 1888,1934 1888,2011 1888,2031 1012,2031" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1012,1911,876,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l4_p" points="1012,2011 1888,2011"/>
+            <line xml:id="f24_z1_l4_t">qͥl yroit ap̃s et q̃ d elle il fe-</line>
+          </zone>
+          <zone xml:id="f24_z1_l5" type="DefaultLine" subtype="none" n="5" points="729,2105 717,2035 825,2004 829,2004 833,2004 1244,2027 1287,2000 1291,2000 1295,2000 1299,2000 1302,2000 1364,2019 1423,2000 1426,2000 1430,2000 1547,2023 1601,2000 1605,2000 1609,2000 1613,2000 1616,2000 1651,2027 1869,2027 1876,2097 1872,2116 729,2120" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/717,2000,1159,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l5_p" points="729,2105 1876,2097"/>
+            <line xml:id="f24_z1_l5_t">reoit sa uoulente. Il laisa rochet et au</line>
+          </zone>
+          <zone xml:id="f24_z1_l6" type="DefaultLine" subtype="none" n="6" points="732,2190 729,2112 1093,2093 1097,2093 1101,2093 1105,2093 1136,2112 1202,2093 1205,2093 1209,2093 1213,2093 1291,2112 1302,2116 1314,2116 1380,2097 1384,2097 1388,2097 1872,2120 1876,2198 1869,2209 729,2201" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/729,2093,1147,116/full/0/native.jpg">
+            <path xml:id="f24_z1_l6_p" points="732,2190 1876,2198"/>
+            <line xml:id="f24_z1_l6_t">musce et cõme irregulier et apostat a</line>
+          </zone>
+          <zone xml:id="f24_z1_l7" type="DefaultLine" subtype="none" n="7" points="732,2279 732,2198 1872,2205 1876,2287 1869,2298 725,2294" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/725,2198,1151,100/full/0/native.jpg">
+            <path xml:id="f24_z1_l7_p" points="732,2279 1876,2287"/>
+            <line xml:id="f24_z1_l7_t">sainte son espee et mõte a cheual. Et</line>
+          </zone>
+          <zone xml:id="f24_z1_l8" type="DefaultLine" subtype="none" n="8" points="732,2372 732,2291 1872,2298 1876,2380 1872,2391 729,2391" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/729,2291,1147,100/full/0/native.jpg">
+            <path xml:id="f24_z1_l8_p" points="732,2372 1876,2380"/>
+            <line xml:id="f24_z1_l8_t">frappe des esperõs. car il estoit mõte</line>
+          </zone>
+          <zone xml:id="f24_z1_l9" type="DefaultLine" subtype="none" n="9" points="729,2465 725,2384 1252,2364 1256,2364 1869,2391 1872,2473 1865,2488 725,2477" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/725,2364,1147,124/full/0/native.jpg">
+            <path xml:id="f24_z1_l9_p" points="729,2465 1872,2473"/>
+            <line xml:id="f24_z1_l9_t">a l auantage. Et tãt q̃ en peu de tẽps</line>
+          </zone>
+          <zone xml:id="f24_z1_l10" type="DefaultLine" subtype="none" n="10" points="732,2558 725,2481 775,2457 779,2457 783,2457 895,2477 1004,2457 1008,2457 1012,2457 1062,2477 1143,2457 1147,2457 1151,2457 1155,2457 1205,2477 1225,2461 1225,2457 1229,2457 1233,2457 1236,2457 1240,2457 1310,2477 1368,2457 1372,2457 1376,2457 1876,2481 1876,2558 1876,2577 732,2577" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/725,2457,1151,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l10_p" points="732,2558 1876,2558"/>
+            <line xml:id="f24_z1_l10_t">il fit grãt foison de chemin il deman-</line>
+          </zone>
+          <zone xml:id="f24_z1_l11" type="DefaultLine" subtype="none" n="11" points="729,2640 729,2558 1869,2574 1872,2651 1865,2663 721,2651" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/721,2558,1151,105/full/0/native.jpg">
+            <path xml:id="f24_z1_l11_p" points="729,2640 1872,2651"/>
+            <line xml:id="f24_z1_l11_t">doit a ceulx qͥ rencõtroit nounelle de</line>
+          </zone>
+          <zone xml:id="f24_z1_l12" type="DefaultLine" subtype="none" n="12" points="725,2733 725,2647 1865,2659 1869,2744 1861,2767 717,2744" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/717,2647,1152,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l12_p" points="725,2733 1869,2744"/>
+            <line xml:id="f24_z1_l12_t">la dame. Et on luy disoit le chemin</line>
+          </zone>
+          <zone xml:id="f24_z1_l13" type="DefaultLine" subtype="none" n="13" points="725,2826 721,2744 1268,2725 1271,2725 1275,2725 1279,2725 1279,2729 1283,2729 1299,2748 1337,2729 1341,2729 1345,2729 1349,2729 1353,2729 1376,2748 1380,2748 1399,2748 1558,2729 1562,2729 1857,2752 1861,2833 1853,2860 717,2841" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/717,2725,1144,135/full/0/native.jpg">
+            <path xml:id="f24_z1_l13_p" points="725,2826 1861,2833"/>
+            <line xml:id="f24_z1_l13_t">q̃lle tenoit. Tant cheuaucha le tray</line>
+          </zone>
+          <zone xml:id="f24_z1_l14" type="DefaultLine" subtype="none" n="14" points="729,2919 729,2845 1861,2845 1861,2919 1861,2942 729,2942" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/729,2845,1132,97/full/0/native.jpg">
+            <path xml:id="f24_z1_l14_p" points="729,2919 1861,2919"/>
+            <line xml:id="f24_z1_l14_t">tre qͥl entra en une forez moult lõn-</line>
+          </zone>
+          <zone xml:id="f24_z1_l15" type="DefaultLine" subtype="none" n="15" points="709,3019 701,2938 833,2911 837,2911 1240,2911 1244,2911 1248,2911 1248,2915 1264,2926 1268,2930 1295,2926 1415,2907 1419,2907 1500,2923 1527,2926 1853,2919 1865,3012 1865,3035 1438,3047 1434,3047 1399,3043 1283,3027 1062,3047 1012,3050 1008,3050 1004,3050 1000,3050 1000,3047 981,3031 818,3031 709,3050" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/701,2907,1164,143/full/0/native.jpg">
+            <path xml:id="f24_z1_l15_p" points="709,3019 1865,3012"/>
+            <line xml:id="f24_z1_l15_t">gue et large. le grant chemin prist et</line>
+          </zone>
+          <zone xml:id="f24_z1_l16" type="DefaultLine" subtype="none" n="16" points="721,3105 721,3027 1865,3027 1865,3105 1865,3116 721,3124" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/721,3027,1144,97/full/0/native.jpg">
+            <path xml:id="f24_z1_l16_p" points="721,3105 1865,3105"/>
+            <line xml:id="f24_z1_l16_t">s efforca d aler. Si n eut gaires che-</line>
+          </zone>
+          <zone xml:id="f24_z1_l17" type="DefaultLine" subtype="none" n="17" points="721,3182 721,3109 1853,3124 1857,3198 1849,3209 713,3194" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/713,3109,1144,100/full/0/native.jpg">
+            <path xml:id="f24_z1_l17_p" points="721,3182 1857,3198"/>
+            <line xml:id="f24_z1_l17_t">uaulche que il aperceut la dame auec</line>
+          </zone>
+          <zone xml:id="f24_z1_l18" type="DefaultLine" subtype="none" n="18" points="717,3279 713,3198 1845,3190 1853,3291 1845,3302 709,3291" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/709,3190,1144,112/full/0/native.jpg">
+            <path xml:id="f24_z1_l18_p" points="717,3279 1853,3291"/>
+            <line xml:id="f24_z1_l18_t">blandimain. qͥ estoit au pres de la fõ</line>
+          </zone>
+          <zone xml:id="f24_z1_l19" type="DefaultLine" subtype="none" n="19" points="717,3372 713,3291 1116,3271 1120,3271 1248,3291 1275,3271 1279,3271 1283,3271 1287,3271 1419,3295 1434,3295 1454,3295 1609,3275 1613,3275 1853,3299 1857,3380 1849,3388 713,3384" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/713,3271,1144,117/full/0/native.jpg">
+            <path xml:id="f24_z1_l19_p" points="717,3372 1857,3380"/>
+            <line xml:id="f24_z1_l19_t">taine ou la dame s y estoit descendue</line>
+          </zone>
+          <zone xml:id="f24_z1_l20" type="DefaultLine" subtype="none" n="20" points="713,3461 713,3361 1849,3372 1853,3473 1849,3485 709,3489" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/709,3361,1144,128/full/0/native.jpg">
+            <path xml:id="f24_z1_l20_p" points="713,3461 1853,3473"/>
+            <line xml:id="f24_z1_l20_t">opur soy rafreschir et ung petit repo</line>
+          </zone>
+          <zone xml:id="f24_z1_l21" type="DefaultLine" subtype="none" n="21" points="713,3551 709,3469 1853,3461 1857,3566 1853,3574 1744,3597 1741,3597 1539,3593 1535,3593 1531,3593 1531,3589 1516,3578 1512,3574 1485,3578 1349,3593 1345,3593 1240,3578 1186,3570 1155,3578 1112,3589 1109,3589 1105,3589 1046,3578 984,3566 709,3578" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/709,3461,1148,136/full/0/native.jpg">
+            <path xml:id="f24_z1_l21_p" points="713,3551 1857,3566"/>
+            <line xml:id="f24_z1_l21_t">ser. Car lassee et pesante estoit plai</line>
+          </zone>
+          <zone xml:id="f24_z1_l22" type="DefaultLine" subtype="none" n="22" points="705,3644 701,3566 950,3547 953,3547 1155,3558 1314,3570 1361,3558 1388,3551 1392,3551 1395,3551 1399,3551 1419,3558 1465,3574 1485,3558 1485,3554 1489,3554 1492,3554 1496,3554 1539,3554 1764,3574 1834,3554 1845,3655 1838,3671 697,3659" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/697,3547,1148,124/full/0/native.jpg">
+            <path xml:id="f24_z1_l22_p" points="705,3644 1845,3655"/>
+            <line xml:id="f24_z1_l22_t">ne de plours et gemissemẽs. de la des</line>
+          </zone>
+          <zone xml:id="f24_z1_l23" type="DefaultLine" subtype="none" n="23" points="709,3744 705,3655 1849,3647 1853,3744 1853,3771 709,3771" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/705,3647,1148,124/full/0/native.jpg">
+            <path xml:id="f24_z1_l23_p" points="709,3744 1853,3744"/>
+            <line xml:id="f24_z1_l23_t">tresse et courroux tres amere q̃lle suos</line>
+          </zone>
+          <zone xml:id="f24_z1_l24" type="DefaultLine" subtype="none" n="24" points="705,3830 701,3752 1077,3733 1081,3733 1085,3733 1089,3733 1109,3748 1128,3733 1132,3733 1136,3733 1140,3733 1143,3733 1147,3733 1147,3737 1167,3752 1384,3737 1388,3737 1520,3756 1523,3756 1543,3740 1543,3737 1547,3737 1551,3737 1554,3737 1756,3737 1760,3737 1849,3760 1849,3837 1845,3849 701,3853" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/701,3733,1148,120/full/0/native.jpg">
+            <path xml:id="f24_z1_l24_p" points="705,3830 1849,3837"/>
+            <line xml:id="f24_z1_l24_t">tenoit sur son cueur. dame dist blan</line>
+          </zone>
+          <zone xml:id="f24_z1_l25" type="DefaultLine" subtype="none" n="25" points="705,3919 705,3826 1838,3826 1841,3930 1834,3969 1690,3958 1659,3973 1624,3989 1620,3989 1616,3989 1613,3989 1609,3989 1585,3973 1574,3961 1372,3954 1260,3973 1190,3985 1186,3985 1182,3985 1147,3973 1085,3954 1015,3973 1012,3973 1008,3973 1004,3973 953,3958 934,3973 930,3977 930,3981 926,3981 922,3981 919,3981 697,3973" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/697,3826,1144,163/full/0/native.jpg">
+            <path xml:id="f24_z1_l25_p" points="705,3919 1841,3930"/>
+            <line xml:id="f24_z1_l25_t">dimain resconfortez uoꝰ. L archeuesq̃</line>
+          </zone>
+        </zone>
+        <zone xml:id="f24_z2" type="MainZone" subtype="none" n="2" points="1959,480 1905,3987 2614,4001 3091,4001 3165,484" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1905,480,1260,3521/full/0/native.jpg">
+          <zone xml:id="f24_z2_l1" type="DefaultLine" subtype="none" n="26" points="1985,565 1985,472 3148,492 3152,577 3144,600 1977,581" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1977,472,1175,128/full/0/native.jpg">
+            <path xml:id="f24_z2_l1_p" points="1985,565 3152,577"/>
+            <line xml:id="f24_z2_l1_t">tira uers eulx et auisa la belle bellis-</line>
+          </zone>
+          <zone xml:id="f24_z2_l2" type="DefaultLine" subtype="none" n="27" points="1989,659 1989,577 3140,593 3144,678 3137,690 1981,678" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1981,577,1163,113/full/0/native.jpg">
+            <path xml:id="f24_z2_l2_p" points="1989,659 3144,678"/>
+            <line xml:id="f24_z2_l2_t">sant. Mais elle ne le recogneut poĩt</line>
+          </zone>
+          <zone xml:id="f24_z2_l3" type="DefaultLine" subtype="none" n="28" points="1989,748 1989,666 3133,678 3137,767 3129,783 1981,767" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1981,666,1156,117/full/0/native.jpg">
+            <path xml:id="f24_z2_l3_p" points="1989,748 3137,767"/>
+            <line xml:id="f24_z2_l3_t">de loing pour ce qͥl prtoit habit dissi</line>
+          </zone>
+          <zone xml:id="f24_z2_l4" type="DefaultLine" subtype="none" n="29" points="1981,837 1981,759 3140,779 3140,856 3133,872 1973,852" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1973,759,1167,113/full/0/native.jpg">
+            <path xml:id="f24_z2_l4_p" points="1981,837 3140,856"/>
+            <line xml:id="f24_z2_l4_t">mule. mais quãt il approcha a bien le</line>
+          </zone>
+          <zone xml:id="f24_z2_l5" type="DefaultLine" subtype="none" n="30" points="1981,926 1981,848 3129,872 3133,949 3125,961 1973,938" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1973,848,1160,113/full/0/native.jpg">
+            <path xml:id="f24_z2_l5_p" points="1981,926 3133,949"/>
+            <line xml:id="f24_z2_l5_t">cogneust. helas dit elle blandimain.</line>
+          </zone>
+          <zone xml:id="f24_z2_l6" type="DefaultLine" subtype="none" n="31" points="1981,1019 1981,934 2229,942 2241,938 2283,922 2287,922 2291,922 2419,942 2442,945 2454,942 2508,926 2512,926 2516,926 2520,926 2524,926 2555,945 2567,953 2694,953 2698,949 2737,930 2741,930 2745,930 2749,930 2753,930 2788,953 2791,953 2826,953 3040,938 3043,938 3047,938 3133,961 3133,1042 3125,1054 1973,1035" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1973,922,1160,132/full/0/native.jpg">
+            <path xml:id="f24_z2_l6_p" points="1981,1019 3133,1042"/>
+            <line xml:id="f24_z2_l6_t">Or uoy ie uenir uers noꝰ le faulx hõe</line>
+          </zone>
+          <zone xml:id="f24_z2_l7" type="DefaultLine" subtype="none" n="32" points="1981,1112 1981,1031 3125,1050 3129,1131 3125,1143 2671,1159 2667,1159 1973,1124" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1973,1031,1156,128/full/0/native.jpg">
+            <path xml:id="f24_z2_l7_p" points="1981,1112 3129,1131"/>
+            <line xml:id="f24_z2_l7_t">archeuesq̃ qͥ de mon exil est cause. las</line>
+          </zone>
+          <zone xml:id="f24_z2_l8" type="DefaultLine" subtype="none" n="33" points="1977,1205 1977,1128 3121,1135 3125,1217 3117,1228 1969,1217" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1969,1128,1156,100/full/0/native.jpg">
+            <path xml:id="f24_z2_l8_p" points="1977,1205 3125,1217"/>
+            <line xml:id="f24_z2_l8_t">i ay trop grant paour qͥl ne me ueulle</line>
+          </zone>
+          <zone xml:id="f24_z2_l9" type="DefaultLine" subtype="none" n="34" points="1977,1290 1977,1213 3117,1232 3121,1310 3113,1321 1969,1314" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1969,1213,1152,108/full/0/native.jpg">
+            <path xml:id="f24_z2_l9_p" points="1977,1290 3121,1310"/>
+            <line xml:id="f24_z2_l9_t">faire uillẽnie. Dame dit blãdimain</line>
+          </zone>
+          <zone xml:id="f24_z2_l10" type="DefaultLine" subtype="none" n="35" points="1969,1383 1969,1310 3121,1325 3121,1399 3113,1411 1962,1395" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1962,1310,1159,101/full/0/native.jpg">
+            <path xml:id="f24_z2_l10_p" points="1969,1383 3121,1399"/>
+            <line xml:id="f24_z2_l10_t">n ayez de luy ne paour ne doubte Car</line>
+          </zone>
+          <zone xml:id="f24_z2_l11" type="DefaultLine" subtype="none" n="36" points="1973,1473 1973,1391 3117,1391 3121,1492 3113,1508 1965,1492" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1965,1391,1156,117/full/0/native.jpg">
+            <path xml:id="f24_z2_l11_p" points="1973,1473 3121,1492"/>
+            <line xml:id="f24_z2_l11_t">s il uient pour uoꝰ faire ne mal ne des-</line>
+          </zone>
+          <zone xml:id="f24_z2_l12" type="DefaultLine" subtype="none" n="37" points="1969,1566 1969,1492 3113,1508 3117,1581 3113,1593 2834,1612 2830,1612 1962,1589" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1962,1492,1155,120/full/0/native.jpg">
+            <path xml:id="f24_z2_l12_p" points="1969,1566 3117,1581"/>
+            <line xml:id="f24_z2_l12_t">plaisir ie metteray mon corps pour</line>
+          </zone>
+          <zone xml:id="f24_z2_l13" type="DefaultLine" subtype="none" n="38" points="1962,1655 1962,1573 3117,1573 3117,1674 3109,1686 1954,1666" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1954,1573,1163,113/full/0/native.jpg">
+            <path xml:id="f24_z2_l13_p" points="1962,1655 3117,1674"/>
+            <line xml:id="f24_z2_l13_t">le uostre deffendre iusq̃s a la mort. A</line>
+          </zone>
+          <zone xml:id="f24_z2_l14" type="DefaultLine" subtype="none" n="39" points="1965,1748 1965,1666 3109,1678 3113,1763 3106,1775 1958,1760" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1958,1666,1155,109/full/0/native.jpg">
+            <path xml:id="f24_z2_l14_p" points="1965,1748 3113,1763"/>
+            <line xml:id="f24_z2_l14_t">ces motz fut uenu l archeuesq̃ il mist</line>
+          </zone>
+          <zone xml:id="f24_z2_l15" type="DefaultLine" subtype="none" n="40" points="1958,1837 1958,1748 2660,1748 2671,1748 2776,1767 3106,1752 3113,1849 3106,1860 1950,1849" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1950,1748,1163,112/full/0/native.jpg">
+            <path xml:id="f24_z2_l15_p" points="1958,1837 3113,1849"/>
+            <line xml:id="f24_z2_l15_t">le pie a terre et salua la dame le mi-</line>
+          </zone>
+          <zone xml:id="f24_z2_l16" type="DefaultLine" subtype="none" n="41" points="1954,1922 1954,1845 3109,1860 3113,1946 3106,1961 1946,1938" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1946,1845,1167,116/full/0/native.jpg">
+            <path xml:id="f24_z2_l16_p" points="1954,1922 3113,1946"/>
+            <line xml:id="f24_z2_l16_t">eulx qͥl peult et dit tres chiere et hõ-</line>
+          </zone>
+          <zone xml:id="f24_z2_l17" type="DefaultLine" subtype="none" n="42" points="1950,2015 1950,1942 3106,1961 3109,2035 3102,2050 1942,2031" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1942,1942,1167,108/full/0/native.jpg">
+            <path xml:id="f24_z2_l17_p" points="1950,2015 3109,2035"/>
+            <line xml:id="f24_z2_l17_t">nouree dame se tant est q̃ uoulez ma</line>
+          </zone>
+          <zone xml:id="f24_z2_l18" type="DefaultLine" subtype="none" n="43" points="1962,2105 1958,2031 2380,2019 2384,2019 2590,2031 2931,2046 3098,2031 3106,2124 3098,2155 1954,2120" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1954,2019,1152,136/full/0/native.jpg">
+            <path xml:id="f24_z2_l18_p" points="1962,2105 3106,2124"/>
+            <line xml:id="f24_z2_l18_t">uoulente acõplir et croire mon cõseil</line>
+          </zone>
+          <zone xml:id="f24_z2_l19" type="DefaultLine" subtype="none" n="44" points="1954,2201 1954,2124 3106,2136 3106,2217 3102,2229 2850,2248 2846,2248 2504,2225 2035,2236 2031,2236 2028,2236 1942,2213" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1942,2124,1164,124/full/0/native.jpg">
+            <path xml:id="f24_z2_l19_p" points="1954,2201 3106,2217"/>
+            <line xml:id="f24_z2_l19_t">ie feray tant que en peu de tẽps l ẽpe</line>
+          </zone>
+          <zone xml:id="f24_z2_l20" type="DefaultLine" subtype="none" n="45" points="1954,2291 1950,2217 2218,2198 2221,2198 2225,2198 2280,2217 2299,2221 2330,2217 2415,2201 2419,2201 2520,2217 2574,2225 2601,2217 2636,2205 2640,2205 2644,2205 2648,2205 2671,2217 2687,2225 2714,2217 2760,2205 2764,2205 2768,2205 3102,2221 3106,2306 3098,2322 1946,2306" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1946,2198,1160,124/full/0/native.jpg">
+            <path xml:id="f24_z2_l20_p" points="1954,2291 3106,2306"/>
+            <line xml:id="f24_z2_l20_t">reur qͥ uoꝰ a dechassee sera de uoꝰ ueoir</line>
+          </zone>
+          <zone xml:id="f24_z2_l21" type="DefaultLine" subtype="none" n="46" points="1946,2380 1946,2302 3102,2302 3106,2399 3102,2415 2877,2434 2873,2434 1938,2395" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1938,2302,1168,132/full/0/native.jpg">
+            <path xml:id="f24_z2_l21_p" points="1946,2380 3106,2399"/>
+            <line xml:id="f24_z2_l21_t">biẽ ioyeulx et cõtent. Et seres en uo-</line>
+          </zone>
+          <zone xml:id="f24_z2_l22" type="DefaultLine" subtype="none" n="47" points="1950,2473 1950,2399 3094,2407 3098,2488 3090,2515 1942,2496" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1942,2399,1156,116/full/0/native.jpg">
+            <path xml:id="f24_z2_l22_p" points="1950,2473 3098,2488"/>
+            <line xml:id="f24_z2_l22_t">stre p̃mier estat restituee et mise en</line>
+          </zone>
+          <zone xml:id="f24_z2_l23" type="DefaultLine" subtype="none" n="48" points="1954,2566 1954,2484 3090,2488 3094,2581 3090,2597 1950,2601" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1950,2484,1144,117/full/0/native.jpg">
+            <path xml:id="f24_z2_l23_p" points="1954,2566 3094,2581"/>
+            <line xml:id="f24_z2_l23_t">plꝰ grãde triũphe q̃ iamais ne fustes</line>
+          </zone>
+          <zone xml:id="f24_z2_l24" type="DefaultLine" subtype="none" n="49" points="1946,2655 1946,2577 3094,2593 3094,2674 3090,2686 2408,2698 2404,2698 1938,2667" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1938,2577,1156,121/full/0/native.jpg">
+            <path xml:id="f24_z2_l24_p" points="1946,2655 3094,2674"/>
+            <line xml:id="f24_z2_l24_t">et pour tãt pẽses y. car ie le fais pour</line>
+          </zone>
+          <zone xml:id="f24_z2_l25" type="DefaultLine" subtype="none" n="50" points="1946,2744 1946,2659 3086,2682 3090,2764 3086,2779 2179,2787 2175,2787 1938,2760" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1938,2659,1152,128/full/0/native.jpg">
+            <path xml:id="f24_z2_l25_p" points="1946,2744 3090,2764"/>
+            <line xml:id="f24_z2_l25_t">uostre grãt hõneur et proffit Ha dit</line>
+          </zone>
+          <zone xml:id="f24_z2_l26" type="DefaultLine" subtype="none" n="51" points="1938,2837 1938,2760 3086,2764 3086,2857 3078,2868 1931,2857" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1931,2760,1155,108/full/0/native.jpg">
+            <path xml:id="f24_z2_l26_p" points="1938,2837 3086,2857"/>
+            <line xml:id="f24_z2_l26_t">la dame desloial et cruel auersaire de</line>
+          </zone>
+          <zone xml:id="f24_z2_l27" type="DefaultLine" subtype="none" n="52" points="1946,2926 1946,2849 3086,2857 3090,2942 3086,2957 2822,2977 2819,2977 2815,2977 2772,2957 2729,2973 2726,2973 2722,2973 1938,2950" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1938,2849,1152,128/full/0/native.jpg">
+            <path xml:id="f24_z2_l27_p" points="1946,2926 3090,2942"/>
+            <line xml:id="f24_z2_l27_t">tout hõneur imperialle ie doy biẽ a-</line>
+          </zone>
+          <zone xml:id="f24_z2_l28" type="DefaultLine" subtype="none" n="53" points="1942,3016 1942,2938 3078,2938 3082,3031 3075,3047 1934,3031" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1934,2938,1148,109/full/0/native.jpg">
+            <path xml:id="f24_z2_l28_p" points="1942,3016 3082,3031"/>
+            <line xml:id="f24_z2_l28_t">uoir cause de toy aimer et chier tenir</line>
+          </zone>
+          <zone xml:id="f24_z2_l29" type="DefaultLine" subtype="none" n="54" points="1942,3109 1942,3016 2225,3039 2446,3019 2458,3019 2462,3019 2470,3019 2582,3043 2749,3023 2753,3023 2757,3023 2760,3023 2943,3047 3075,3027 3082,3124 3075,3143 1934,3124" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1934,3016,1148,127/full/0/native.jpg">
+            <path xml:id="f24_z2_l29_p" points="1942,3109 3082,3124"/>
+            <line xml:id="f24_z2_l29_t">Quãt par ton faulx mal as dõne a</line>
+          </zone>
+          <zone xml:id="f24_z2_l30" type="DefaultLine" subtype="none" n="55" points="1934,3198 1931,3124 2148,3105 2152,3105 2155,3105 2202,3124 2206,3124 2210,3124 2264,3105 2268,3105 2272,3105 2276,3105 2322,3124 2338,3128 3075,3128 3078,3221 3071,3237 1927,3213" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1927,3105,1151,132/full/0/native.jpg">
+            <path xml:id="f24_z2_l30_p" points="1934,3198 3078,3221"/>
+            <line xml:id="f24_z2_l30_t">entendre q̃ ie suis miserablemẽt ador</line>
+          </zone>
+          <zone xml:id="f24_z2_l31" type="DefaultLine" subtype="none" n="56" points="1931,3295 1931,3217 3075,3217 3078,3310 3071,3326 1923,3310" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1923,3217,1155,109/full/0/native.jpg">
+            <path xml:id="f24_z2_l31_p" points="1931,3295 3078,3310"/>
+            <line xml:id="f24_z2_l31_t">nee et plus q̃ ne fut oncq̃s poure ber-</line>
+          </zone>
+          <zone xml:id="f24_z2_l32" type="DefaultLine" subtype="none" n="57" points="1927,3380 1927,3302 3075,3318 3078,3403 3075,3415 2888,3438 2885,3438 2881,3438 2811,3419 2702,3434 2698,3434 2694,3434 2691,3434 2691,3430 2687,3430 2675,3415 2671,3411 2640,3415 2559,3430 2555,3430 2404,3415 2252,3403 1923,3415" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1923,3302,1155,136/full/0/native.jpg">
+            <path xml:id="f24_z2_l32_p" points="1927,3380 3078,3403"/>
+            <line xml:id="f24_z2_l32_t">giere priuee de hõneur royal et ĩperi</line>
+          </zone>
+          <zone xml:id="f24_z2_l33" type="DefaultLine" subtype="none" n="58" points="1931,3477 1927,3403 3071,3395 3078,3489 3075,3520 1989,3520 1985,3516 1981,3516 1919,3492" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1919,3395,1159,125/full/0/native.jpg">
+            <path xml:id="f24_z2_l33_p" points="1931,3477 3078,3489"/>
+            <line xml:id="f24_z2_l33_t">ale seigneurie. Tu m as mis a chemi</line>
+          </zone>
+          <zone xml:id="f24_z2_l34" type="DefaultLine" subtype="none" n="59" points="1931,3566 1931,3489 3063,3492 3067,3585 3059,3597 1923,3582" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1923,3489,1144,108/full/0/native.jpg">
+            <path xml:id="f24_z2_l34_p" points="1931,3566 3067,3585"/>
+            <line xml:id="f24_z2_l34_t">de danger de user et finer mes iours</line>
+          </zone>
+          <zone xml:id="f24_z2_l35" type="DefaultLine" subtype="none" n="60" points="1927,3659 1927,3582 3071,3601 3071,3678 3067,3690 2908,3709 2904,3709 2803,3690 2799,3690 2791,3690 2617,3706 2613,3706 1919,3678" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1919,3582,1152,127/full/0/native.jpg">
+            <path xml:id="f24_z2_l35_p" points="1927,3659 3071,3678"/>
+            <line xml:id="f24_z2_l35_t">en douloureuse destresse. car plꝰ n y a</line>
+          </zone>
+          <zone xml:id="f24_z2_l36" type="DefaultLine" subtype="none" n="61" points="1927,3748 1927,3671 3063,3686 3067,3768 3059,3779 1919,3760" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1919,3671,1148,108/full/0/native.jpg">
+            <path xml:id="f24_z2_l36_p" points="1927,3748 3067,3768"/>
+            <line xml:id="f24_z2_l36_t">au monde dolente fẽme q̃ ie suis. da-</line>
+          </zone>
+          <zone xml:id="f24_z2_l37" type="DefaultLine" subtype="none" n="62" points="1923,3837 1919,3760 2373,3748 2377,3748 2380,3748 2415,3768 2419,3768 2442,3768 2598,3752 2601,3752 3055,3779 3059,3857 3051,3872 1915,3853" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1915,3748,1144,124/full/0/native.jpg">
+            <path xml:id="f24_z2_l37_p" points="1923,3837 3059,3857"/>
+            <line xml:id="f24_z2_l37_t">me ce dit l archeuesq̃ delaisses telles</line>
+          </zone>
+          <zone xml:id="f24_z2_l38" type="DefaultLine" subtype="none" n="63" points="1927,3942 1927,3849 2508,3865 2532,3857 2570,3845 2574,3845 2574,3845 2574,3845 2578,3845 2578,3845 2578,3845 2582,3845 2582,3845 2582,3845 2609,3861 2621,3865 2644,3861 2702,3845 2706,3845 2706,3845 2710,3845 2710,3845 2710,3845 2803,3861 2822,3865 2834,3865 2888,3845 2892,3845 2892,3845 2892,3845 2896,3845 2896,3845 3063,3868 3063,3946 3059,3985 2764,3996 2760,3996 2760,3996 2760,3996 2683,3981 2656,3977 2617,3981 2470,3996 2470,3996 2466,3996 2466,3996 2462,3996 2462,3996 2462,3996 2458,3996 2458,3996 2458,3992 2439,3977 2439,3977 2283,3977 2283,3977 2202,3996 2198,3996 2198,3996 2194,3996 2194,3996 2028,3977 1985,3996 1985,3996 1985,3996 1981,3996 1981,3996 1977,3996 1977,3996 1977,3996 1973,3996 1973,3996 1915,3969" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/1915,3845,1148,151/full/0/native.jpg">
+            <path xml:id="f24_z2_l38_p" points="1930,3944 3067,3950"/>
+            <line xml:id="f24_z2_l38_t">parolles. par moy il ne uoꝰ peult que</line>
+          </zone>
+        </zone>
+        <zone xml:id="f24_z3" type="GraphicZone" subtype="none" n="none" points="801,507 801,1670 1743,1670 1743,990 1743,507" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f24/801,507,942,1163/full/0/native.jpg"/>
+      </surface>
+      <surface xml:id="f31" n="4" ulx="0" uly="0" lrx="3276" lry="4516">
+        <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/full/full/0/native.jpg"/>
+        <zone xml:id="f31_z1" type="MainZone" subtype="none" n="1" points="241,383 217,3820 1388,3824 1397,2960 1432,367" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/217,367,1215,3457/full/0/native.jpg">
+          <zone xml:id="f31_z1_l1" type="HeadingLine" subtype="none" n="1" points="248,481 248,402 1423,402 1423,481 1423,504 248,504" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/248,402,1175,102/full/0/native.jpg">
+            <path xml:id="f31_z1_l1_p" points="252,485 1427,485"/>
+            <line xml:id="f31_z1_l1_t">uesq̃ furent eleue plusieurs nouuel</line>
+          </zone>
+          <zone xml:id="f31_z1_l2" type="HeadingLine" subtype="none" n="2" points="256,575 256,492 1415,500 1415,575 1415,594 256,594" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/256,492,1159,102/full/0/native.jpg">
+            <path xml:id="f31_z1_l2_p" points="256,575 1415,575"/>
+            <line xml:id="f31_z1_l2_t">les coustumes en la cite de cõstãtino</line>
+          </zone>
+          <zone xml:id="f31_z1_l3" type="HeadingLine" subtype="none" n="3" points="256,662 256,583 1408,587 1408,662 1404,684 252,681" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/252,583,1156,101/full/0/native.jpg">
+            <path xml:id="f31_z1_l3_p" points="256,662 1408,662"/>
+            <line xml:id="f31_z1_l3_t">ble et cõmẽt la trahisõ fut cogneue.</line>
+          </zone>
+          <zone xml:id="f31_z1_l4" type="HeadingLine" subtype="none" n="4" points="1118,756 1118,666 1385,669 1385,756 1385,779 1118,786" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1118,666,267,120/full/0/native.jpg">
+            <path xml:id="f31_z1_l4_p" points="1118,756 1385,756"/>
+            <line xml:id="f31_z1_l4_t">. uii. cha</line>
+          </zone>
+          <zone xml:id="f31_z1_l5" type="DefaultLine" subtype="none" n="5" points="248,2182 252,2081 289,2084 286,2186 274,2212 240,2201" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/240,2081,49,131/full/0/native.jpg">
+            <path xml:id="f31_z1_l5_p" points="252,2186 289,2189"/>
+            <line xml:id="f31_z1_l5_t">l</line>
+          </zone>
+          <zone xml:id="f31_z1_l6" type="DefaultLine" subtype="none" n="6" points="512,2096 512,2002 1381,2009 1381,2096 1378,2118 508,2111" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/508,2002,873,116/full/0/native.jpg">
+            <path xml:id="f31_z1_l6_p" points="512,2096 1381,2096"/>
+            <line xml:id="f31_z1_l6_t">Empereur alexãdre ap̃s qͥl</line>
+          </zone>
+          <zone xml:id="f31_z1_l7" type="DefaultLine" subtype="none" n="7" points="504,2178 500,2099 1370,2092 1378,2186 1370,2197 497,2194" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/497,2092,881,105/full/0/native.jpg">
+            <path xml:id="f31_z1_l7_p" points="504,2178 1378,2186"/>
+            <line xml:id="f31_z1_l7_t">eut dechasse et deboutee ui</line>
+          </zone>
+          <zone xml:id="f31_z1_l8" type="DefaultLine" subtype="none" n="8" points="508,2273 504,2197 1355,2178 1359,2273 1359,2299 508,2306" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/504,2178,855,128/full/0/native.jpg">
+            <path xml:id="f31_z1_l8_p" points="508,2273 1359,2273"/>
+            <line xml:id="f31_z1_l8_t">tuperablemẽt sa fẽme bellis</line>
+          </zone>
+          <zone xml:id="f31_z1_l9" type="DefaultLine" subtype="none" n="9" points="240,2367 240,2280 1355,2280 1355,2367 1351,2401 237,2389" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/237,2280,1118,121/full/0/native.jpg">
+            <path xml:id="f31_z1_l9_p" points="240,2367 1355,2367"/>
+            <line xml:id="f31_z1_l9_t">sãt hors de sa cõpagnie. fit plusieurs</line>
+          </zone>
+          <zone xml:id="f31_z1_l10" type="DefaultLine" subtype="none" n="10" points="237,2449 237,2378 1363,2382 1366,2457 1363,2472 805,2491 802,2491 798,2491 719,2472 263,2487 259,2487 256,2487 252,2487 222,2464" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/222,2378,1144,113/full/0/native.jpg">
+            <path xml:id="f31_z1_l10_p" points="237,2449 1366,2457"/>
+            <line xml:id="f31_z1_l10_t">durs et piteux regretz pour elle et s ẽ</line>
+          </zone>
+          <zone xml:id="f31_z1_l11" type="DefaultLine" subtype="none" n="11" points="237,2547 233,2472 1374,2461 1378,2547 1374,2566 233,2562" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,2461,1145,105/full/0/native.jpg">
+            <path xml:id="f31_z1_l11_p" points="237,2547 1378,2547"/>
+            <line xml:id="f31_z1_l11_t">repentit en son courage. mais l arche</line>
+          </zone>
+          <zone xml:id="f31_z1_l12" type="DefaultLine" subtype="none" n="12" points="240,2630 240,2555 1363,2562 1366,2638 1359,2649 233,2641" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,2555,1133,94/full/0/native.jpg">
+            <path xml:id="f31_z1_l12_p" points="240,2630 1366,2638"/>
+            <line xml:id="f31_z1_l12_t">uesq̃ mauldit de dien tousiours l en</line>
+          </zone>
+          <zone xml:id="f31_z1_l13" type="DefaultLine" subtype="none" n="13" points="237,2728 237,2649 1366,2653 1366,2728 1363,2747 233,2743" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,2649,1133,98/full/0/native.jpg">
+            <path xml:id="f31_z1_l13_p" points="237,2728 1366,2728"/>
+            <line xml:id="f31_z1_l13_t">tretenoit en sa folle oppinion. et l ẽpe</line>
+          </zone>
+          <zone xml:id="f31_z1_l14" type="DefaultLine" subtype="none" n="14" points="233,2811 233,2732 1370,2739 1374,2818 1366,2833 225,2826" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/225,2732,1149,101/full/0/native.jpg">
+            <path xml:id="f31_z1_l14_p" points="233,2811 1374,2818"/>
+            <line xml:id="f31_z1_l14_t">reur le creoit. Et tant luy donna de</line>
+          </zone>
+          <zone xml:id="f31_z1_l15" type="DefaultLine" subtype="none" n="15" points="237,2901 237,2822 1363,2830 1366,2909 1363,2920 233,2931" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,2822,1133,109/full/0/native.jpg">
+            <path xml:id="f31_z1_l15_p" points="237,2901 1366,2909"/>
+            <line xml:id="f31_z1_l15_t">puissance et d auctorite sur tous les</line>
+          </zone>
+          <zone xml:id="f31_z1_l16" type="DefaultLine" subtype="none" n="16" points="237,2991 237,2916 1363,2924 1366,2999 1359,3025 229,3018" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/229,2916,1137,109/full/0/native.jpg">
+            <path xml:id="f31_z1_l16_p" points="237,2991 1366,2999"/>
+            <line xml:id="f31_z1_l16_t">aultres que ce qͥl commandoit estoit</line>
+          </zone>
+          <zone xml:id="f31_z1_l17" type="DefaultLine" subtype="none" n="17" points="237,3089 237,2995 1370,3014 1370,3089 1370,3108 237,3108" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/237,2995,1133,113/full/0/native.jpg">
+            <path xml:id="f31_z1_l17_p" points="237,3089 1370,3089"/>
+            <line xml:id="f31_z1_l17_t">fait tant eust de gouuernement et de</line>
+          </zone>
+          <zone xml:id="f31_z1_l18" type="DefaultLine" subtype="none" n="18" points="240,3180 240,3085 1366,3100 1366,3180 1366,3195 240,3198" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/240,3085,1126,113/full/0/native.jpg">
+            <path xml:id="f31_z1_l18_p" points="240,3180 1366,3180"/>
+            <line xml:id="f31_z1_l18_t">seigneurie qͥl mist sus et esleua en la</line>
+          </zone>
+          <zone xml:id="f31_z1_l19" type="DefaultLine" subtype="none" n="19" points="237,3259 237,3183 1359,3195 1363,3270 1355,3285 229,3270" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/229,3183,1134,102/full/0/native.jpg">
+            <path xml:id="f31_z1_l19_p" points="237,3259 1363,3270"/>
+            <line xml:id="f31_z1_l19_t">cite de constantinoble coustumes et</line>
+          </zone>
+          <zone xml:id="f31_z1_l20" type="DefaultLine" subtype="none" n="20" points="237,3353 237,3270 1351,3281 1355,3360 1348,3371 229,3364" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/229,3270,1126,101/full/0/native.jpg">
+            <path xml:id="f31_z1_l20_p" points="237,3353 1355,3360"/>
+            <line xml:id="f31_z1_l20_t">usages cõtre droit et contre rayson.</line>
+          </zone>
+          <zone xml:id="f31_z1_l21" type="DefaultLine" subtype="none" n="21" points="240,3443 240,3360 1355,3368 1359,3450 1351,3469 233,3454" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,3360,1126,109/full/0/native.jpg">
+            <path xml:id="f31_z1_l21_p" points="240,3443 1359,3450"/>
+            <line xml:id="f31_z1_l21_t">Or auint q̃ en la cite auoit une foire</line>
+          </zone>
+          <zone xml:id="f31_z1_l22" type="DefaultLine" subtype="none" n="22" points="233,3530 233,3454 1355,3454 1359,3537 1351,3552 225,3545" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/225,3454,1134,98/full/0/native.jpg">
+            <path xml:id="f31_z1_l22_p" points="233,3530 1359,3537"/>
+            <line xml:id="f31_z1_l22_t">laquelle on tenoit le . xu. iour de sep-</line>
+          </zone>
+          <zone xml:id="f31_z1_l23" type="DefaultLine" subtype="none" n="23" points="240,3627 240,3533 1363,3548 1363,3627 1359,3657 237,3642" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/237,3533,1126,124/full/0/native.jpg">
+            <path xml:id="f31_z1_l23_p" points="240,3627 1363,3627"/>
+            <line xml:id="f31_z1_l23_t">tembre et de plusieurs pais uenoiẽt</line>
+          </zone>
+          <zone xml:id="f31_z1_l24" type="DefaultLine" subtype="none" n="24" points="240,3710 240,3620 1359,3627 1363,3718 1355,3744 233,3725" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/233,3620,1130,124/full/0/native.jpg">
+            <path xml:id="f31_z1_l24_p" points="240,3710 1363,3718"/>
+            <line xml:id="f31_z1_l24_t">les marchans a celle foire Et quant</line>
+          </zone>
+          <zone xml:id="f31_z1_l25" type="DefaultLine" subtype="none" n="25" points="240,3797 240,3703 1355,3721 1359,3812 1351,3857 1122,3842 1099,3849 1069,3864 1065,3864 1065,3868 918,3868 915,3864 911,3864 907,3864 907,3861 884,3846 877,3838 858,3842 802,3857 798,3857 794,3857 790,3857 741,3838 730,3838 722,3838 628,3861 625,3861 621,3861 568,3838 316,3849 312,3849 308,3849 229,3823" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/229,3703,1130,165/full/0/native.jpg">
+            <path xml:id="f31_z1_l25_p" points="240,3797 1359,3812"/>
+            <line xml:id="f31_z1_l25_t">le iour fut uenu que on la deuoit te-</line>
+          </zone>
+        </zone>
+        <zone xml:id="f31_z2" type="MainZone" subtype="none" n="2" points="1450,387 1441,3832 2616,3859 2616,3350 2616,379" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1441,379,1175,3480/full/0/native.jpg">
+          <zone xml:id="f31_z2_l1" type="DefaultLine" subtype="none" n="26" points="1476,481 1472,421 2617,406 2620,481 2617,515 1472,504" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1472,406,1148,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l1_p" points="1477,485 2624,485"/>
+            <line xml:id="f31_z2_l1_t">nir. la uille fut toute plaine de mar-</line>
+          </zone>
+          <zone xml:id="f31_z2_l2" type="DefaultLine" subtype="none" n="27" points="1468,575 1464,508 1766,489 1769,489 1773,489 1837,508 1845,511 2281,511 2289,508 2436,489 2440,489 2613,511 2613,575 2609,613 1464,598" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1464,489,1149,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l2_p" points="1468,575 2613,575"/>
+            <line xml:id="f31_z2_l2_t">chans de diuers pays et de plusieurs</line>
+          </zone>
+          <zone xml:id="f31_z2_l3" type="DefaultLine" subtype="none" n="28" points="1464,662 1461,590 2605,587 2613,669 2609,696 1589,703 1585,703 1457,681" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1457,587,1156,116/full/0/native.jpg">
+            <path xml:id="f31_z2_l3_p" points="1464,662 2613,669"/>
+            <line xml:id="f31_z2_l3_t">contrees. La fit l empereur garder la</line>
+          </zone>
+          <zone xml:id="f31_z2_l4" type="DefaultLine" subtype="none" n="29" points="1468,748 1464,681 1570,662 1573,662 1577,662 1581,662 1581,666 1596,677 1600,684 1984,684 2007,673 2029,662 2033,662 2037,662 2040,662 2067,669 2104,684 2210,669 2244,666 2248,666 2274,669 2394,684 2598,666 2605,756 2598,775 1461,771" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1461,662,1144,113/full/0/native.jpg">
+            <path xml:id="f31_z2_l4_p" points="1468,748 2605,756"/>
+            <line xml:id="f31_z2_l4_t">foire cõme de coustume estoit. et bail</line>
+          </zone>
+          <zone xml:id="f31_z2_l5" type="DefaultLine" subtype="none" n="30" points="1464,846 1445,786 1464,760 1468,760 1468,756 1472,756 1476,756 1479,756 1483,756 1528,775 1551,756 1555,756 1558,756 1562,756 1871,775 1901,756 1905,756 1909,756 1912,756 2003,771 2014,756 2018,756 2018,752 2022,752 2025,752 2029,752 2033,752 2101,771 2168,752 2172,752 2176,752 2180,752 2225,775 2598,775 2605,839 2601,861 2172,884 2168,884 2074,865 2063,865 2037,888 2033,888 2029,888 2025,888 2022,888 1984,869 1980,869 1694,869 1686,869 1653,888 1649,888 1645,888 1461,869" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1445,752,1160,136/full/0/native.jpg">
+            <path xml:id="f31_z2_l5_p" points="1464,846 2605,839"/>
+            <line xml:id="f31_z2_l5_t">la la garde a l archeuesque qui pour</line>
+          </zone>
+          <zone xml:id="f31_z2_l6" type="DefaultLine" subtype="none" n="31" points="1464,933 1464,846 2598,869 2601,940 2598,978 2037,978 2033,974 2029,974 2025,974 2014,963 2003,955 1871,959 1547,970 1543,970 1540,970 1453,948" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1453,846,1148,132/full/0/native.jpg">
+            <path xml:id="f31_z2_l6_p" points="1464,933 2601,940"/>
+            <line xml:id="f31_z2_l6_t">luy acompaigne fit armer deux cẽs</line>
+          </zone>
+          <zone xml:id="f31_z2_l7" type="DefaultLine" subtype="none" n="32" points="1464,1027 1449,963 1483,940 1487,940 1491,940 1494,940 2598,955 2605,1019 2601,1042 1464,1049" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1449,940,1156,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l7_p" points="1464,1027 2605,1019"/>
+            <line xml:id="f31_z2_l7_t">compaignons; lesquelz partirent de</line>
+          </zone>
+          <zone xml:id="f31_z2_l8" type="DefaultLine" subtype="none" n="33" points="1461,1117 1461,1031 2601,1046 2601,1117 2598,1151 1457,1147" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1457,1031,1144,120/full/0/native.jpg">
+            <path xml:id="f31_z2_l8_p" points="1461,1117 2601,1117"/>
+            <line xml:id="f31_z2_l8_t">la uille pour la foire aler garder. en</line>
+          </zone>
+          <zone xml:id="f31_z2_l9" type="DefaultLine" subtype="none" n="34" points="1468,1204 1468,1132 2601,1132 2601,1204 2601,1226 1468,1241" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1468,1132,1133,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l9_p" points="1468,1204 2601,1204"/>
+            <line xml:id="f31_z2_l9_t">ycelle foire fut presente le marchant</line>
+          </zone>
+          <zone xml:id="f31_z2_l10" type="DefaultLine" subtype="none" n="35" points="1461,1294 1461,1204 2586,1215 2590,1302 2583,1328 1453,1309" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1453,1204,1137,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l10_p" points="1461,1294 2590,1302"/>
+            <line xml:id="f31_z2_l10_t">dont i ay mention faite deuant. C est</line>
+          </zone>
+          <zone xml:id="f31_z2_l11" type="DefaultLine" subtype="none" n="36" points="1461,1381 1457,1309 1573,1290 1577,1290 1581,1290 1619,1309 1638,1290 1641,1290 1645,1290 1649,1290 1732,1309 1735,1309 1777,1290 1781,1290 1784,1290 1788,1290 1863,1309 1878,1317 2033,1317 2037,1313 2052,1298 2052,1294 2055,1294 2059,1294 2063,1294 2586,1317 2590,1392 2583,1407 1453,1396" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1453,1290,1137,117/full/0/native.jpg">
+            <path xml:id="f31_z2_l11_p" points="1461,1381 2590,1392"/>
+            <line xml:id="f31_z2_l11_t">assauoir celuy qui trouua blandi-</line>
+          </zone>
+          <zone xml:id="f31_z2_l12" type="DefaultLine" subtype="none" n="37" points="1461,1467 1461,1392 2586,1403 2590,1478 2583,1512 1453,1494" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1453,1392,1137,120/full/0/native.jpg">
+            <path xml:id="f31_z2_l12_p" points="1461,1467 2590,1478"/>
+            <line xml:id="f31_z2_l12_t">main et l archeuesque qui se comba-</line>
+          </zone>
+          <zone xml:id="f31_z2_l13" type="DefaultLine" subtype="none" n="38" points="1461,1558 1461,1478 2586,1486 2590,1576 2583,1606 1453,1573" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1453,1478,1137,128/full/0/native.jpg">
+            <path xml:id="f31_z2_l13_p" points="1461,1558 2590,1576"/>
+            <line xml:id="f31_z2_l13_t">toient bien le recogneust l archeuesq̃</line>
+          </zone>
+          <zone xml:id="f31_z2_l14" type="DefaultLine" subtype="none" n="39" points="1453,1652 1449,1580 1976,1561 1980,1561 1984,1561 2033,1584 2040,1588 2263,1588 2263,1584 2281,1569 2281,1565 2285,1565 2289,1565 2293,1565 2583,1588 2583,1659 2575,1685 1445,1670" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1445,1561,1138,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l14_p" points="1453,1652 2583,1659"/>
+            <line xml:id="f31_z2_l14_t">mais nul semblãt n en fit. Car trop</line>
+          </zone>
+          <zone xml:id="f31_z2_l15" type="DefaultLine" subtype="none" n="40" points="1453,1742 1453,1663 2583,1678 2586,1753 2579,1780 1445,1757" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1445,1663,1141,117/full/0/native.jpg">
+            <path xml:id="f31_z2_l15_p" points="1453,1742 2586,1753"/>
+            <line xml:id="f31_z2_l15_t">il doubtoit que sa faulcete ne fust co</line>
+          </zone>
+          <zone xml:id="f31_z2_l16" type="DefaultLine" subtype="none" n="41" points="1445,1832 1445,1761 2583,1768 2583,1840 2575,1870 1438,1862" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1438,1761,1145,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l16_p" points="1445,1832 2583,1840"/>
+            <line xml:id="f31_z2_l16_t">gneue moult uoulentiers l eust fait</line>
+          </zone>
+          <zone xml:id="f31_z2_l17" type="DefaultLine" subtype="none" n="42" points="1453,1923 1453,1847 2579,1851 2583,1938 2575,1960 1445,1938" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1445,1847,1138,113/full/0/native.jpg">
+            <path xml:id="f31_z2_l17_p" points="1453,1923 2583,1938"/>
+            <line xml:id="f31_z2_l17_t">moutit. mais il n auoit pas la puissã</line>
+          </zone>
+          <zone xml:id="f31_z2_l18" type="DefaultLine" subtype="none" n="43" points="1453,2009 1453,1930 2575,1953 2579,2024 2571,2054 1445,2028" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1445,1930,1134,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l18_p" points="1453,2009 2579,2024"/>
+            <line xml:id="f31_z2_l18_t">ce sans trop grãt esclandre. a ce iour</line>
+          </zone>
+          <zone xml:id="f31_z2_l19" type="DefaultLine" subtype="none" n="44" points="1445,2096 1445,2024 2571,2035 2571,2114 2564,2148 1438,2114" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1438,2024,1133,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l19_p" points="1445,2096 2571,2114"/>
+            <line xml:id="f31_z2_l19_t">le dit marchant qui fut bien garny</line>
+          </zone>
+          <zone xml:id="f31_z2_l20" type="DefaultLine" subtype="none" n="45" points="1449,2190 1449,2103 2571,2126 2575,2201 2568,2239 1442,2220" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1442,2103,1133,136/full/0/native.jpg">
+            <path xml:id="f31_z2_l20_p" points="1449,2190 2575,2201"/>
+            <line xml:id="f31_z2_l20_t">de drap d or et de soye uendit et deli-</line>
+          </zone>
+          <zone xml:id="f31_z2_l21" type="DefaultLine" subtype="none" n="46" points="1449,2280 1449,2205 2560,2220 2564,2299 2556,2329 1442,2295" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1442,2205,1122,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l21_p" points="1449,2280 2564,2299"/>
+            <line xml:id="f31_z2_l21_t">ura plꝰ q̃ nul des aultres. pourquoy</line>
+          </zone>
+          <zone xml:id="f31_z2_l22" type="DefaultLine" subtype="none" n="47" points="1442,2367 1438,2295 1664,2280 1668,2280 1671,2280 1675,2280 1698,2299 1702,2299 1720,2299 1845,2284 1848,2284 2568,2314 2568,2385 2560,2419 1434,2385" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1434,2280,1134,139/full/0/native.jpg">
+            <path xml:id="f31_z2_l22_p" points="1442,2367 2568,2385"/>
+            <line xml:id="f31_z2_l22_t">en la fin de la foire l archeuesq̃ s y en</line>
+          </zone>
+          <zone xml:id="f31_z2_l23" type="DefaultLine" subtype="none" n="48" points="1445,2457 1445,2385 2560,2393 2564,2472 2556,2510 2232,2495 2142,2498 2007,2510 2003,2510 1920,2495 1894,2491 1871,2495 1766,2506 1762,2506 1758,2506 1720,2487 1713,2487 1690,2487 1532,2502 1528,2502 1438,2480" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1438,2385,1126,125/full/0/native.jpg">
+            <path xml:id="f31_z2_l23_p" points="1445,2457 2564,2472"/>
+            <line xml:id="f31_z2_l23_t">uoya deuers luy ung sergẽt pour luy</line>
+          </zone>
+          <zone xml:id="f31_z2_l24" type="DefaultLine" subtype="none" n="49" points="1445,2551 1445,2468 2568,2491 2568,2566 2560,2581 1438,2574" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1438,2468,1130,113/full/0/native.jpg">
+            <path xml:id="f31_z2_l24_p" points="1445,2551 2568,2566"/>
+            <line xml:id="f31_z2_l24_t">demander tribu en quoy il estoit te-</line>
+          </zone>
+          <zone xml:id="f31_z2_l25" type="DefaultLine" subtype="none" n="50" points="1438,2638 1438,2562 2564,2577 2564,2653 2556,2687 1430,2668" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,2562,1134,125/full/0/native.jpg">
+            <path xml:id="f31_z2_l25_p" points="1438,2638 2564,2653"/>
+            <line xml:id="f31_z2_l25_t">nu pour cause de la uendition de sa</line>
+          </zone>
+          <zone xml:id="f31_z2_l26" type="DefaultLine" subtype="none" n="51" points="1438,2732 1434,2660 1807,2641 1811,2641 1814,2641 1867,2664 1871,2664 1894,2645 1897,2645 1901,2645 1905,2645 2074,2645 2078,2645 2116,2664 2119,2668 2424,2668 2462,2649 2466,2649 2470,2649 2473,2649 2560,2671 2560,2743 2553,2758 1430,2750" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,2641,1130,117/full/0/native.jpg">
+            <path xml:id="f31_z2_l26_p" points="1438,2732 2560,2743"/>
+            <line xml:id="f31_z2_l26_t">marchandise. Le sergent uint a luy</line>
+          </zone>
+          <zone xml:id="f31_z2_l27" type="DefaultLine" subtype="none" n="52" points="1430,2822 1427,2747 2553,2743 2560,2833 2553,2852 1423,2845" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1423,2743,1137,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l27_p" points="1430,2822 2560,2833"/>
+            <line xml:id="f31_z2_l27_t">disant. Sire marchant il uoꝰ fault</line>
+          </zone>
+          <zone xml:id="f31_z2_l28" type="DefaultLine" subtype="none" n="53" points="1438,2912 1438,2837 2553,2837 2556,2927 2549,2961 1430,2946" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,2837,1126,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l28_p" points="1438,2912 2556,2927"/>
+            <line xml:id="f31_z2_l28_t">payer dix deniers pour liure de ce q̃</line>
+          </zone>
+          <zone xml:id="f31_z2_l29" type="DefaultLine" subtype="none" n="54" points="1438,3003 1438,2927 2560,2942 2560,3018 2553,3033 1430,3018" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,2927,1130,106/full/0/native.jpg">
+            <path xml:id="f31_z2_l29_p" points="1438,3003 2560,3018"/>
+            <line xml:id="f31_z2_l29_t">uous auez uendu. car ainsy est il or-</line>
+          </zone>
+          <zone xml:id="f31_z2_l30" type="DefaultLine" subtype="none" n="55" points="1438,3093 1434,3018 2553,3014 2560,3108 2553,3131 1430,3112" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,3014,1130,117/full/0/native.jpg">
+            <path xml:id="f31_z2_l30_p" points="1438,3093 2560,3108"/>
+            <line xml:id="f31_z2_l30_t">donne. Or ua dit le marchant q̃ mal</line>
+          </zone>
+          <zone xml:id="f31_z2_l31" type="DefaultLine" subtype="none" n="56" points="1438,3183 1438,3112 2556,3123 2560,3195 2556,3210 1434,3217" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1434,3112,1126,105/full/0/native.jpg">
+            <path xml:id="f31_z2_l31_p" points="1438,3183 2560,3195"/>
+            <line xml:id="f31_z2_l31_t">puisse aueuir a celuy qui telle cou-</line>
+          </zone>
+          <zone xml:id="f31_z2_l32" type="DefaultLine" subtype="none" n="57" points="1438,3274 1438,3198 2553,3213 2556,3289 2553,3307 1434,3307" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1434,3198,1122,109/full/0/native.jpg">
+            <path xml:id="f31_z2_l32_p" points="1438,3274 2556,3289"/>
+            <line xml:id="f31_z2_l32_t">stume a mise sus. c est le faulx et des-</line>
+          </zone>
+          <zone xml:id="f31_z2_l33" type="DefaultLine" subtype="none" n="58" points="1430,3364 1427,3292 1690,3274 1694,3274 1698,3274 1781,3296 1788,3296 1796,3296 1882,3277 1886,3277 1890,3277 1894,3277 1894,3281 1912,3296 2142,3281 2146,3281 2150,3281 2153,3281 2176,3300 2176,3304 2402,3304 2406,3304 2485,3285 2489,3285 2492,3285 2496,3285 2556,3307 2556,3379 2549,3398 1423,3383" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1423,3274,1133,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l33_p" points="1430,3364 2556,3379"/>
+            <line xml:id="f31_z2_l33_t">loyal archeuesque que dieu mauldie</line>
+          </zone>
+          <zone xml:id="f31_z2_l34" type="DefaultLine" subtype="none" n="59" points="1434,3450 1434,3379 2560,3394 2560,3473 2553,3503 1427,3481" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1427,3379,1133,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l34_p" points="1434,3450 2560,3473"/>
+            <line xml:id="f31_z2_l34_t">C̃ar lougtemps y a que mourir doit</line>
+          </zone>
+          <zone xml:id="f31_z2_l35" type="DefaultLine" subtype="none" n="60" points="1434,3541 1434,3458 2549,3477 2553,3560 2549,3578 1430,3578" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,3458,1123,120/full/0/native.jpg">
+            <path xml:id="f31_z2_l35_p" points="1434,3541 2553,3560"/>
+            <line xml:id="f31_z2_l35_t">honteusement et a deshonneur. lors</line>
+          </zone>
+          <zone xml:id="f31_z2_l36" type="DefaultLine" subtype="none" n="61" points="1434,3635 1430,3563 1671,3545 1675,3545 1773,3567 1784,3567 1796,3567 1916,3548 1920,3548 1924,3548 1991,3571 2003,3571 2022,3571 2161,3552 2165,3552 2549,3578 2553,3650 2549,3665 1430,3669" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1430,3545,1123,124/full/0/native.jpg">
+            <path xml:id="f31_z2_l36_p" points="1434,3635 2553,3650"/>
+            <line xml:id="f31_z2_l36_t">quant le marchant eust ainsy diffa-</line>
+          </zone>
+          <zone xml:id="f31_z2_l37" type="DefaultLine" subtype="none" n="62" points="1434,3721 1430,3650 1577,3631 1581,3631 1852,3635 1856,3635 1860,3635 1878,3654 1886,3657 1905,3654 1976,3639 1980,3639 2082,3654 2131,3661 2545,3661 2553,3740 2549,3759 2383,3778 2379,3778 1427,3744" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1427,3631,1126,147/full/0/native.jpg">
+            <path xml:id="f31_z2_l37_p" points="1434,3721 2553,3740"/>
+            <line xml:id="f31_z2_l37_t">me l archeuesque. Le sergent leua so</line>
+          </zone>
+          <zone xml:id="f31_z2_l38" type="DefaultLine" subtype="none" n="63" points="1453,3819 1449,3744 1811,3725 1814,3725 1818,3725 1822,3725 1845,3744 2052,3729 2055,3729 2059,3729 2108,3748 2108,3752 2210,3752 2489,3752 2515,3733 2519,3733 2522,3733 2526,3733 2530,3733 2579,3755 2575,3831 2571,3868 2436,3902 2436,3906 2202,3906 2199,3902 2195,3902 2097,3872 2052,3887 2048,3887 2044,3887 2040,3887 2037,3887 1999,3861 1995,3861 1931,3861 1856,3861 1792,3887 1788,3887 1784,3887 1781,3887 1720,3857 1705,3857 1592,3857 1555,3879 1551,3879 1547,3879 1543,3879 1540,3879 1442,3849" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/1442,3725,1137,181/full/0/native.jpg">
+            <path xml:id="f31_z2_l38_p" points="1453,3819 2575,3831"/>
+            <line xml:id="f31_z2_l38_t">baston et frappa le marchant en la</line>
+          </zone>
+        </zone>
+        <zone xml:id="f31_z3" type="GraphicZone" subtype="none" n="none" points="408,814 408,1997 1361,1997 1361,1279 1361,814" source="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8713143m/f31/408,814,953,1183/full/0/native.jpg"/>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+  <text>
+    <body>
+      <div>
+        <pb corresp="#f15"/>
+        <ab corresp="#f15_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f15_z1_l1"/>Cõment le roy pepin espousa ber<lb corresp="#f15_z1_l2"/>te dame de grant renõmee. i. chap̃<lb corresp="#f15_z1_l3"/>u</hi><lb corresp="#f15_z1_l4"/>Eritablement nous trou-<lb corresp="#f15_z1_l5"/>uons aux croniques anciẽ-<lb corresp="#f15_z1_l6"/>nes que noble et uaillãt roy<lb corresp="#f15_z1_l7"/>peepin si espousa et prist a fẽme berte<lb corresp="#f15_z1_l8"/>dame de grant renõmee; saige et pru<lb corresp="#f15_z1_l9"/>dente qͥ en son temps eust et souffrit<lb corresp="#f15_z1_l10"/>par enuye grãde habondãce de pestil<lb corresp="#f15_z1_l11"/>lãce et tribulatiõ. Car elle fut chas<lb corresp="#f15_z1_l12"/>see et espellee de la cõpagnie et habi<lb corresp="#f15_z1_l13"/>tation du dit roy son mary; par une<lb corresp="#f15_z1_l14"/>faulte et mauldite fẽme uielle et en<lb corresp="#f15_z1_l15"/>uenimee en malice. laq̃lle uielle pour<lb corresp="#f15_z1_l16"/>la premiere nuytee trouua facon et<lb corresp="#f15_z1_l17"/>maniere de bailler et deliurer une siẽ<lb corresp="#f15_z1_l18"/>ne fille au lieu de la bonne royne ber-<lb corresp="#f15_z1_l19"/>te. et elle mena et cõduisist ceste tra-<lb corresp="#f15_z1_l20"/>hison pour maintenir sa fille auec le<lb corresp="#f15_z1_l21"/>roy au lieu de berthe son espouse. le-<lb corresp="#f15_z1_l22"/>q̃l roy d icelle fille eut deux filz hauf<lb corresp="#f15_z1_l23"/>froy et henry. qͥ ou tẽps de leur regne<lb corresp="#f15_z1_l24"/>moult fort greuerẽt et gasterent le<lb corresp="#f15_z2_l1"/>rage plaĩ et de male uoulẽte. ces deux<lb corresp="#f15_z2_l2"/>furent cause de mettre la royne ber-<lb corresp="#f15_z2_l3"/>the en exil. dont luy cõuint mainte<lb corresp="#f15_z2_l4"/>douleur et angoisse souffrir. et en ex<lb corresp="#f15_z2_l5"/>il fut la dite dame moult lõguemẽt<lb corresp="#f15_z2_l6"/>usãt et passant les iours en larmes<lb corresp="#f15_z2_l7"/>et gemissemẽs. Mais puis ap̃s de sõ<lb corresp="#f15_z2_l8"/>amere et douloureuse fortune dieu le<lb corresp="#f15_z2_l9"/>createur des peines et tourmẽs uray<lb corresp="#f15_z2_l10"/>protecteur deffendeur et tres piteulx<lb corresp="#f15_z2_l11"/>uoulut la bõne dame en son auersite<lb corresp="#f15_z2_l12"/>misericordieusemẽt secourir. Et en<lb corresp="#f15_z2_l13"/>tãt q̃ dieu createur du mõde au moy<lb corresp="#f15_z2_l14"/>en et a l itercessiõ de plusieurs barõs<lb corresp="#f15_z2_l15"/>de france desirãt le bien et utilite du<lb corresp="#f15_z2_l16"/>dit royaulme; la royne berthe fust a-<lb corresp="#f15_z2_l17"/>cordee au roy. lequel en grãt pitie et<lb corresp="#f15_z2_l18"/>hõneur la receust. et ap̃s peu de tẽps<lb corresp="#f15_z2_l19"/>en elle engendra ung filz. Ce fut le<lb corresp="#f15_z2_l20"/>tres puissant et redoubte roy charle-<lb corresp="#f15_z2_l21"/>maigne. leq̃l puis apres fut deboute<lb corresp="#f15_z2_l22"/>et dechasse hors du royaulme par les<lb corresp="#f15_z2_l23"/>dessus dis. hauffroy et hẽry. ainsi que<lb corresp="#f15_z2_l24"/>plus aplain appertence p̃sent liure.<lb corresp="#f15_z2_l25"/>mais a tant ie uous ueul parler de la<lb corresp="#f15_z2_l26"/>matiere subiecte ia deuãt proposee;<lb corresp="#f15_z2_l27"/>et par especial du fait et du gouuer<lb corresp="#f15_z2_l28"/>nemẽt du uaillant ualẽtin et de son<lb corresp="#f15_z2_l29"/>frere orson. Or est uray q̃ le roy pepĩ<lb corresp="#f15_z2_l30"/>auoit une seur nõmee bellissant; belle<lb corresp="#f15_z2_l31"/>plaisant et tres gracieuse en toutes<lb corresp="#f15_z2_l32"/>choses biẽ aprise et endoctrinee et l ai<lb corresp="#f15_z2_l33"/>ma le roy pepin son frere de bonne a-<lb corresp="#f15_z2_l34"/>mour cordiale. Et tãt qͥl auint que<lb corresp="#f15_z2_l35"/>pour le bruit et renõmee d icelle laq̃l-<lb corresp="#f15_z2_l36"/>le de grãs et de petis estoit prisee et a-<lb corresp="#f15_z2_l37"/>mee. pour la beaulte et tres gracieulx<lb corresp="#f15_z2_l38"/>parler maniere et cõtenance qͥ en elle</ab>
+        <pb corresp="#f19"/>
+        <ab corresp="#f19_z1" type="MainZone"><lb corresp="#f19_z1_l1"/>ne bellissant la male uoulente de son<lb corresp="#f19_z1_l2"/>courage. Trop a tẽps cõmẽca la fo-<lb corresp="#f19_z1_l3"/>lie; et tart s en repentit. Ainsy auie<lb corresp="#f19_z1_l4"/>souuent q̃ ce que fol pense il demeure<lb corresp="#f19_z1_l5"/>estre parfait.<lb corresp="#f19_z1_l6"/>Cõment l archeuesq̃ ap̃s ce qͥl fut<lb corresp="#f19_z1_l7"/>escõdit de la dame bellissant pour sõ<lb corresp="#f19_z1_l8"/>hõneur sauluer cõtre la noble dame<lb corresp="#f19_z1_l9"/>pẽsa et machina une grãt trahisõ. iii.<lb corresp="#f19_z1_l10"/>N pensee et sousy trop par<hi rend="DropCapitalLine"><lb corresp="#f19_z1_l11"/>E</hi><lb corresp="#f19_z1_l12"/>fait et ennuyeulx fut l ar-<lb corresp="#f19_z1_l13"/>cheuesque doubtãt q̃ l empe<lb corresp="#f19_z1_l14"/>reur ne le fist mourir pour sa faulte<lb corresp="#f19_z1_l15"/>criminelle; laq̃lle cõtre sa haulte sei<lb corresp="#f19_z1_l16"/>gneurie et magnificẽte il auoit cõmi<lb corresp="#f19_z1_l17"/>se. Si se pensa de sauluer sõ hõneur<lb corresp="#f19_z1_l18"/>tout au mieulx q̃ il pourroit Et tãt<lb corresp="#f19_z1_l19"/>fit q̃ pour sa malediction couurit et<lb corresp="#f19_z1_l20"/>pour monstrer apparãce de le aute et<lb corresp="#f19_z1_l21"/>preudõmie; en faignant et dissimu-<lb corresp="#f19_z1_l22"/>lãt q̃ de tout son pouoir il uouloit et<lb corresp="#f19_z1_l23"/>desiroit le bien et honneur et ualeur<lb corresp="#f19_z1_l24"/>et utilite de l ẽpereur. Le iour de l a-<lb corresp="#f19_z1_l25"/>scetion nostre seigneur. il uint par-<lb corresp="#f19_z2_l1"/>deuers l ẽpereur et le tyra a part. et<lb corresp="#f19_z2_l2"/>luy dist en telle maniere. Tres hault<lb corresp="#f19_z2_l3"/>empereur il est uray q̃ ie cognois les<lb corresp="#f19_z2_l4"/>grans graces et benefices q̃ uous m a<lb corresp="#f19_z2_l5"/>ues donez et ottroyez; et scay bien q̃<lb corresp="#f19_z2_l6"/>par uous ie suis en hõneur monte et<lb corresp="#f19_z2_l7"/>eleue plus que a moy n apartiẽt. Et<lb corresp="#f19_z2_l8"/>sy m auez fait cõme indigne et insuf-<lb corresp="#f19_z2_l9"/>fisant maistre et gouuerneur de tou<lb corresp="#f19_z2_l10"/>te uostre maison; du tout a moy uoꝰ<lb corresp="#f19_z2_l11"/>confiant plus qu en nul aultre de uo<lb corresp="#f19_z2_l12"/>stre court. sy ne doy pas estre en lieu<lb corresp="#f19_z2_l13"/>ne en place ou ie seuffre ne endure uo<lb corresp="#f19_z2_l14"/>stre estat estre diffame et uostre renõ<lb corresp="#f19_z2_l15"/>mee mys au bas. Car ainsy me soit<lb corresp="#f19_z2_l16"/>dieu propice q̃ i aimeroye plus chier<lb corresp="#f19_z2_l17"/>deuant toꝰ de moy soubmettre a subi<lb corresp="#f19_z2_l18"/>te mort finer mes iours q̃ uoir ou es-<lb corresp="#f19_z2_l19"/>couter deuãt ma presence langaiges<lb corresp="#f19_z2_l20"/>ou parolles qui a uostre hõneur et do<lb corresp="#f19_z2_l21"/>mination et seigneurie fussent mal<lb corresp="#f19_z2_l22"/>cõuenables ne licites Si me ueullez<lb corresp="#f19_z2_l23"/>oyr reciter et declairer ung cas qͥ grã<lb corresp="#f19_z2_l24"/>demẽt touche et ataint uostre profit<lb corresp="#f19_z2_l25"/>et hõneur plu q̃ nulles riẽs. Sire il<lb corresp="#f19_z2_l26"/>est uray et certain q̃ bellissãt uostre<lb corresp="#f19_z2_l27"/>fẽme seur du roy pepĩ de frãce. laq̃lle<lb corresp="#f19_z2_l28"/>uoꝰ auez uoulu ca priser et hõnourer<lb corresp="#f19_z2_l29"/>q̃ pour fẽme et espouse l auez prise. ne<lb corresp="#f19_z2_l30"/>uous tiẽt pas foy ne loyaulte cõme<lb corresp="#f19_z2_l31"/>doit. car pour tout uray elle aime au<lb corresp="#f19_z2_l32"/>tre q̃ uoꝰ; et q̃lle uoꝰ ẽ desloyalle. mais<lb corresp="#f19_z2_l33"/>tãt y a q̃ ne ueulx pas mener ne nõ-<lb corresp="#f19_z2_l34"/>mer celuy qͥ de uostre fẽme fait sa uou<lb corresp="#f19_z2_l35"/>lẽte. Car uoꝰ scauez q̃ ie suis p̃stre sa<lb corresp="#f19_z2_l36"/>cre. il est uray q̃ la uerite de ceste chose<lb corresp="#f19_z2_l37"/>m est uenue en cõfession sine la doyne<lb corresp="#f19_z2_l38"/>ne ueul pas reciter en matere q̃ ie uoꝰ</ab>
+        <pb corresp="#f23"/>
+        <ab corresp="#f23_z1" type="MainZone"><lb corresp="#f23_z1_l1"/>uillainement dechassee Alors elle cõ<lb corresp="#f23_z1_l2"/>sidere le lignage et sang royal dõt el<lb corresp="#f23_z1_l3"/>le estoit partie et yssue. La tres haul<lb corresp="#f23_z1_l4"/>te magnificience imperiale ou elle a-<lb corresp="#f23_z1_l5"/>uoit este mise. Puis pensa la misera<lb corresp="#f23_z1_l6"/>ble et dolãte fortune q̃ sur elle estoit<lb corresp="#f23_z1_l7"/>si soudainemẽt tournee. Helas he-<lb corresp="#f23_z1_l8"/>las pour quoy tarde la mort q̃lle ne<lb corresp="#f23_z1_l9"/>uient a moy pour ma uie abreger et<lb corresp="#f23_z1_l10"/>mes angoisses et douleurs afin met<lb corresp="#f23_z1_l11"/>tre. Las de malleure fus ie nee pour<lb corresp="#f23_z1_l12"/>telle peine souffrir Et de sy hault es<lb corresp="#f23_z1_l13"/>tat cheoir en telle pourete. car de tou<lb corresp="#f23_z1_l14"/>tes les maleureuses ie suis la nõ pas<lb corresp="#f23_z1_l15"/>reille. Or sont toutes mes ioyes en<lb corresp="#f23_z1_l16"/>tristresse muees. Mes ris en pleurs<lb corresp="#f23_z1_l17"/>changez. mes chans en souspirs con<lb corresp="#f23_z1_l18"/>uertis. en lieu de robe de drap d or dõt<lb corresp="#f23_z1_l19"/>souloie estre paree. ie suis cõme fem<lb corresp="#f23_z1_l20"/>me publiq̃. de iniures et uituperez cõ<lb corresp="#f23_z1_l21"/>mise et adornee. Et pour pierres pre<lb corresp="#f23_z1_l22"/>cieuses grosses de ualeur inestima-<lb corresp="#f23_z1_l23"/>bles de toutes pars me conuient le de<lb corresp="#f23_z1_l24"/>mourãt de ma poure uie dolãte semer<lb corresp="#f23_z1_l25"/>et couurir mes habis de grosses lar-<lb corresp="#f23_z1_l26"/>mes et dueil qͥ mes iours et ma uie<lb corresp="#f23_z1_l27"/>me ferõt finer. O uous pastourelles<lb corresp="#f23_z1_l28"/>et bergieres des champs; consideres<lb corresp="#f23_z1_l29"/>ma grant douleur et ploures mõ do-<lb corresp="#f23_z1_l30"/>lant exil. Or pleust a dieu q̃ ie fusse<lb corresp="#f23_z1_l31"/>de aussi basse cõdition et estat descẽ<lb corresp="#f23_z1_l32"/>due q̃ la plꝰ poure du mõde. Au moĩs<lb corresp="#f23_z1_l33"/>ie n auroye nul regret de moy ueoir en<lb corresp="#f23_z1_l34"/>telle pourete Helas pourquoy me a-<lb corresp="#f23_z1_l35"/>lume le soleil et pourquoy me sousti<lb corresp="#f23_z1_l36"/>ent la terre. Car ie n ay besoing q̃ de<lb corresp="#f23_z1_l37"/>la fontaine dãgereuse de tristesse et<lb corresp="#f23_z1_l38"/>mortelle misere. Pour dõner a mes<lb corresp="#f23_z2_l1"/>yeulx force et habõdance de larmes.<lb corresp="#f23_z2_l2"/>Car il n est pas en ma puissance hu<lb corresp="#f23_z2_l3"/>maine et corporelle de ma destresse lã<lb corresp="#f23_z2_l4"/>goureuse souffisãment plourer. O<lb corresp="#f23_z2_l5"/>faulte enuye et trahyson ie te doy biẽ<lb corresp="#f23_z2_l6"/>du cueur mauldire. Car par toy ie<lb corresp="#f23_z2_l7"/>suis au iourduy la plus dolente cre-<lb corresp="#f23_z2_l8"/>ature qͥ soit uiuant sur la terre. He<lb corresp="#f23_z2_l9"/>las mon frere roy pepin q̃ ferez uous<lb corresp="#f23_z2_l10"/>de ceste dolente. Or uous uausist il<lb corresp="#f23_z2_l11"/>mieulx q̃ oncq̃s sur terre ie n eusse es-<lb corresp="#f23_z2_l12"/>te enfantee. Ou q̃ du uentre de ma<lb corresp="#f23_z2_l13"/>mere ie eusse este en terre boutee En<lb corresp="#f23_z2_l14"/>faisant ceste dure cõplainte la dame<lb corresp="#f23_z2_l15"/>demoura pasmee sur le cheual; et a<lb corresp="#f23_z2_l16"/>terre fust tõbee Quand blandimain<lb corresp="#f23_z2_l17"/>s aprocha pour le soustenir. helas dist<lb corresp="#f23_z2_l18"/>il madame prenez en uoꝰ cõfort et ne<lb corresp="#f23_z2_l19"/>ueullez entrer en tel desespoir. Ayez<lb corresp="#f23_z2_l20"/>ferme fiãce en dieu Et aĩsy cõme uoꝰ<lb corresp="#f23_z2_l21"/>estes innocente sachez qͥl uoꝰ cõforte-<lb corresp="#f23_z2_l22"/>ra et uostre bon droit gardera. A dõt<lb corresp="#f23_z2_l23"/>il auisa une moult belle fõtaine uers<lb corresp="#f23_z2_l24"/>laquelle il mena sa dame et au plus<lb corresp="#f23_z2_l25"/>pres la fist assoir pour ung peu repo<lb corresp="#f23_z2_l26"/>ser et reprendre courage. Sy uous<lb corresp="#f23_z2_l27"/>laisseray a parler d eulx et parleray<lb corresp="#f23_z2_l28"/>de l archeuesque qͥ fut perseuerãt en<lb corresp="#f23_z2_l29"/>sa malice dãnable et diabolique.<hi rend="HeadingLine"><lb corresp="#f23_z2_l30"/>Comme l archeuesque se mist<lb corresp="#f23_z2_l31"/>en habit de cheualier et monta a che<lb corresp="#f23_z2_l32"/>ual pour suiuye bellissant qui estoit<lb corresp="#f23_z2_l33"/>bannye.<lb corresp="#f23_z2_l34"/>. iiii.chapitre.</hi></ab>
+        <fw corresp="#f23_z3" type="QuireMarksZone"><lb corresp="#f23_z3_l1"/>ui</fw>
+        <pb corresp="#f24"/>
+        <ab corresp="#f24_z1" type="MainZone"><lb corresp="#f24_z1_l1"/>Uant l archeuesq̃ uit que la<hi rend="DropCapitalLine"><lb corresp="#f24_z1_l2"/>q</hi><lb corresp="#f24_z1_l3"/>dame estoit partie il se pẽsa<lb corresp="#f24_z1_l4"/>qͥl yroit ap̃s et q̃ d elle il fe-<lb corresp="#f24_z1_l5"/>reoit sa uoulente. Il laisa rochet et au<lb corresp="#f24_z1_l6"/>musce et cõme irregulier et apostat a<lb corresp="#f24_z1_l7"/>sainte son espee et mõte a cheual. Et<lb corresp="#f24_z1_l8"/>frappe des esperõs. car il estoit mõte<lb corresp="#f24_z1_l9"/>a l auantage. Et tãt q̃ en peu de tẽps<lb corresp="#f24_z1_l10"/>il fit grãt foison de chemin il deman-<lb corresp="#f24_z1_l11"/>doit a ceulx qͥ rencõtroit nounelle de<lb corresp="#f24_z1_l12"/>la dame. Et on luy disoit le chemin<lb corresp="#f24_z1_l13"/>q̃lle tenoit. Tant cheuaucha le tray<lb corresp="#f24_z1_l14"/>tre qͥl entra en une forez moult lõn-<lb corresp="#f24_z1_l15"/>gue et large. le grant chemin prist et<lb corresp="#f24_z1_l16"/>s efforca d aler. Si n eut gaires che-<lb corresp="#f24_z1_l17"/>uaulche que il aperceut la dame auec<lb corresp="#f24_z1_l18"/>blandimain. qͥ estoit au pres de la fõ<lb corresp="#f24_z1_l19"/>taine ou la dame s y estoit descendue<lb corresp="#f24_z1_l20"/>opur soy rafreschir et ung petit repo<lb corresp="#f24_z1_l21"/>ser. Car lassee et pesante estoit plai<lb corresp="#f24_z1_l22"/>ne de plours et gemissemẽs. de la des<lb corresp="#f24_z1_l23"/>tresse et courroux tres amere q̃lle suos<lb corresp="#f24_z1_l24"/>tenoit sur son cueur. dame dist blan<lb corresp="#f24_z1_l25"/>dimain resconfortez uoꝰ. L archeuesq̃<lb corresp="#f24_z2_l1"/>tira uers eulx et auisa la belle bellis-<lb corresp="#f24_z2_l2"/>sant. Mais elle ne le recogneut poĩt<lb corresp="#f24_z2_l3"/>de loing pour ce qͥl prtoit habit dissi<lb corresp="#f24_z2_l4"/>mule. mais quãt il approcha a bien le<lb corresp="#f24_z2_l5"/>cogneust. helas dit elle blandimain.<lb corresp="#f24_z2_l6"/>Or uoy ie uenir uers noꝰ le faulx hõe<lb corresp="#f24_z2_l7"/>archeuesq̃ qͥ de mon exil est cause. las<lb corresp="#f24_z2_l8"/>i ay trop grant paour qͥl ne me ueulle<lb corresp="#f24_z2_l9"/>faire uillẽnie. Dame dit blãdimain<lb corresp="#f24_z2_l10"/>n ayez de luy ne paour ne doubte Car<lb corresp="#f24_z2_l11"/>s il uient pour uoꝰ faire ne mal ne des-<lb corresp="#f24_z2_l12"/>plaisir ie metteray mon corps pour<lb corresp="#f24_z2_l13"/>le uostre deffendre iusq̃s a la mort. A<lb corresp="#f24_z2_l14"/>ces motz fut uenu l archeuesq̃ il mist<lb corresp="#f24_z2_l15"/>le pie a terre et salua la dame le mi-<lb corresp="#f24_z2_l16"/>eulx qͥl peult et dit tres chiere et hõ-<lb corresp="#f24_z2_l17"/>nouree dame se tant est q̃ uoulez ma<lb corresp="#f24_z2_l18"/>uoulente acõplir et croire mon cõseil<lb corresp="#f24_z2_l19"/>ie feray tant que en peu de tẽps l ẽpe<lb corresp="#f24_z2_l20"/>reur qͥ uoꝰ a dechassee sera de uoꝰ ueoir<lb corresp="#f24_z2_l21"/>biẽ ioyeulx et cõtent. Et seres en uo-<lb corresp="#f24_z2_l22"/>stre p̃mier estat restituee et mise en<lb corresp="#f24_z2_l23"/>plꝰ grãde triũphe q̃ iamais ne fustes<lb corresp="#f24_z2_l24"/>et pour tãt pẽses y. car ie le fais pour<lb corresp="#f24_z2_l25"/>uostre grãt hõneur et proffit Ha dit<lb corresp="#f24_z2_l26"/>la dame desloial et cruel auersaire de<lb corresp="#f24_z2_l27"/>tout hõneur imperialle ie doy biẽ a-<lb corresp="#f24_z2_l28"/>uoir cause de toy aimer et chier tenir<lb corresp="#f24_z2_l29"/>Quãt par ton faulx mal as dõne a<lb corresp="#f24_z2_l30"/>entendre q̃ ie suis miserablemẽt ador<lb corresp="#f24_z2_l31"/>nee et plus q̃ ne fut oncq̃s poure ber-<lb corresp="#f24_z2_l32"/>giere priuee de hõneur royal et ĩperi<lb corresp="#f24_z2_l33"/>ale seigneurie. Tu m as mis a chemi<lb corresp="#f24_z2_l34"/>de danger de user et finer mes iours<lb corresp="#f24_z2_l35"/>en douloureuse destresse. car plꝰ n y a<lb corresp="#f24_z2_l36"/>au monde dolente fẽme q̃ ie suis. da-<lb corresp="#f24_z2_l37"/>me ce dit l archeuesq̃ delaisses telles<lb corresp="#f24_z2_l38"/>parolles. par moy il ne uoꝰ peult que</ab>
+        <pb corresp="#f31"/>
+        <ab corresp="#f31_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f31_z1_l1"/>uesq̃ furent eleue plusieurs nouuel<lb corresp="#f31_z1_l2"/>les coustumes en la cite de cõstãtino<lb corresp="#f31_z1_l3"/>ble et cõmẽt la trahisõ fut cogneue.<lb corresp="#f31_z1_l4"/>. uii. cha</hi><lb corresp="#f31_z1_l5"/>l<lb corresp="#f31_z1_l6"/>Empereur alexãdre ap̃s qͥl<lb corresp="#f31_z1_l7"/>eut dechasse et deboutee ui<lb corresp="#f31_z1_l8"/>tuperablemẽt sa fẽme bellis<lb corresp="#f31_z1_l9"/>sãt hors de sa cõpagnie. fit plusieurs<lb corresp="#f31_z1_l10"/>durs et piteux regretz pour elle et s ẽ<lb corresp="#f31_z1_l11"/>repentit en son courage. mais l arche<lb corresp="#f31_z1_l12"/>uesq̃ mauldit de dien tousiours l en<lb corresp="#f31_z1_l13"/>tretenoit en sa folle oppinion. et l ẽpe<lb corresp="#f31_z1_l14"/>reur le creoit. Et tant luy donna de<lb corresp="#f31_z1_l15"/>puissance et d auctorite sur tous les<lb corresp="#f31_z1_l16"/>aultres que ce qͥl commandoit estoit<lb corresp="#f31_z1_l17"/>fait tant eust de gouuernement et de<lb corresp="#f31_z1_l18"/>seigneurie qͥl mist sus et esleua en la<lb corresp="#f31_z1_l19"/>cite de constantinoble coustumes et<lb corresp="#f31_z1_l20"/>usages cõtre droit et contre rayson.<lb corresp="#f31_z1_l21"/>Or auint q̃ en la cite auoit une foire<lb corresp="#f31_z1_l22"/>laquelle on tenoit le . xu. iour de sep-<lb corresp="#f31_z1_l23"/>tembre et de plusieurs pais uenoiẽt<lb corresp="#f31_z1_l24"/>les marchans a celle foire Et quant<lb corresp="#f31_z1_l25"/>le iour fut uenu que on la deuoit te-<lb corresp="#f31_z2_l1"/>nir. la uille fut toute plaine de mar-<lb corresp="#f31_z2_l2"/>chans de diuers pays et de plusieurs<lb corresp="#f31_z2_l3"/>contrees. La fit l empereur garder la<lb corresp="#f31_z2_l4"/>foire cõme de coustume estoit. et bail<lb corresp="#f31_z2_l5"/>la la garde a l archeuesque qui pour<lb corresp="#f31_z2_l6"/>luy acompaigne fit armer deux cẽs<lb corresp="#f31_z2_l7"/>compaignons; lesquelz partirent de<lb corresp="#f31_z2_l8"/>la uille pour la foire aler garder. en<lb corresp="#f31_z2_l9"/>ycelle foire fut presente le marchant<lb corresp="#f31_z2_l10"/>dont i ay mention faite deuant. C est<lb corresp="#f31_z2_l11"/>assauoir celuy qui trouua blandi-<lb corresp="#f31_z2_l12"/>main et l archeuesque qui se comba-<lb corresp="#f31_z2_l13"/>toient bien le recogneust l archeuesq̃<lb corresp="#f31_z2_l14"/>mais nul semblãt n en fit. Car trop<lb corresp="#f31_z2_l15"/>il doubtoit que sa faulcete ne fust co<lb corresp="#f31_z2_l16"/>gneue moult uoulentiers l eust fait<lb corresp="#f31_z2_l17"/>moutit. mais il n auoit pas la puissã<lb corresp="#f31_z2_l18"/>ce sans trop grãt esclandre. a ce iour<lb corresp="#f31_z2_l19"/>le dit marchant qui fut bien garny<lb corresp="#f31_z2_l20"/>de drap d or et de soye uendit et deli-<lb corresp="#f31_z2_l21"/>ura plꝰ q̃ nul des aultres. pourquoy<lb corresp="#f31_z2_l22"/>en la fin de la foire l archeuesq̃ s y en<lb corresp="#f31_z2_l23"/>uoya deuers luy ung sergẽt pour luy<lb corresp="#f31_z2_l24"/>demander tribu en quoy il estoit te-<lb corresp="#f31_z2_l25"/>nu pour cause de la uendition de sa<lb corresp="#f31_z2_l26"/>marchandise. Le sergent uint a luy<lb corresp="#f31_z2_l27"/>disant. Sire marchant il uoꝰ fault<lb corresp="#f31_z2_l28"/>payer dix deniers pour liure de ce q̃<lb corresp="#f31_z2_l29"/>uous auez uendu. car ainsy est il or-<lb corresp="#f31_z2_l30"/>donne. Or ua dit le marchant q̃ mal<lb corresp="#f31_z2_l31"/>puisse aueuir a celuy qui telle cou-<lb corresp="#f31_z2_l32"/>stume a mise sus. c est le faulx et des-<lb corresp="#f31_z2_l33"/>loyal archeuesque que dieu mauldie<lb corresp="#f31_z2_l34"/>C̃ar lougtemps y a que mourir doit<lb corresp="#f31_z2_l35"/>honteusement et a deshonneur. lors<lb corresp="#f31_z2_l36"/>quant le marchant eust ainsy diffa-<lb corresp="#f31_z2_l37"/>me l archeuesque. Le sergent leua so<lb corresp="#f31_z2_l38"/>baston et frappa le marchant en la</ab>
+      </div>
+    </body>
+  </text>
+  <standOff>
+    <seg n="1" xml:id="s1">Cõment le roy pepin espousa ber te dame de grant renõmee. i. chap̃ u Eritablement nous trouuons aux croniques anciẽnes que noble et uaillãt roy peepin si espousa et prist a fẽme berte dame de grant renõmee;</seg>
+    <seg n="2" xml:id="s2"> saige et pru dente qͥ en son temps eust et souffrit par enuye grãde habondãce de pestil lãce et tribulatiõ. </seg>
+    <seg n="3" xml:id="s3">Car elle fut chas see et espellee de la cõpagnie et habi tation du dit roy son mary;</seg>
+    <seg n="4" xml:id="s4"> par une faulte et mauldite fẽme uielle et en uenimee en malice. laq̃lle uielle pour la premiere nuytee trouua facon et maniere de bailler et deliurer une siẽ ne fille au lieu de la bonne royne berte. et elle mena et cõduisist ceste trahison pour maintenir sa fille auec le roy au lieu de berthe son espouse. leq̃l roy d icelle fille eut deux filz hauf froy et henry. qͥ ou tẽps de leur regne moult fort greuerẽt et gasterent le rage plaĩ et de male uoulẽte. ces deux furent cause de mettre la royne berthe en exil. dont luy cõuint mainte douleur et angoisse souffrir. et en ex il fut la dite dame moult lõguemẽt usãt et passant les iours en larmes et gemissemẽs. </seg>
+    <seg n="5" xml:id="s5">Mais puis ap̃s de sõ amere et douloureuse fortune dieu le createur des peines et tourmẽs uray protecteur deffendeur et tres piteulx uoulut la bõne dame en son auersite misericordieusemẽt secourir. </seg>
+    <seg n="6" xml:id="s6">Et en tãt q̃ dieu createur du mõde au moy en et a l itercessiõ de plusieurs barõs de france desirãt le bien et utilite du dit royaulme;</seg>
+    <seg n="7" xml:id="s7"> la royne berthe fust acordee au roy. lequel en grãt pitie et hõneur la receust. et ap̃s peu de tẽps en elle engendra ung filz. </seg>
+    <seg n="8" xml:id="s8">Ce fut le tres puissant et redoubte roy charlemaigne. leq̃l puis apres fut deboute et dechasse hors du royaulme par les dessus dis. hauffroy et hẽry. ainsi que plus aplain appertence p̃sent liure. mais a tant ie uous ueul parler de la matiere subiecte ia deuãt proposee;</seg>
+    <seg n="9" xml:id="s9"> et par especial du fait et du gouuer nemẽt du uaillant ualẽtin et de son frere orson. </seg>
+    <seg n="10" xml:id="s10">Or est uray q̃ le roy pepĩ auoit une seur nõmee bellissant;</seg>
+    <seg n="11" xml:id="s11"> belle plaisant et tres gracieuse en toutes choses biẽ aprise et endoctrinee et l ai ma le roy pepin son frere de bonne amour cordiale. </seg>
+    <seg n="12" xml:id="s12">Et tãt qͥl auint que pour le bruit et renõmee d icelle laq̃lle de grãs et de petis estoit prisee et amee. pour la beaulte et tres gracieulx parler maniere et cõtenance qͥ en elle ne bellissant la male uoulente de son courage. </seg>
+    <seg n="13" xml:id="s13">Trop a tẽps cõmẽca la folie;</seg>
+    <seg n="14" xml:id="s14"> et tart s en repentit. </seg>
+    <seg n="15" xml:id="s15">Ainsy auie souuent q̃ ce que fol pense il demeure estre parfait. </seg>
+    <seg n="16" xml:id="s16">Cõment l archeuesq̃ ap̃s ce qͥl fut escõdit de la dame bellissant pour sõ hõneur sauluer cõtre la noble dame pẽsa et machina une grãt trahisõ. iii. </seg>
+    <seg n="17" xml:id="s17">N pensee et sousy trop par E fait et ennuyeulx fut l archeuesque doubtãt q̃ l empe reur ne le fist mourir pour sa faulte criminelle;</seg>
+    <seg n="18" xml:id="s18"> laq̃lle cõtre sa haulte sei gneurie et magnificẽte il auoit cõmi se. </seg>
+    <seg n="19" xml:id="s19">Si se pensa de sauluer sõ hõneur tout au mieulx q̃ il pourroit </seg>
+    <seg n="20" xml:id="s20">Et tãt fit q̃ pour sa malediction couurit et pour monstrer apparãce de le aute et preudõmie;</seg>
+    <seg n="21" xml:id="s21"> en faignant et dissimulãt q̃ de tout son pouoir il uouloit et desiroit le bien et honneur et ualeur et utilite de l ẽpereur. </seg>
+    <seg n="22" xml:id="s22">Le iour de l ascetion nostre seigneur. il uint pardeuers l ẽpereur et le tyra a part. et luy dist en telle maniere. </seg>
+    <seg n="23" xml:id="s23">Tres hault empereur il est uray q̃ ie cognois les grans graces et benefices q̃ uous m a ues donez et ottroyez;</seg>
+    <seg n="24" xml:id="s24"> et scay bien q̃ par uous ie suis en hõneur monte et eleue plus que a moy n apartiẽt. </seg>
+    <seg n="25" xml:id="s25">Et sy m auez fait cõme indigne et insuffisant maistre et gouuerneur de tou te uostre maison;</seg>
+    <seg n="26" xml:id="s26"> du tout a moy uoꝰ confiant plus qu en nul aultre de uo stre court. sy ne doy pas estre en lieu ne en place ou ie seuffre ne endure uo stre estat estre diffame et uostre renõ mee mys au bas. </seg>
+    <seg n="27" xml:id="s27">Car ainsy me soit dieu propice q̃ i aimeroye plus chier deuant toꝰ de moy soubmettre a subi te mort finer mes iours q̃ uoir ou escouter deuãt ma presence langaiges ou parolles qui a uostre hõneur et do mination et seigneurie fussent mal cõuenables ne licites Si me ueullez oyr reciter et declairer ung cas qͥ grã demẽt touche et ataint uostre profit et hõneur plu q̃ nulles riẽs. </seg>
+    <seg n="28" xml:id="s28">Sire il est uray et certain q̃ bellissãt uostre fẽme seur du roy pepĩ de frãce. laq̃lle uoꝰ auez uoulu ca priser et hõnourer q̃ pour fẽme et espouse l auez prise. ne uous tiẽt pas foy ne loyaulte cõme doit. car pour tout uray elle aime au tre q̃ uoꝰ;</seg>
+    <seg n="29" xml:id="s29"> et q̃lle uoꝰ ẽ desloyalle. mais tãt y a q̃ ne ueulx pas mener ne nõmer celuy qͥ de uostre fẽme fait sa uou lẽte. </seg>
+    <seg n="30" xml:id="s30">Car uoꝰ scauez q̃ ie suis p̃stre sa cre. il est uray q̃ la uerite de ceste chose m est uenue en cõfession sine la doyne ne ueul pas reciter en matere q̃ ie uoꝰ uillainement dechassee Alors elle cõ sidere le lignage et sang royal dõt el le estoit partie et yssue. </seg>
+    <seg n="31" xml:id="s31">La tres haul te magnificience imperiale ou elle auoit este mise. </seg>
+    <seg n="32" xml:id="s32">Puis pensa la misera ble et dolãte fortune q̃ sur elle estoit si soudainemẽt tournee. </seg>
+    <seg n="33" xml:id="s33">Helas helas pour quoy tarde la mort q̃lle ne uient a moy pour ma uie abreger et mes angoisses et douleurs afin met tre. </seg>
+    <seg n="34" xml:id="s34">Las de malleure fus ie nee pour telle peine souffrir </seg>
+    <seg n="35" xml:id="s35">Et de sy hault es tat cheoir en telle pourete. car de tou tes les maleureuses ie suis la nõ pas reille. </seg>
+    <seg n="36" xml:id="s36">Or sont toutes mes ioyes en tristresse muees. </seg>
+    <seg n="37" xml:id="s37">Mes ris en pleurs changez. mes chans en souspirs con uertis. en lieu de robe de drap d or dõt souloie estre paree. ie suis cõme fem me publiq̃. de iniures et uituperez cõ mise et adornee. </seg>
+    <seg n="38" xml:id="s38">Et pour pierres pre cieuses grosses de ualeur inestimables de toutes pars me conuient le de mourãt de ma poure uie dolãte semer et couurir mes habis de grosses larmes et dueil qͥ mes iours et ma uie me ferõt finer. </seg>
+    <seg n="39" xml:id="s39">O uous pastourelles et bergieres des champs;</seg>
+    <seg n="40" xml:id="s40"> consideres ma grant douleur et ploures mõ dolant exil. </seg>
+    <seg n="41" xml:id="s41">Or pleust a dieu q̃ ie fusse de aussi basse cõdition et estat descẽ due q̃ la plꝰ poure du mõde. </seg>
+    <seg n="42" xml:id="s42">Au moĩs ie n auroye nul regret de moy ueoir en telle pourete Helas pourquoy me alume le soleil et pourquoy me sousti ent la terre. </seg>
+    <seg n="43" xml:id="s43">Car ie n ay besoing q̃ de la fontaine dãgereuse de tristesse et mortelle misere. </seg>
+    <seg n="44" xml:id="s44">Pour dõner a mes yeulx force et habõdance de larmes. </seg>
+    <seg n="45" xml:id="s45">Car il n est pas en ma puissance hu maine et corporelle de ma destresse lã goureuse souffisãment plourer. </seg>
+    <seg n="46" xml:id="s46">O faulte enuye et trahyson ie te doy biẽ du cueur mauldire. </seg>
+    <seg n="47" xml:id="s47">Car par toy ie suis au iourduy la plus dolente creature qͥ soit uiuant sur la terre. </seg>
+    <seg n="48" xml:id="s48">He las mon frere roy pepin q̃ ferez uous de ceste dolente. </seg>
+    <seg n="49" xml:id="s49">Or uous uausist il mieulx q̃ oncq̃s sur terre ie n eusse este enfantee. </seg>
+    <seg n="50" xml:id="s50">Ou q̃ du uentre de ma mere ie eusse este en terre boutee En faisant ceste dure cõplainte la dame demoura pasmee sur le cheual;</seg>
+    <seg n="51" xml:id="s51"> et a terre fust tõbee Quand blandimain s aprocha pour le soustenir. helas dist il madame prenez en uoꝰ cõfort et ne ueullez entrer en tel desespoir. </seg>
+    <seg n="52" xml:id="s52">Ayez ferme fiãce en dieu </seg>
+    <seg n="53" xml:id="s53">Et aĩsy cõme uoꝰ estes innocente sachez qͥl uoꝰ cõfortera et uostre bon droit gardera. </seg>
+    <seg n="54" xml:id="s54">A dõt il auisa une moult belle fõtaine uers laquelle il mena sa dame et au plus pres la fist assoir pour ung peu repo ser et reprendre courage. </seg>
+    <seg n="55" xml:id="s55">Sy uous laisseray a parler d eulx et parleray de l archeuesque qͥ fut perseuerãt en sa malice dãnable et diabolique. </seg>
+    <seg n="56" xml:id="s56">Comme l archeuesque se mist en habit de cheualier et monta a che ual pour suiuye bellissant qui estoit bannye. . iiii.chapitre. </seg>
+    <seg n="57" xml:id="s57">Uant l archeuesq̃ uit que la q dame estoit partie il se pẽsa qͥl yroit ap̃s et q̃ d elle il fereoit sa uoulente. </seg>
+    <seg n="58" xml:id="s58">Il laisa rochet et au musce et cõme irregulier et apostat a sainte son espee et mõte a cheual. </seg>
+    <seg n="59" xml:id="s59">Et frappe des esperõs. car il estoit mõte a l auantage. </seg>
+    <seg n="60" xml:id="s60">Et tãt q̃ en peu de tẽps il fit grãt foison de chemin il demandoit a ceulx qͥ rencõtroit nounelle de la dame. </seg>
+    <seg n="61" xml:id="s61">Et on luy disoit le chemin q̃lle tenoit. </seg>
+    <seg n="62" xml:id="s62">Tant cheuaucha le tray tre qͥl entra en une forez moult lõngue et large. le grant chemin prist et s efforca d aler. </seg>
+    <seg n="63" xml:id="s63">Si n eut gaires cheuaulche que il aperceut la dame auec blandimain. qͥ estoit au pres de la fõ taine ou la dame s y estoit descendue opur soy rafreschir et ung petit repo ser. </seg>
+    <seg n="64" xml:id="s64">Car lassee et pesante estoit plai ne de plours et gemissemẽs. de la des tresse et courroux tres amere q̃lle suos tenoit sur son cueur. dame dist blan dimain resconfortez uoꝰ. </seg>
+    <seg n="65" xml:id="s65">L archeuesq̃ tira uers eulx et auisa la belle bellissant. </seg>
+    <seg n="66" xml:id="s66">Mais elle ne le recogneut poĩt de loing pour ce qͥl prtoit habit dissi mule. mais quãt il approcha a bien le cogneust. helas dit elle blandimain. </seg>
+    <seg n="67" xml:id="s67">Or uoy ie uenir uers noꝰ le faulx hõe archeuesq̃ qͥ de mon exil est cause. las i ay trop grant paour qͥl ne me ueulle faire uillẽnie. </seg>
+    <seg n="68" xml:id="s68">Dame dit blãdimain n ayez de luy ne paour ne doubte Car s il uient pour uoꝰ faire ne mal ne desplaisir ie metteray mon corps pour le uostre deffendre iusq̃s a la mort. </seg>
+    <seg n="69" xml:id="s69">A ces motz fut uenu l archeuesq̃ il mist le pie a terre et salua la dame le mieulx qͥl peult et dit tres chiere et hõnouree dame se tant est q̃ uoulez ma uoulente acõplir et croire mon cõseil ie feray tant que en peu de tẽps l ẽpe reur qͥ uoꝰ a dechassee sera de uoꝰ ueoir biẽ ioyeulx et cõtent. </seg>
+    <seg n="70" xml:id="s70">Et seres en uostre p̃mier estat restituee et mise en plꝰ grãde triũphe q̃ iamais ne fustes et pour tãt pẽses y. car ie le fais pour uostre grãt hõneur et proffit Ha dit la dame desloial et cruel auersaire de tout hõneur imperialle ie doy biẽ auoir cause de toy aimer et chier tenir Quãt par ton faulx mal as dõne a entendre q̃ ie suis miserablemẽt ador nee et plus q̃ ne fut oncq̃s poure bergiere priuee de hõneur royal et ĩperi ale seigneurie. </seg>
+    <seg n="71" xml:id="s71">Tu m as mis a chemi de danger de user et finer mes iours en douloureuse destresse. car plꝰ n y a au monde dolente fẽme q̃ ie suis. dame ce dit l archeuesq̃ delaisses telles parolles. par moy il ne uoꝰ peult que uesq̃ furent eleue plusieurs nouuel les coustumes en la cite de cõstãtino ble et cõmẽt la trahisõ fut cogneue. . uii. cha l Empereur alexãdre ap̃s qͥl eut dechasse et deboutee ui tuperablemẽt sa fẽme bellis sãt hors de sa cõpagnie. fit plusieurs durs et piteux regretz pour elle et s ẽ repentit en son courage. mais l arche uesq̃ mauldit de dien tousiours l en tretenoit en sa folle oppinion. et l ẽpe reur le creoit. </seg>
+    <seg n="72" xml:id="s72">Et tant luy donna de puissance et d auctorite sur tous les aultres que ce qͥl commandoit estoit fait tant eust de gouuernement et de seigneurie qͥl mist sus et esleua en la cite de constantinoble coustumes et usages cõtre droit et contre rayson. </seg>
+    <seg n="73" xml:id="s73">Or auint q̃ en la cite auoit une foire laquelle on tenoit le . xu. iour de septembre et de plusieurs pais uenoiẽt les marchans a celle foire </seg>
+    <seg n="74" xml:id="s74">Et quant le iour fut uenu que on la deuoit tenir. la uille fut toute plaine de marchans de diuers pays et de plusieurs contrees. </seg>
+    <seg n="75" xml:id="s75">La fit l empereur garder la foire cõme de coustume estoit. et bail la la garde a l archeuesque qui pour luy acompaigne fit armer deux cẽs compaignons;</seg>
+    <seg n="76" xml:id="s76"> lesquelz partirent de la uille pour la foire aler garder. en ycelle foire fut presente le marchant dont i ay mention faite deuant. </seg>
+    <seg n="77" xml:id="s77">C est assauoir celuy qui trouua blandimain et l archeuesque qui se combatoient bien le recogneust l archeuesq̃ mais nul semblãt n en fit. </seg>
+    <seg n="78" xml:id="s78">Car trop il doubtoit que sa faulcete ne fust co gneue moult uoulentiers l eust fait moutit. mais il n auoit pas la puissã ce sans trop grãt esclandre. a ce iour le dit marchant qui fut bien garny de drap d or et de soye uendit et deliura plꝰ q̃ nul des aultres. pourquoy en la fin de la foire l archeuesq̃ s y en uoya deuers luy ung sergẽt pour luy demander tribu en quoy il estoit tenu pour cause de la uendition de sa marchandise. </seg>
+    <seg n="79" xml:id="s79">Le sergent uint a luy disant. </seg>
+    <seg n="80" xml:id="s80">Sire marchant il uoꝰ fault payer dix deniers pour liure de ce q̃ uous auez uendu. car ainsy est il ordonne. </seg>
+    <seg n="81" xml:id="s81">Or ua dit le marchant q̃ mal puisse aueuir a celuy qui telle coustume a mise sus. c est le faulx et desloyal archeuesque que dieu mauldie C̃ar lougtemps y a que mourir doit honteusement et a deshonneur. lors quant le marchant eust ainsy diffame l archeuesque. </seg>
+    <seg n="82" xml:id="s82">Le sergent leua so baston et frappa le marchant en la</seg>
+  </standOff>
+</TEI>
