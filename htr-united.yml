@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: "Donn\xE9es HTR incunables du 15e si\xE8cle"
 description: "Corpus d'entrainement pour l'HTR compos\xE9 d'incunable fran\xE7ais\
   \ du 15e s."
@@ -26,7 +26,7 @@ language:
 - frm
 - fra
 script:
-- Latn
+- iso: Latn
 script-type: evenly-mixed
 time:
   notBefore: '1400'
@@ -50,3 +50,4 @@ volume:
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
 citation-file-link: https://github.com/Gallicorpora/HTR-incunable-15e-siecle/CITATION.cff
+production-software: eScriptorium + Kraken
