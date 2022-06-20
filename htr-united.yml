@@ -40,7 +40,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 243907
+  count: 244958
 - metric: files
   count: 149
 - metric: lines
@@ -51,3 +51,93 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
 citation-file-link: https://github.com/Gallicorpora/HTR-incunable-15e-siecle/CITATION.cff
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - s
+  - t
+  - a
+  - i
+  - r
+  - o
+  - n
+  - l
+  - d
+  - c
+  - m
+  - p
+  - "\u0303"
+  - f
+  - q
+  - g
+  - y
+  - h
+  - b
+  - .
+  - z
+  - "\u204A"
+  - x
+  - E
+  - '-'
+  - ','
+  - "\u017F"
+  - L
+  - "\u0365"
+  - D
+  - "\u204B"
+  - C
+  - ;
+  - I
+  - "\uA770"
+  - Q
+  - A
+  - S
+  - "\uA751"
+  - P
+  - M
+  - "\u1DE4"
+  - O
+  - T
+  - "\xB6"
+  - U
+  - N
+  - F
+  - R
+  - "\uA753"
+  - B
+  - G
+  - "\uA76F"
+  - "\u033E"
+  - H
+  - "\u1DD1"
+  - "\u036C"
+  - "\u030C"
+  - ':'
+  - (
+  - '['
+  - ']'
+  - v
+  - J
+  - "\uA758"
+  - )
+  - "\u25CC"
+  - k
+  - "\uA759"
+  - "\u0363"
+  - V
+  - '4'
+  - "\u0366"
+  - w
+  - "\u0368"
+  - "\u0364"
+  - "\u0399"
+  - "\u0327"
+  - '1'
+  - '9'
+  - '7'
+  - "\u0336"
+  - ''''
+  - "\u0301"
+  - '|'
