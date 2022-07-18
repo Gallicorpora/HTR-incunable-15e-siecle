@@ -22,7 +22,6 @@ class SRU:
                 root (etree_Element): parsed XML tree of requested Unimarc data
                 perfect_match (boolean): True if request was completed with Gallica ark / directory basename
             """    
-
             print("|        requesting data from BnF's SRU API")
             r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{self.ark}")')
             root = etree.fromstring(r.content)
@@ -42,7 +41,6 @@ class SRU:
         Returns:
             data (dict) : relevant authorship data (isni, surname, forename, xml:id)
         """        
-
         # create and set defaults for author data
         fields = ["isni", "primary_name", "secondary_name", "namelink" , "xmlid"]
         data = {}
@@ -84,9 +82,8 @@ class SRU:
         Returns:
             data (dict): all relevant metadata from BnF catalogue
         """      
-
         # create and set defaults for data
-        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "date_cert", "date_resp", "country", "idno", "objectdesc", "lang"]
+        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "date_cert", "date_resp", "country", "idno", "objectdesc", "lang", "repo", "settlement"]
         data = {}
         {data.setdefault(f, None) for f in fields}
 
@@ -156,12 +153,59 @@ class SRU:
             if has_isno is not None:
                 data["idno"] = has_isno.text
 
+            has_repo = root.find('.//m:datafield[@tag="930"]/m:subfield[@code="b"]', namespaces=NS)
+            if has_repo is not None:
+                data["settlement"], data["repo"] = self.request_sudoc_data(has_repo.text)
+
         return data
+    
+    def request_sudoc_data(self, num_rcr):
+        """Request and parse a search results page from SUDOC for the repository whose RCR number was found in the Unimarc 930B data.
+        Example of the relevant HTML from the SUDOC results page:
+            <tr>
+                <td class="rec_lable"><div><span>Adresse postale : </span></div></td>
+                <td class="rec_title">
+                    <div><span>NAME OF LIBRARY</span></div>
+                    <div><span>STREET ADDRESS</span></div>
+                    <div><span>CITY AND POSTAL CODE</span></div>
+                    <div><span>COUNTRY</span></div>
+                    <div><span> </span></div>
+                </td>
+            </tr>
+        """
+        # Get the HTML from the search result for the institution's RCR number from Sudoc
+        print("|        requesting data from Sudoc")
+        r = requests.get(f"http://www.sudoc.abes.fr/cbs/xslt//DB=2.2/CMD?ACT=SRCHA&IKT=8888&SRT=RLV&TRM={num_rcr}")
+        if r.status_code == 200:
+            # Parse the HTML into an etree document
+            doc = etree.HTML(r.content)
+            # Grab the <span> that has the label "Adresse postale"
+            address_label = doc.xpath('.//td[@class="rec_lable"]//span[contains(text(),"Adresse postale")]')[0]
+            # Grab the <td> element directly after the <td> that contains the label "Adresse postale"
+            address_title = address_label.getparent().getparent().getnext()
+            # Find the div/span that starts with the country "France"
+            country = address_title.xpath('.//span[starts-with(text(), "France")]')[0]
+            # Grab the text in the first div/span of the address, which should be the name of the institution
+            repository = address_title.xpath('.//span')[0].xpath('string()')
+            # Grab the div/span immediately preceding that which declare the country, which should contain the City
+            city_and_postal_code = country.getparent().getprevious().xpath('string()')
+            # Remove any postal code, other numbers, and/or "CEDEX" from the repository and clean up spaces around remaining text
+            city_and_postal_code_without_cedex = re.sub(r'CEDEX', '', city_and_postal_code)
+            city_with_spaces = re.search(r'(\D+)', city_and_postal_code_without_cedex).group(0)
+            city_without_first_space = re.sub(r'^\s*', '', city_with_spaces)
+            city_without_first_or_last_space = re.sub(r'\s*$', '', city_without_first_space)
+            if city_without_first_or_last_space and repository:
+                print(f"|        \33[32mfound Sudoc data about city and repository\x1b[0m")
+            else:
+                print(f"|        \33[31mdid not find city and repository in Sudoc data\x1b[0m")
+        else:
+            city_without_first_or_last_space = None
+            repository = None
+        return city_without_first_or_last_space, repository
 
     def date_cert(self, key):
         """Assigns a degree of certainty to the document's publication date.
         """
-
         # UNIMARC Norms (ca. 2012)
         # a = currently published continuing resource
         # b = continuing resource no longer being published
@@ -187,8 +231,7 @@ class SRU:
         """Parses and cleans author data from Unimarc fields 700 and/or 701.
         Returns:
             authors (dict): relevant authorship data (isni, surname, forename, xml:id)
-        """     
-           
+        """
         authors = []
         count = 0
         if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:

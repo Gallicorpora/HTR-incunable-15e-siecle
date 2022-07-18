@@ -70,8 +70,8 @@ class FullTree:
     def bib_data(self):
         """In the <bibl>, enter the document's catalogue pointer (ptr), author, title, publication place, publisher, date.
             In the <msDesc>, enter the institution's country code, settlement, repository name, shelfmark for the doc, and doc type.
-        """   
-           
+        """
+
         Entry = namedtuple("Entry", ["tei_element","attribute","iiif_data","unimarc_data"])
         entries =   [
                     # <title> in <titleStmt>, data from IIIF or SRU
@@ -96,8 +96,10 @@ class FullTree:
                     Entry("date","resp",None,"date_resp"),
                     # @key for <country> in <msDesc>, onyl data from SRU
                     Entry("country","key",None,"country"),
+                    # <settlement> in <msDesc>, only data from SRU
+                    Entry("settlement", None, None, "settlement"),
                     # <respository> in <msDesc>, only data from IIIF
-                    Entry("repository",None,"Repository",None),
+                    Entry("repository",None,"Repository","repo"),
                     # <idno> in <msDesc>, data from IIIF or SRU
                     Entry("idno",None,"Shelfmark","idno"),
                     # <p> in <objectDesc>, only data from SRU
