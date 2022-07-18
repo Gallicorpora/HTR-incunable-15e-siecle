@@ -1,10 +1,12 @@
 # -----------------------------------------------------------
 # Code by: Kelly Christensen
-# Python class to map the document and project's metadata to the default <teiHeader>.
+# Python class to map the document's and project's metadata to the default <teiHeader>.
 # -----------------------------------------------------------
 
 from lxml import etree
+import re
 from collections import namedtuple
+from .sourcedoc_build import labels
 
 class FullTree:
     def __init__(self, children, metadata):
@@ -65,7 +67,7 @@ class FullTree:
                     name = etree.SubElement(author_root, "name")
                     name.text = a
 
-    def other_data(self):
+    def bib_data(self):
         """In the <bibl>, enter the document's catalogue pointer (ptr), author, title, publication place, publisher, date.
             In the <msDesc>, enter the institution's country code, settlement, repository name, shelfmark for the doc, and doc type.
         """   
@@ -94,7 +96,7 @@ class FullTree:
                     Entry("date","resp",None,"date_resp"),
                     # @key for <country> in <msDesc>, onyl data from SRU
                     Entry("country","key",None,"country"),
-                    # <respository> in <msDesc>, only data from SRU
+                    # <respository> in <msDesc>, only data from IIIF
                     Entry("repository",None,"Repository",None),
                     # <idno> in <msDesc>, data from IIIF or SRU
                     Entry("idno",None,"Shelfmark","idno"),
@@ -115,3 +117,78 @@ class FullTree:
             tei_element.attrib[attribute] = data
         else:
             tei_element.text = data
+
+    def segmonto_taxonomy(self, filepaths):
+        # List all the SegmOnto tags and a URL pointing to their description.
+        SegmOntoZones = {
+                "CustomZone":"https://segmonto.github.io/gd/gdZ/CustomZone/",
+                "DamageZone":"https://segmonto.github.io/gd/gdZ/DamageZone",
+                "DecorationZone":"https://segmonto.github.io/gd/gdZ/DecorationZone",
+                "DigitizationArtefactzone":"https://segmonto.github.io/gd/gdZ/DigitizationArtefactzone",
+                "DropCapitalZone":"https://segmonto.github.io/gd/gdZ/DropCapitalZone",
+                "MainZone":"https://segmonto.github.io/gd/gdZ/MainZone",
+                "MusicZone":"https://segmonto.github.io/gd/gdZ/MusicZone",
+                "NumberingZone":"https://segmonto.github.io/gd/gdZ/NumberingZone",
+                "QuireMarksZone":"https://segmonto.github.io/gd/gdZ/QuireMarksZone",
+                "RunningTitleZone":"https://segmonto.github.io/gd/gdZ/RunningTitleZone",
+                "SealZone":"https://segmonto.github.io/gd/gdZ/SealZone",
+                "StampZone":"https://segmonto.github.io/gd/gdZ/StampZone",
+                "TableZone":"https://segmonto.github.io/gd/gdZ/TableZone",
+                "TitlePageZone":"https://segmonto.github.io/gd/gdZ/TitlePageZone"
+            }
+        SegmOntoLines = {
+                "CustomLine":"https://segmonto.github.io/gd/gdL/CustomLine/",
+                "DefaultLine":"https://segmonto.github.io/gd/gdL/DefaultLine",
+                "DropCapitalLine":"https://segmonto.github.io/gd/gdL/DropCapitalLine",
+                "HeadingLine":"https://segmonto.github.io/gd/gdL/HeadingLine",
+                "InterlinearLine":"https://segmonto.github.io/gd/gdL/InterlinearLine",
+                "MusicLine":"https://segmonto.github.io/gd/gdL/MusicLine"
+            }
+        
+        # Get all the tags used on the pages of this document.
+        all_tag_dicts = [labels(f) for f in filepaths]
+
+        # With regex, extract the main part (string before a colon, if present) of a label in the tag dictionary.
+        # And use dictionary comprehension to parse all the labels in the document's tags dictionaries.
+        unique_labels = list(set(re.match(r"(\w+):?(\w+)?#?(\d?)?", value).group(1)\
+                                for dic in all_tag_dicts\
+                                for value in dic.values()))
+
+        # Create a list of zone tags used in this document.
+        document_zones = [label for label in unique_labels if "Zone" in label]
+        # Create a list of line tags used in this document.
+        document_lines = [label for label in unique_labels if "Line" in label]
+
+        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto zones.
+        cat_id = {"{http://www.w3.org/XML/1998/namespace}id":"SegmOntoZones"}
+        category = etree.SubElement(self.children["taxonomy"], "category", cat_id)
+        # Enter into the <category> every zone in the document that is also named in the SemOnto guidelines.
+        for z in set(SegmOntoZones).intersection(set(document_zones)):
+            self.enter_taxonomy_category(category, z, SegmOntoZones[z])
+        
+        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto lines.
+        cat_id = {"{http://www.w3.org/XML/1998/namespace}id":"SegmOntoLines"}
+        category = etree.SubElement(self.children["taxonomy"], "category", cat_id)
+        # Enter into the <category> every line in the document that is also named in the SemOnto guidelines.
+        for l in set(SegmOntoLines).intersection(set(document_lines)):
+            self.enter_taxonomy_category(category, l, SegmOntoLines[l])
+        return document_zones, document_lines
+            
+    def enter_taxonomy_category(self, category, tag, url):
+        """Enter into the TEI-XML tree a <catDesc> for a specific SegmOnto line or zone.
+
+        Args:
+            category (etree_Element): root for the element <category> in the TEI-XML document
+            tag (string): name of the tag identified in the ALTO file
+            url (string): URL pointing to a description fo the line or zone in the SegmOnto guidelines
+        """        
+        catDesc_id = {"{http://www.w3.org/XML/1998/namespace}id":f"{tag}"}
+        catDesc = etree.SubElement(category, "catDesc", catDesc_id)
+        title = etree.SubElement(catDesc, "title")
+        title.text = tag
+        ptr = etree.SubElement(catDesc, "ptr")
+        ptr.attrib["target"] = url
+            
+
+
+        

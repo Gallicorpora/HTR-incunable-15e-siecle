@@ -10,7 +10,7 @@ import re
 NS = {"s":"http://www.loc.gov/zing/srw/", "m":"info:lc/xmlns/marcxchange-v2"}
 
 
-class SRU_API:
+class SRU:
     def __init__(self, ark):
         """Args:
             ark (string): document ARK in BnF catalogue"""

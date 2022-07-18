@@ -8,7 +8,7 @@ import requests
 import re
 
 
-class IIIF_API:
+class IIIF:
     def __init__(self, document):
         self.document = document
 
@@ -38,5 +38,5 @@ class IIIF_API:
             clean_data["Catalogue ARK"]=(re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]).group(1))
         # Clean author name, getting rid of ". Auteur du texte" at the end of the string
         if clean_data["Creator"]:
-            clean_data["Creator"]=re.search(r"(.+)(?:. Auteur du texte)", clean_data["Creator"]).group(1)
+            clean_data["Creator"]=re.search(r"(.+)(?:\()", clean_data["Creator"]).group(1)
         return clean_data
