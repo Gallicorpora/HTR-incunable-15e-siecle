@@ -34,9 +34,9 @@ class IIIF:
             else:
                 clean_data[k]=v
         # Derive catalogue ARK from "Relation" field; this will be used to access the BnF's SRU API
-        if clean_data["Relation"]:
+        if clean_data["Relation"] and re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]):
             clean_data["Catalogue ARK"]=(re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]).group(1))
         # Clean author name, getting rid of ". Auteur du texte" at the end of the string
-        if clean_data["Creator"]:
+        if clean_data["Creator"] and re.search(r"(.+)(?:\()", clean_data["Creator"]):
             clean_data["Creator"]=re.search(r"(.+)(?:\()", clean_data["Creator"]).group(1)
         return clean_data

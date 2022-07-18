@@ -13,7 +13,6 @@ jobs:
           pip install lxml
           pip install requests
           pip install pyyaml
-          pip install pandas
       - name: "Create TEI files"
         run: |
          python alto2tei/run.py --config config.yml --version "3.0.13" --header --sourcedoc --body
