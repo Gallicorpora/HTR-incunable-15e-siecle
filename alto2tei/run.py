@@ -9,13 +9,10 @@ from src.write_output import Write
 
 def file_path(string):
     """Verify if the string passed as the argument --config is a valid file path.
-
     Args:
         string (str): file path to YAML configuration file.
-
     Raises:
         FileNotFoundError: informs user that the file path is invalid.
-
     Returns:
         (str): validated path to configuration file
     """    
@@ -40,13 +37,16 @@ def get_args():
     parser.add_argument("--body", default=False, action='store_true',
                         help="produce TEI-XML with <body>")
     args = parser.parse_args()
-    if args.body and not args.sourcedoc: 
-        print("Cannot produce <body> without <sourceDoc>.\nTo call the program with the --body option, include also the --sourcedoc option.")
     return args.config, args.version, args.header, args.sourcedoc, args.body
 
-
-if __name__ == "__main__":
+def main():
     config, version, header, sourcedoc, body = get_args()
+
+    if body and not sourcedoc: 
+        print("")
+        warning = '\n    Cannot produce <body> without <sourceDoc>.\n    To call the program with the --body option, include also the --sourcedoc option.'
+        raise Exception(warning)
+
     with open(config[0]) as cf_file:
         config = yaml.safe_load(cf_file.read())
 
@@ -73,7 +73,7 @@ if __name__ == "__main__":
         if sourcedoc:
             print(f"\33[33mbuilding <sourceDoc>\x1b[0m")
             t0 = perf_counter()
-            tree.build_sourcedoc()
+            tree.build_sourcedoc(config)
             print("|________finished in {:.4f} seconds".format(perf_counter() - t0))
         
         if body:
@@ -83,4 +83,10 @@ if __name__ == "__main__":
             print("|________finished in {:.4f} seconds".format(perf_counter() - t0))
     
         # -- output XML-TEI file --
+        if not os.path.exists('./data/'):
+            os.mkdir('./data/')
         Write(d.doc_name, tree.root).write()
+
+if __name__ == "__main__":
+    main()
+    

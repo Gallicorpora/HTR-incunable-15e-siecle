@@ -9,13 +9,21 @@ import re
 
 
 class IIIF:
-    def __init__(self, document):
+    def __init__(self, document, iiifURI):
         self.document = document
+        self.scheme = iiifURI["scheme"]
+        self.server = iiifURI["server"]
+        self.manifest_prefix = iiifURI["manifest_prefix"]
+        self.manifest_suffix= iiifURI["manifest_suffix"]
 
     def request(self):
-        # Request manifest from Gallica's IIIF Presentation API
-        r = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(self.document)}/manifest.json/")
-        response = {d["label"]:d["value"] for d in r.json()["metadata"]}
+        # Request manifest from the IIIF Presentation API
+        r = requests.get(f"{self.scheme}://{self.server}{self.manifest_prefix}{os.path.basename(self.document)}{self.manifest_suffix}")
+        try:
+            response = {d["label"]:d["value"] for d in r.json()["metadata"]}
+        except:
+            print("The IIIF manifest was not read correctly.")
+            response = {}
         return response
 
     def clean(self, response):
@@ -37,6 +45,6 @@ class IIIF:
         if clean_data["Relation"] and re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]):
             clean_data["Catalogue ARK"]=(re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]).group(1))
         # Clean author name, getting rid of ". Auteur du texte" at the end of the string
-        if clean_data["Creator"] and re.search(r"(.+)(?:\()", clean_data["Creator"]):
-            clean_data["Creator"]=re.search(r"(.+)(?:\()", clean_data["Creator"]).group(1)
+        if clean_data["Creator"]:
+            clean_data["Creator"]=re.sub(r"(\s\(|\.).+", '', clean_data["Creator"])
         return clean_data

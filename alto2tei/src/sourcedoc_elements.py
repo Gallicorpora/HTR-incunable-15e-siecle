@@ -129,7 +129,7 @@ class SurfaceTree:
             word_certainty = self.root.find(f'.//a:String[@ID="{seg_id}"]', namespaces=NS).get("WC")
             cert_attribs = {
                 "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}-cert",
-                "target":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}-text",
+                "target":f"#f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}-text",
                 "locus":"value",
                 "degree":word_certainty
             }
@@ -159,6 +159,7 @@ class SurfaceTree:
             glyph_certainty = self.root.find(f'.//a:Glyph[@ID="{glyph_id}"]', namespaces=NS).get("GC")
             cert_attribs = {
                 "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}-cert",
+                "target":f"#f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}-text",
                 "locus":"value",
                 "degree":glyph_certainty
             }

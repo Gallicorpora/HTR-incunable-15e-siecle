@@ -7,6 +7,20 @@ data:
   # specify the relative path of your data files
   path: "./data"
 
+iiifURI:
+# example:
+  #scheme: "https"
+  #server: "iiif.lib.harvard.edu"
+  #manifest_prefix: "/manifests/ids:"
+  #image_prefix: "/ids/iiif:"
+  #manifest_suffix: ""
+
+  scheme: "https"
+  server: "gallica.bnf.fr"
+  manifest_prefix: "/iiif/ark:/12148/"
+  image_prefix: "/iiif/ark:/12148/"
+  manifest_suffix: "/manifest.json"
+
 responsibility:
   text: "Transformation from ALTO4 to TEI by"
   # create a dictionary for each contributor in your project, featuring

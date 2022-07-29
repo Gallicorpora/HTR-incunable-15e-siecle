@@ -31,11 +31,11 @@ class TEI:
     
     def build_header(self, config, version):
         # confirm that the metadata is being récupéré
-        self.metadata = Metadata(self.d).prepare()
+        self.metadata = Metadata(self.d, config["iiifURI"]).prepare()
         self.root, self.segmonto_zones, self.segmonto_lines = teiheader(self.metadata, self.d, self.root, len(self.fp), config, version, self.fp, self.segmonto_zones, self.segmonto_lines)
     
-    def build_sourcedoc(self):
-        sourcedoc(self.d, self.root, self.fp, self.tags, self.segmonto_zones, self.segmonto_lines)
+    def build_sourcedoc(self, config):
+        sourcedoc(self.d, self.root, self.fp, self.tags, self.segmonto_zones, self.segmonto_lines, config["iiifURI"])
 
     def build_body(self):
         text = Text(self.root)

@@ -55,7 +55,7 @@ def body(root, data):
             if line.line_type == "DropCapitalLine" or line.line_type == "HeadingLine":
                 # check if there is already an emphasized line in this MainZone
                 ab_children = last_element.getchildren()
-                if len(ab_children) == 0 or ab_children[-1].tag != "hi":
+                if len(ab_children) == 0 or ab_children[-1].tag != "hi" or ab_children[-1].get("rend") != line.line_type:
                     hi = etree.Element("hi", rend=line.line_type)
                     last_element.append(hi)
                     hi.append(lb)

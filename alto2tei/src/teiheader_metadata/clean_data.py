@@ -3,14 +3,15 @@ from src.teiheader_metadata.sru_data import SRU
 
 class Metadata:
     metadata = {"sru":None, "iiif":None}
-    def __init__(self, document) -> None:
+    def __init__(self, document, config):
         self.d = document
         self.metadata
+        self.iiifURI = config
 
     def prepare(self):
         # -- Parse data from document's IIIF manifest --
         # instantiate the class IIIF for this document
-        iiif = IIIF(self.d)
+        iiif = IIIF(self.d, self.iiifURI)
         # request the digital document's IIIF manifest data and clean it with methods from IIIF class
         iiif_data = iiif.clean(iiif.request())
         # add the cleaned IIIF data to this document's metadata

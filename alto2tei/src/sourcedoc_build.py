@@ -22,7 +22,7 @@ def labels(filepath):
     return tags
 
 
-def sourcedoc(document_name, output_tei_root, filepath_list, tags, segmonto_zones, segmonto_lines):
+def sourcedoc(document_name, output_tei_root, filepath_list, tags, segmonto_zones, segmonto_lines, config):
     """Creates the <sourceDoc> for an XML-TEI file using data parsed from a series of ALTO files.
         The <sourceDoc> collates each ALTO file, which represents one page of a document, into a wholistic
         description of the document.
@@ -47,7 +47,7 @@ def sourcedoc(document_name, output_tei_root, filepath_list, tags, segmonto_zone
         # Parse the XML tree for the ALTO file
         input_alto_root = etree.parse(file.filepath).getroot()
         # Instantiate the classes Attributes and SurfaceTree for the ALTO file
-        attributes = Attributes(document_name, file.num, input_alto_root, tags)
+        attributes = Attributes(document_name, file.num, input_alto_root, tags, config)
         surface_tree = SurfaceTree(document_name, file.num, input_alto_root)
 
         # -- SURFACE --
