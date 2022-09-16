@@ -27,7 +27,7 @@ language:
 - fra
 script:
 - iso: Latn
-script-type: evenly-mixed
+script-type: only-typed
 time:
   notBefore: '1400'
   notAfter: '1500'
