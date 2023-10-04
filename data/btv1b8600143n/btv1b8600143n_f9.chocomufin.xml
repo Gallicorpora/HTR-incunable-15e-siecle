@@ -1,0 +1,291 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b8600143n_f9.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2439" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2440" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2441" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2442" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2443" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2444" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2445" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2446" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2447" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2448" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2449" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2450" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2451" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2452" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT863" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT862" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT861" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT865" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT864" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2017" HEIGHT="3109" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2017" HEIGHT="3109">
+        
+        <TextBlock HPOS="165" VPOS="278" WIDTH="1464" HEIGHT="2290" ID="eSc_textblock_1bb6505b" TAGREFS="BT2444">
+          <Shape><Polygon POINTS="247 278 165 2538 1592 2568 1629 278"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5bcbe390" TAGREFS="LT862" BASELINE="260 588 582 593" HPOS="254" VPOS="266" WIDTH="326" HEIGHT="332">
+            <Shape><Polygon POINTS="259 585 259 266 572 267 580 590 575 598 254 593"/></Shape>
+	    <String CONTENT="P" HPOS="254" VPOS="266" WIDTH="326" HEIGHT="332"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT861" BASELINE="585 334 816 329 1638 349" HPOS="583" VPOS="272" WIDTH="1055" HEIGHT="101">
+            <Shape><Polygon POINTS="585 334 583 272 1635 287 1638 349 1633 373 1516 357 1457 370 1451 370 1449 370 1446 370 1444 370 1397 354 1221 365 1197 365 1195 365 1192 365 1189 365 1156 349 1112 362 1109 362 1107 362 1104 362 1086 362 922 347 827 357 806 357 803 357 801 357 798 357 795 354 777 341 746 354 744 354 741 354 738 354 731 354 661 339 583 349"/></Shape>
+	    <String CONTENT="Our entamer donques cest oeuure il est tout" HPOS="583" VPOS="272" WIDTH="1055" HEIGHT="101"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1" TAGREFS="LT861" BASELINE="559 393 1625 409" HPOS="557" VPOS="326" WIDTH="1068" HEIGHT="109">
+            <Shape><Polygon POINTS="559 393 562 326 611 339 705 329 718 329 720 329 723 329 728 329 769 341 816 331 827 331 829 331 1622 354 1625 409 1620 435 1267 419 557 419"/></Shape>
+	    <String CONTENT="notoire a tous bons, ⁊ urays catholiques de" HPOS="557" VPOS="326" WIDTH="1068" HEIGHT="109"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2" TAGREFS="LT861" BASELINE="575 458 1617 476" HPOS="570" VPOS="404" WIDTH="1047" HEIGHT="80">
+            <Shape><Polygon POINTS="575 458 575 404 1615 422 1617 476 1612 484 570 466"/></Shape>
+	    <String CONTENT="mettre ⁊ rediger par escript a la memoire per" HPOS="570" VPOS="404" WIDTH="1047" HEIGHT="80"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT861" BASELINE="567 523 1615 541" HPOS="565" VPOS="466" WIDTH="1050" HEIGHT="93">
+            <Shape><Polygon POINTS="567 523 567 466 1612 484 1615 541 1612 546 1482 559 1480 559 1322 546 1280 544 565 544"/></Shape>
+	    <String CONTENT="petuelle des crestiens, les faites ⁊ urayes pa-" HPOS="565" VPOS="466" WIDTH="1050" HEIGHT="93"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4" TAGREFS="LT861" BASELINE="541 580 1612 606" HPOS="536" VPOS="525" WIDTH="1076" HEIGHT="96">
+            <Shape><Polygon POINTS="541 580 541 525 1612 549 1612 606 1607 621 536 601"/></Shape>
+	    <String CONTENT="roles ensembles les u̾tueuses oeuures ⁊ faitz" HPOS="536" VPOS="525" WIDTH="1076" HEIGHT="96"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5" TAGREFS="LT861" BASELINE="241 639 1615 671" HPOS="235" VPOS="575" WIDTH="1380" HEIGHT="116">
+            <Shape><Polygon POINTS="241 639 241 575 1615 603 1615 671 1609 691 235 660"/></Shape>
+	    <String CONTENT="de nostre benoist sauueur ihũ crist ⁊ des saĩs apostres furent" HPOS="235" VPOS="575" WIDTH="1380" HEIGHT="116"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6" TAGREFS="LT861" BASELINE="238 704 1609 735" HPOS="233" VPOS="647" WIDTH="1376" HEIGHT="106">
+            <Shape><Polygon POINTS="238 704 238 647 1609 673 1609 735 1604 753 233 715"/></Shape>
+	    <String CONTENT="esleuz quatre preudhõmes d entreulx plaĩs de uerite ⁊ uer-" HPOS="233" VPOS="647" WIDTH="1376" HEIGHT="106"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7" TAGREFS="LT861" BASELINE="233 766 1597 797" HPOS="228" VPOS="702" WIDTH="1369" HEIGHT="111">
+            <Shape><Polygon POINTS="233 766 233 702 1594 743 1597 797 1591 813 1140 800 1114 803 1029 810 1026 810 1024 810 1000 797 998 797 987 797 917 808 915 808 808 792 790 792 764 792 578 800 575 800 510 787 464 797 461 797 458 797 228 777"/></Shape>
+	    <String CONTENT="tu pour faire cestuy saint mistere qui se nõment euãgiles ꝑ" HPOS="228" VPOS="702" WIDTH="1369" HEIGHT="111"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8" TAGREFS="LT861" BASELINE="235 829 1607 865" HPOS="230" VPOS="774" WIDTH="1377" HEIGHT="114">
+            <Shape><Polygon POINTS="235 829 235 774 697 774 699 774 725 787 731 787 744 787 821 777 824 777 827 777 829 777 842 790 845 790 847 790 897 779 899 779 1005 792 1026 795 1039 795 1117 785 1119 785 1607 810 1607 865 1604 875 1524 888 1521 888 1519 888 1516 888 1498 875 1423 886 1420 886 1418 886 1415 886 1399 873 1314 883 1311 883 1218 867 1205 867 1195 867 1119 878 1117 878 1016 865 992 860 230 847"/></Shape>
+	    <String CONTENT="les escriptures lesquelles la uraye ⁊ saĩcte foy catholique" HPOS="230" VPOS="774" WIDTH="1377" HEIGHT="114"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9" TAGREFS="LT861" BASELINE="233 896 1602 927" HPOS="228" VPOS="842" WIDTH="1374" HEIGHT="101">
+            <Shape><Polygon POINTS="233 896 233 842 1602 873 1602 927 1597 943 228 909"/></Shape>
+	    <String CONTENT="est tenue en lumiere ⁊ corroboree ⁊ sera iusques a la fin des" HPOS="228" VPOS="842" WIDTH="1374" HEIGHT="101"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10" TAGREFS="LT861" BASELINE="230 961 1604 989" HPOS="225" VPOS="896" WIDTH="1379" HEIGHT="117">
+            <Shape><Polygon POINTS="230 961 230 896 521 914 591 904 601 904 604 904 622 904 731 922 1604 932 1604 989 1599 1013 1335 997 1270 1005 1231 1007 1228 1007 1226 1007 1215 1002 1200 994 1091 1000 985 1002 982 1002 979 1002 948 994 925 989 904 992 865 1000 863 1000 860 1000 858 1000 845 992 834 987 764 989 606 994 604 994 601 994 565 981 557 981 547 981 482 992 479 992 477 992 474 992 458 979 456 979 448 979 357 989 355 989 225 971"/></Shape>
+	    <String CONTENT="siecles. Asembla donques pour uerifier ⁊ mettre en auant" HPOS="225" VPOS="896" WIDTH="1379" HEIGHT="117"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11" TAGREFS="LT861" BASELINE="222 1025 1599 1057" HPOS="217" VPOS="961" WIDTH="1382" HEIGHT="114">
+            <Shape><Polygon POINTS="222 1025 222 961 1599 997 1599 1057 1594 1075 217 1046"/></Shape>
+	    <String CONTENT="les parolles ⁊ auctoritez des fẽmes de iadis affĩ aussi de les" HPOS="217" VPOS="961" WIDTH="1382" HEIGHT="114"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12" TAGREFS="LT861" BASELINE="225 1090 1584 1116" HPOS="220" VPOS="1038" WIDTH="1364" HEIGHT="99">
+            <Shape><Polygon POINTS="225 1090 225 1038 1581 1054 1584 1116 1578 1137 220 1111"/></Shape>
+	    <String CONTENT="non perdre ne tellement esuanouir que la memore ne puis" HPOS="220" VPOS="1038" WIDTH="1364" HEIGHT="99"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13" TAGREFS="LT861" BASELINE="225 1155 1594 1184" HPOS="220" VPOS="1101" WIDTH="1374" HEIGHT="90">
+            <Shape><Polygon POINTS="225 1155 225 1101 1594 1129 1594 1184 1589 1191 220 1176"/></Shape>
+	    <String CONTENT="se estre fresche et recite entre celles du temps present et de" HPOS="220" VPOS="1101" WIDTH="1374" HEIGHT="90"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14" TAGREFS="LT861" BASELINE="215 1215 1597 1248" HPOS="209" VPOS="1150" WIDTH="1388" HEIGHT="114">
+            <Shape><Polygon POINTS="215 1215 212 1163 287 1150 290 1150 292 1150 321 1163 321 1165 1107 1181 1109 1181 1145 1171 1148 1171 1151 1171 1153 1171 1156 1171 1169 1184 1171 1184 1177 1184 1239 1173 1241 1173 1597 1194 1597 1248 1591 1264 209 1225"/></Shape>
+	    <String CONTENT="celui ont este trouuees six matrones saiges qͥ prudentes a re" HPOS="209" VPOS="1150" WIDTH="1388" HEIGHT="114"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15" TAGREFS="LT861" BASELINE="209 1279 1586 1313" HPOS="204" VPOS="1228" WIDTH="1382" HEIGHT="98">
+            <Shape><Polygon POINTS="209 1279 209 1228 1584 1253 1586 1313 1581 1326 204 1290"/></Shape>
+	    <String CONTENT="citer ⁊ lire les ď euangilles des quenouilles en la maniere qͥ" HPOS="204" VPOS="1228" WIDTH="1382" HEIGHT="98"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16" TAGREFS="LT861" BASELINE="204 1347 1594 1375" HPOS="199" VPOS="1290" WIDTH="1395" HEIGHT="96">
+            <Shape><Polygon POINTS="204 1347 204 1290 1591 1308 1594 1375 1589 1386 199 1357"/></Shape>
+	    <String CONTENT="ci ap̃s sera declare ⁊ pour ce q̃n tout tesmoĩgnage de uerite il" HPOS="199" VPOS="1290" WIDTH="1395" HEIGHT="96"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17" TAGREFS="LT861" BASELINE="207 1412 1586 1437" HPOS="199" VPOS="1357" WIDTH="1387" HEIGHT="101">
+            <Shape><Polygon POINTS="207 1412 207 1357 1584 1375 1586 1437 1584 1448 1311 1458 1309 1458 1306 1458 1278 1445 899 1450 897 1450 339 1427 243 1437 241 1437 238 1437 199 1422"/></Shape>
+	    <String CONTENT="cõuient trois fẽmes pour deux hões pour faire ⁊ acõplir dõ" HPOS="199" VPOS="1357" WIDTH="1387" HEIGHT="101"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18" TAGREFS="LT861" BASELINE="207 1479 1584 1505" HPOS="199" VPOS="1417" WIDTH="1385" HEIGHT="109">
+            <Shape><Polygon POINTS="207 1479 204 1422 583 1417 585 1417 741 1424 897 1435 974 1427 1018 1424 1021 1424 1047 1430 1094 1437 1145 1430 1166 1427 1169 1427 1202 1430 1309 1443 1428 1432 1441 1432 1444 1432 1449 1432 1506 1445 1578 1435 1584 1505 1581 1513 1449 1526 1446 1526 1070 1505 1049 1518 1047 1518 1044 1518 1042 1518 1039 1518 1037 1518 1013 1502 1005 1502 897 1515 894 1515 891 1515 847 1500 845 1500 842 1500 759 1513 757 1513 655 1497 624 1510 622 1510 619 1510 357 1489 342 1489 334 1489 230 1502 228 1502 225 1502 222 1502 199 1487"/></Shape>
+	    <String CONTENT="ques le nombre des ď quatre euãgelistes il conuient q̃ six fẽ" HPOS="199" VPOS="1417" WIDTH="1385" HEIGHT="109"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19" TAGREFS="LT861" BASELINE="207 1541 1581 1570" HPOS="199" VPOS="1484" WIDTH="1382" HEIGHT="96">
+            <Shape><Polygon POINTS="207 1541 207 1484 1578 1513 1581 1570 1578 1580 832 1580 829 1577 339 1567 337 1567 334 1567 334 1564 331 1564 324 1554 254 1564 251 1564 248 1564 199 1549"/></Shape>
+	    <String CONTENT="mes aient este ẽpeschees de faire cestui oeuuvre pour plꝰ grã" HPOS="199" VPOS="1484" WIDTH="1382" HEIGHT="96"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20" TAGREFS="LT861" BASELINE="204 1606 1589 1637" HPOS="199" VPOS="1533" WIDTH="1390" HEIGHT="114">
+            <Shape><Polygon POINTS="204 1606 204 1533 324 1551 407 1538 409 1538 557 1557 663 1546 666 1546 668 1546 671 1546 687 1562 837 1562 878 1549 881 1549 884 1549 1091 1567 1125 1554 1127 1554 1130 1554 1132 1554 1236 1570 1265 1559 1267 1559 1270 1559 1272 1559 1275 1559 1275 1562 1288 1572 1446 1562 1449 1562 1451 1562 1516 1577 1586 1564 1589 1637 1584 1647 199 1627"/></Shape>
+	    <String CONTENT="de approbation de uerite desq̃lles les nõs s en suiuẽt La p̃mi" HPOS="199" VPOS="1533" WIDTH="1390" HEIGHT="114"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21" TAGREFS="LT861" BASELINE="202 1671 1589 1696" HPOS="197" VPOS="1616" WIDTH="1392" HEIGHT="99">
+            <Shape><Polygon POINTS="202 1671 202 1616 1586 1632 1589 1696 1586 1707 1187 1715 1184 1715 1182 1715 1179 1715 1179 1712 1166 1702 1164 1702 1037 1712 1034 1712 1031 1712 990 1699 904 1709 902 1709 197 1684"/></Shape>
+	    <String CONTENT="ere fut nõmee dame ysengrine du glay; la secõde se nõmoit" HPOS="197" VPOS="1616" WIDTH="1392" HEIGHT="99"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22" TAGREFS="LT861" BASELINE="202 1733 1581 1761" HPOS="197" VPOS="1673" WIDTH="1384" HEIGHT="112">
+            <Shape><Polygon POINTS="202 1733 202 1673 1578 1707 1581 1761 1578 1772 1457 1785 1454 1785 1348 1769 1327 1766 1309 1769 1205 1779 1202 1779 1200 1779 1156 1764 1148 1764 1140 1764 1081 1777 1078 1777 959 1774 956 1774 954 1774 933 1761 928 1759 912 1761 832 1772 829 1772 827 1772 824 1772 811 1759 806 1756 788 1759 707 1769 705 1769 197 1746"/></Shape>
+	    <String CONTENT="dame trãseline du croq. la tierce eut nõ dame abũde du four" HPOS="197" VPOS="1673" WIDTH="1384" HEIGHT="112"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23" TAGREFS="LT861" BASELINE="202 1795 1576 1829" HPOS="197" VPOS="1728" WIDTH="1379" HEIGHT="116">
+            <Shape><Polygon POINTS="202 1795 202 1728 308 1746 409 1735 412 1735 414 1735 417 1735 417 1738 419 1738 427 1748 508 1738 510 1738 627 1753 795 1743 816 1743 819 1743 847 1746 1068 1766 1576 1766 1576 1829 1573 1839 1153 1844 1151 1844 1148 1844 1145 1844 1127 1831 627 1831 624 1831 197 1805"/></Shape>
+	    <String CONTENT="la quarte eut nom dame sebile des marestz la quĩte eut nõ" HPOS="197" VPOS="1728" WIDTH="1379" HEIGHT="116"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24" TAGREFS="LT861" BASELINE="199 1862 1506 1886" HPOS="194" VPOS="1798" WIDTH="1312" HEIGHT="98">
+            <Shape><Polygon POINTS="199 1862 199 1798 1503 1834 1506 1886 1501 1896 194 1883"/></Shape>
+	    <String CONTENT="dãc gõberde la fee. la quĩte eut nom dame berthe cornue" HPOS="194" VPOS="1798" WIDTH="1312" HEIGHT="98"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25" TAGREFS="LT861" BASELINE="194 1932 1573 1953" HPOS="189" VPOS="1875" WIDTH="1384" HEIGHT="91">
+            <Shape><Polygon POINTS="194 1932 194 1875 1573 1896 1573 1953 1568 1966 189 1948"/></Shape>
+	    <String CONTENT="Les six dames furẽt si tres sages en leur tẽps q̃ ce s eust este" HPOS="189" VPOS="1875" WIDTH="1384" HEIGHT="91"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26" TAGREFS="LT861" BASELINE="194 1994 1560 2018" HPOS="191" VPOS="1937" WIDTH="1369" HEIGHT="101">
+            <Shape><Polygon POINTS="194 1994 194 1937 1558 1958 1560 2018 1555 2038 1361 2026 1291 2036 1278 2036 1275 2036 1272 2036 1270 2036 1252 2023 1164 2033 1153 2033 1151 2033 1148 2033 1145 2033 1101 2020 728 2026 663 2026 661 2026 637 2023 495 2010 191 2015"/></Shape>
+	    <String CONTENT="pour cõiurer ung noir dyable ou pour le lier dessꝰ ung cõs" HPOS="191" VPOS="1937" WIDTH="1369" HEIGHT="101"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27" TAGREFS="LT861" BASELINE="197 2059 1568 2080" HPOS="191" VPOS="1992" WIDTH="1377" HEIGHT="106">
+            <Shape><Polygon POINTS="197 2059 194 2005 365 1992 368 1992 370 1992 373 1992 396 2007 399 2007 419 2007 562 1997 565 1997 645 2010 648 2010 650 2010 705 1997 707 1997 710 1997 712 1997 749 2013 754 2013 759 2013 816 2000 819 2000 821 2000 871 2013 1138 2005 1140 2005 1143 2005 1145 2005 1161 2018 1161 2020 1298 2020 1304 2020 1345 2007 1348 2007 1350 2007 1568 2026 1568 2080 1563 2098 191 2070"/></Shape>
+	    <String CONTENT="sin si estoient elles asses expertes ⁊ abilles. Qui fut la" HPOS="191" VPOS="1992" WIDTH="1377" HEIGHT="106"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28" TAGREFS="LT861" BASELINE="191 2121 1563 2150" HPOS="186" VPOS="2057" WIDTH="1377" HEIGHT="101">
+            <Shape><Polygon POINTS="191 2121 189 2064 438 2057 440 2057 443 2057 464 2067 471 2070 578 2067 723 2064 725 2064 811 2070 943 2080 1021 2072 1060 2070 1062 2070 1099 2075 1192 2085 1291 2075 1311 2075 1314 2075 1345 2077 1501 2090 1560 2080 1563 2150 1558 2158 186 2137"/></Shape>
+	    <String CONTENT="premiere fẽme qui mist auãt ces euãgilles. Et cõment le cõ" HPOS="186" VPOS="2057" WIDTH="1377" HEIGHT="101"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29" TAGREFS="LT861" BASELINE="191 2186 1399 2207" HPOS="189" VPOS="2119" WIDTH="1210" HEIGHT="119">
+            <Shape><Polygon POINTS="191 2186 189 2140 269 2119 272 2119 370 2124 373 2124 375 2124 394 2140 435 2121 438 2121 440 2121 523 2140 614 2127 617 2127 619 2127 679 2145 777 2132 780 2132 782 2132 808 2145 946 2134 948 2134 951 2134 954 2134 972 2147 990 2132 992 2132 995 2132 998 2132 1114 2145 1117 2145 1119 2145 1143 2165 1148 2171 1397 2173 1399 2207 1399 2222 1358 2238 1355 2238 1353 2238 1350 2238 1348 2238 1329 2225 1140 2235 1138 2235 1135 2235 1101 2222 1094 2220 1068 2222 969 2233 967 2233 964 2233 961 2233 948 2222 941 2217 917 2222 863 2230 860 2230 858 2230 855 2230 842 2220 832 2217 617 2220 430 2222 427 2222 407 2220 339 2207 189 2217"/></Shape>
+	    <String CONTENT="poseur de ce liure fut contraint de faire ceste oeuure" HPOS="189" VPOS="2119" WIDTH="1210" HEIGHT="119"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_155f2e33" TAGREFS="LT862" BASELINE="189 2436 400 2436" HPOS="186" VPOS="2259" WIDTH="213" HEIGHT="177">
+            <Shape><Polygon POINTS="186 2435 186 2259 399 2259 399 2435 398 2436 191 2433"/></Shape>
+	    <String CONTENT="S" HPOS="186" VPOS="2259" WIDTH="213" HEIGHT="177"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30" TAGREFS="LT861" BASELINE="399 2318 1573 2339" HPOS="391" VPOS="2256" WIDTH="1182" HEIGHT="99">
+            <Shape><Polygon POINTS="399 2318 399 2256 837 2269 871 2266 920 2259 922 2259 964 2266 987 2272 1044 2269 1179 2261 1182 2261 1257 2274 1280 2277 1309 2274 1423 2264 1425 2264 1571 2282 1573 2339 1571 2349 987 2355 985 2355 671 2336 435 2344 432 2344 430 2344 391 2329"/></Shape>
+	    <String CONTENT="Elon q̃ ie trouue es ãciens registres ces euãgiles" HPOS="391" VPOS="2256" WIDTH="1182" HEIGHT="99"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31" TAGREFS="LT861" BASELINE="399 2386 1565 2404" HPOS="396" VPOS="2329" WIDTH="1169" HEIGHT="93">
+            <Shape><Polygon POINTS="399 2386 399 2329 1563 2347 1565 2404 1560 2422 827 2401 622 2409 585 2409 583 2409 580 2409 578 2409 559 2396 396 2404"/></Shape>
+	    <String CONTENT="furent cõmencees des les premier ⁊ secõd aage du;" HPOS="396" VPOS="2329" WIDTH="1169" HEIGHT="93"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32" TAGREFS="LT861" BASELINE="401 2448 1563 2463" HPOS="399" VPOS="2393" WIDTH="1164" HEIGHT="96">
+            <Shape><Polygon POINTS="401 2448 401 2393 1560 2409 1563 2463 1560 2476 1371 2489 1368 2489 1366 2489 1319 2476 1311 2476 399 2476"/></Shape>
+	    <String CONTENT="mõde au tẽps que regnoit le puissãt roy zoroastes" HPOS="399" VPOS="2393" WIDTH="1164" HEIGHT="96"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33" TAGREFS="LT861" BASELINE="186 2497 357 2497 422 2513 541 2518 1560 2531" HPOS="181" VPOS="2443" WIDTH="1387" HEIGHT="145">
+            <Shape><Polygon POINTS="186 2497 184 2450 365 2443 368 2443 370 2443 373 2443 388 2456 427 2460 588 2462 611 2463 617 2461 617 2458 619 2458 622 2458 705 2453 707 2453 1158 2471 1291 2471 1306 2456 1309 2456 1311 2456 1314 2456 1317 2456 1392 2475 1439 2468 1568 2478 1560 2531 1555 2588 1122 2583 1119 2583 1117 2583 1117 2580 1112 2577 1104 2570 1011 2575 868 2580 865 2580 863 2580 839 2570 829 2562 821 2567 816 2575 814 2575 811 2575 808 2575 749 2567 715 2562 710 2564 694 2575 692 2575 689 2575 687 2575 684 2575 637 2562 609 2557 580 2562 502 2575 500 2575 497 2575 435 2557 419 2551 181 2549"/></Shape>
+	    <String CONTENT="qui fut le premier qui trouua l art de nigromãci le quel art" HPOS="181" VPOS="2443" WIDTH="1387" HEIGHT="145"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="253" VPOS="264" WIDTH="322" HEIGHT="329" ID="eSc_textblock_c48cb748" TAGREFS="BT2442">
+          <Shape><Polygon POINTS="253 264 253 593 575 593 575 439 575 264"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="194" VPOS="2274" WIDTH="209" HEIGHT="164" ID="eSc_textblock_f7e5f6cd" TAGREFS="BT2442">
+          <Shape><Polygon POINTS="194 2274 194 2438 403 2438 403 2274 292 2274"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,180 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k10516302_f17.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2487" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2488" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2489" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2490" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2491" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2492" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2493" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2494" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2495" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2496" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2497" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2498" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2499" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2500" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT881" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT880" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT878" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT877" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT876" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2898" HEIGHT="4296" PHYSICAL_IMG_NR="7" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2898" HEIGHT="4296">
+        
+        <TextBlock HPOS="207" VPOS="386" WIDTH="2113" HEIGHT="3177" ID="eSc_textblock_fa837b75" TAGREFS="BT2492">
+          <Shape><Polygon POINTS="207 386 207 3563 2320 3563 2320 2806 2320 386"/></Shape>
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT878" BASELINE="351 519 1289 497 1995 501" HPOS="343" VPOS="404" WIDTH="1652" HEIGHT="136">
+            <Shape><Polygon POINTS="351 519 343 433 1984 404 1995 501 1995 529 351 540"/></Shape>
+	    <String CONTENT="¶ Cõment sainct martin auant son baptesme departit" HPOS="343" VPOS="404" WIDTH="1652" HEIGHT="136"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1" TAGREFS="LT878" BASELINE="372 608 1658 587" HPOS="365" VPOS="508" WIDTH="1293" HEIGHT="208">
+            <Shape><Polygon POINTS="372 608 365 529 1647 508 1658 587 1658 687 372 716"/></Shape>
+	    <String CONTENT="son manteau au poure a la porte d amiens." HPOS="365" VPOS="508" WIDTH="1293" HEIGHT="208"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2" TAGREFS="LT876" BASELINE="422 2248 2281 2212" HPOS="415" VPOS="2119" WIDTH="1866" HEIGHT="154">
+            <Shape><Polygon POINTS="422 2248 415 2173 605 2148 608 2148 752 2162 770 2162 777 2162 798 2144 802 2144 805 2144 809 2144 1056 2151 1160 2155 2260 2119 2281 2212 2281 2233 1350 2273 1346 2273 419 2269"/></Shape>
+	    <String CONTENT="uant il fut pres de la porte pour entrer en la cite d amiẽs si en" HPOS="415" VPOS="2119" WIDTH="1866" HEIGHT="154"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT876" BASELINE="426 2341 2281 2309" HPOS="419" VPOS="2219" WIDTH="1862" HEIGHT="165">
+            <Shape><Polygon POINTS="426 2341 419 2251 1651 2248 1773 2241 2167 2219 2170 2219 2274 2237 2281 2309 2281 2341 1038 2373 1035 2373 981 2373 666 2362 426 2384"/></Shape>
+	    <String CONTENT="contar une poure creature toute nue qͥ demãdoit l ausmosne" HPOS="419" VPOS="2219" WIDTH="1862" HEIGHT="165"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_972909be" TAGREFS="LT877" BASELINE="207 2371 436 2361" HPOS="204" VPOS="2132" WIDTH="229" HEIGHT="259">
+            <Shape><Polygon POINTS="204 2369 209 2142 265 2152 307 2137 356 2145 366 2137 365 2141 377 2132 384 2144 431 2139 433 2359 429 2380 204 2391"/></Shape>
+	    <String CONTENT="Q" HPOS="204" VPOS="2132" WIDTH="229" HEIGHT="259"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4" TAGREFS="LT876" BASELINE="222 2434 2274 2398" HPOS="214" VPOS="2327" WIDTH="2060" HEIGHT="132">
+            <Shape><Polygon POINTS="222 2434 214 2362 2263 2327 2274 2398 2274 2420 222 2459"/></Shape>
+	    <String CONTENT="a ceulx qui passoiẽt par la rue Mais chñn passoit sans riens lui dõ-" HPOS="214" VPOS="2327" WIDTH="2060" HEIGHT="132"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5" TAGREFS="LT876" BASELINE="225 2523 2278 2491" HPOS="218" VPOS="2405" WIDTH="2060" HEIGHT="136">
+            <Shape><Polygon POINTS="225 2523 218 2434 2267 2405 2278 2491 2278 2502 1361 2538 225 2541"/></Shape>
+	    <String CONTENT="ner. Sainct martin uit le poure qͥ auoit mieulx la stature d un mort" HPOS="218" VPOS="2405" WIDTH="2060" HEIGHT="136"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6" TAGREFS="LT876" BASELINE="225 2616 2271 2581" HPOS="218" VPOS="2506" WIDTH="2053" HEIGHT="143">
+            <Shape><Polygon POINTS="225 2616 218 2523 2260 2506 2271 2581 2267 2599 2170 2620 2167 2620 2163 2620 2131 2602 2120 2599 2099 2602 2045 2616 2041 2616 2038 2616 1837 2609 1748 2606 1676 2613 1447 2634 1443 2634 1250 2620 1189 2616 1117 2624 931 2642 927 2642 813 2627 766 2624 727 2631 630 2649 626 2649 526 2634 472 2627 225 2638"/></Shape>
+	    <String CONTENT="que d un uif. Lors eut pitie de lui et pensa que s il lui donnoit quelque" HPOS="218" VPOS="2506" WIDTH="2053" HEIGHT="143"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7" TAGREFS="LT876" BASELINE="222 2702 2267 2674" HPOS="211" VPOS="2584" WIDTH="2056" HEIGHT="136">
+            <Shape><Polygon POINTS="222 2702 211 2631 476 2602 480 2602 630 2624 648 2624 655 2624 720 2599 723 2599 727 2599 730 2599 795 2620 798 2624 970 2624 974 2616 981 2606 985 2606 985 2602 988 2602 992 2602 995 2602 999 2602 1038 2616 1042 2616 1063 2599 1067 2599 1071 2599 1074 2599 1078 2599 1081 2599 1103 2616 1106 2616 1705 2613 1715 2606 1744 2584 1748 2584 1751 2584 1755 2584 2260 2599 2267 2674 2263 2695 222 2720"/></Shape>
+	    <String CONTENT="chose qu il feroit bien. mais il n auoit gueres que lui donner fors seu" HPOS="211" VPOS="2584" WIDTH="2056" HEIGHT="136"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8" TAGREFS="LT876" BASELINE="222 2803 2267 2767" HPOS="214" VPOS="2681" WIDTH="2053" HEIGHT="129">
+            <Shape><Polygon POINTS="222 2803 214 2702 2256 2681 2267 2767 2267 2778 1651 2806 222 2810"/></Shape>
+	    <String CONTENT="lemẽt son manteau de cheualerie qu il portoit. Et pour ce lui couppa" HPOS="214" VPOS="2681" WIDTH="2053" HEIGHT="129"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9" TAGREFS="LT876" BASELINE="222 2889 2263 2856" HPOS="218" VPOS="2767" WIDTH="2045" HEIGHT="136">
+            <Shape><Polygon POINTS="222 2889 218 2795 1117 2799 1171 2788 1225 2778 1228 2778 1286 2788 1332 2795 1418 2788 1586 2770 1590 2770 1755 2785 1798 2788 1819 2785 1905 2767 1909 2767 2256 2785 2263 2856 2260 2871 222 2903"/></Shape>
+	    <String CONTENT="de son espee la moytie de son mãteau Dont plusieurs se sõt mocquez" HPOS="218" VPOS="2767" WIDTH="2045" HEIGHT="136"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10" TAGREFS="LT876" BASELINE="222 2985 2267 2946" HPOS="211" VPOS="2846" WIDTH="2056" HEIGHT="164">
+            <Shape><Polygon POINTS="222 2985 211 2899 2256 2846 2267 2946 2263 2960 222 3010"/></Shape>
+	    <String CONTENT="quãt ilz ne lui uirent que demy manteau Ẽt les aucũs en plouroiẽt" HPOS="211" VPOS="2846" WIDTH="2056" HEIGHT="164"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11" TAGREFS="LT876" BASELINE="218 3078 2260 3039" HPOS="207" VPOS="2939" WIDTH="2053" HEIGHT="157">
+            <Shape><Polygon POINTS="218 3078 207 2985 2249 2939 2260 3039 2260 3050 218 3096"/></Shape>
+	    <String CONTENT="de pitie de ce qͥlz ne faisoiẽt pas le cas pareil des belles robes dont tãt" HPOS="207" VPOS="2939" WIDTH="2053" HEIGHT="157"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12" TAGREFS="LT876" BASELINE="222 3164 2263 3125" HPOS="211" VPOS="3025" WIDTH="2052" HEIGHT="171">
+            <Shape><Polygon POINTS="222 3164 211 3078 2253 3025 2263 3125 2263 3143 222 3196"/></Shape>
+	    <String CONTENT="auoient en leurs maisons Et cecy est conferme a la saincte escriptu-" HPOS="211" VPOS="3025" WIDTH="2052" HEIGHT="171"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13" TAGREFS="LT876" BASELINE="225 3257 2263 3218" HPOS="214" VPOS="3125" WIDTH="2049" HEIGHT="154">
+            <Shape><Polygon POINTS="225 3257 214 3175 1694 3125 1697 3125 2256 3136 2263 3218 2263 3243 225 3279"/></Shape>
+	    <String CONTENT="re qui dit que qui donne a la creature tant soit uille et meschante au" HPOS="214" VPOS="3125" WIDTH="2049" HEIGHT="154"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14" TAGREFS="LT876" BASELINE="218 3350 2263 3315" HPOS="207" VPOS="3222" WIDTH="2056" HEIGHT="146">
+            <Shape><Polygon POINTS="218 3350 207 3261 2253 3222 2263 3315 2263 3329 218 3368"/></Shape>
+	    <String CONTENT="nom de dieu on le fait proprement a dieu. Martin passa oultre lui et" HPOS="207" VPOS="3222" WIDTH="2056" HEIGHT="146"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15" TAGREFS="LT876" BASELINE="222 3443 2263 3401" HPOS="218" VPOS="3322" WIDTH="2045" HEIGHT="197">
+            <Shape><Polygon POINTS="222 3443 218 3350 343 3365 372 3347 376 3343 379 3343 383 3343 386 3343 419 3347 551 3361 677 3343 723 3336 2253 3322 2263 3401 2263 3472 1239 3519 1235 3519 1232 3519 1135 3483 1124 3483 677 3508 673 3508 669 3508 666 3508 637 3486 626 3479 222 3486"/></Shape>
+	    <String CONTENT="son escuier, et ne fist nul semblant des mocqueries du peuple, et le" HPOS="218" VPOS="3322" WIDTH="2045" HEIGHT="197"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16" TAGREFS="LT876" BASELINE="222 3533 666 3526" HPOS="214" VPOS="3440" WIDTH="452" HEIGHT="254">
+            <Shape><Polygon POINTS="222 3533 214 3447 651 3440 666 3526 662 3637 426 3622 322 3683 311 3690 308 3690 304 3690 222 3694"/></Shape>
+	    <String CONTENT="loga en la cite." HPOS="214" VPOS="3440" WIDTH="452" HEIGHT="254"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="222" VPOS="2144" WIDTH="223" HEIGHT="219" ID="eSc_textblock_28254141" TAGREFS="BT2490">
+          <Shape><Polygon POINTS="222 2144 222 2363 445 2363 445 2300 445 2144"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="219" VPOS="627" WIDTH="2097" HEIGHT="1514" ID="eSc_textblock_82870740" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="219 676 219 2141 2316 2141 2298 1354 2302 627"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1970" VPOS="450" WIDTH="339" HEIGHT="71" ID="eSc_textblock_bf713bc5" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="2309 521 2309 450 1970 450 1970 521"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1666" VPOS="538" WIDTH="639" HEIGHT="74" ID="eSc_textblock_a073bb96" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="2305 612 2305 538 1666 538 1666 612"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="709" VPOS="3450" WIDTH="1586" HEIGHT="103" ID="eSc_textblock_276967e8" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="2295 3518 2291 3450 709 3482 709 3553"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

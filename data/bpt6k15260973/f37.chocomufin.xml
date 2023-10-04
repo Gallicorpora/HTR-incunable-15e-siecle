@@ -1,0 +1,104 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f37.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1823" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1822" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1821" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1831" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1830" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1829" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1828" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1827" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1826" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1825" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1824" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT626" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT627" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT628" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT629" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT630" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1668" HEIGHT="2659" PHYSICAL_IMG_NR="10" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1668" HEIGHT="2659">
+        
+        <TextBlock HPOS="62" VPOS="110" WIDTH="1498" HEIGHT="2233" ID="eSc_textblock_85f79d77" TAGREFS="BT1824">
+          <Shape><Polygon POINTS="62 110 62 2343 1560 2343 1560 110"/></Shape>
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT628" BASELINE="483 217 785 217" HPOS="483" VPOS="139" WIDTH="302" HEIGHT="91">
+            <Shape><Polygon POINTS="483 217 483 139 785 152 785 217 785 228 483 230"/></Shape>
+	    <String CONTENT="¶Lacteur." HPOS="483" VPOS="139" WIDTH="302" HEIGHT="91"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1" TAGREFS="LT626" BASELINE="44 290 481 283 1086 292" HPOS="37" VPOS="210" WIDTH="1049" HEIGHT="91">
+            <Shape><Polygon POINTS="44 290 37 223 68 210 70 210 73 210 206 223 212 223 215 223 261 212 263 212 266 212 268 212 292 223 314 212 317 212 319 212 545 223 576 212 578 212 581 212 583 212 629 226 634 226 643 226 740 214 743 214 745 214 778 226 780 228 1018 228 1086 292 1084 296 42 301"/></Shape>
+	    <String CONTENT="¶Bratuler don de tous princes la grace" HPOS="37" VPOS="210" WIDTH="1049" HEIGHT="91"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2" TAGREFS="LT626" BASELINE="44 356 1137 363" HPOS="39" VPOS="285" WIDTH="1098" HEIGHT="89">
+            <Shape><Polygon POINTS="44 356 44 296 359 296 383 285 385 285 388 285 456 299 463 299 465 299 481 288 483 288 485 288 487 288 547 299 554 299 558 299 625 288 627 288 629 288 632 288 645 296 654 290 654 288 656 288 658 288 660 288 769 288 829 301 834 301 836 301 856 290 858 290 860 290 862 290 907 301 911 301 922 301 1100 290 1102 290 1104 290 1137 303 1137 363 1133 374 39 367"/></Shape>
+	    <String CONTENT="Rememorant les grans dangiers des cours" HPOS="39" VPOS="285" WIDTH="1098" HEIGHT="89"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT626" BASELINE="44 434 354 427 1120 436" HPOS="37" VPOS="352" WIDTH="1083" HEIGHT="95">
+            <Shape><Polygon POINTS="44 434 37 367 70 352 73 352 75 352 150 367 159 367 170 367 261 354 263 354 266 354 268 354 288 365 290 367 321 365 470 354 472 354 474 354 494 365 503 370 514 365 536 356 538 356 541 356 689 363 842 372 1115 363 1120 436 1115 447 39 443"/></Shape>
+	    <String CONTENT="Iournellement chaſcun ſon cas pourchaſſe" HPOS="37" VPOS="352" WIDTH="1083" HEIGHT="95"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4" TAGREFS="LT626" BASELINE="42 498 978 507" HPOS="37" VPOS="436" WIDTH="941" HEIGHT="91">
+            <Shape><Polygon POINTS="42 498 42 436 975 436 978 507 975 514 889 527 887 527 885 527 838 516 652 525 649 525 647 525 618 514 609 514 365 522 363 522 361 522 334 511 332 511 330 511 286 522 283 522 281 522 219 511 206 509 199 511 175 520 173 520 170 520 37 509"/></Shape>
+	    <String CONTENT="Royſes y ſont on y trompe et cabaſſe" HPOS="37" VPOS="436" WIDTH="941" HEIGHT="91"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5" TAGREFS="LT626" BASELINE="39 569 1007 580" HPOS="35" VPOS="507" WIDTH="972" HEIGHT="93">
+            <Shape><Polygon POINTS="39 569 37 509 787 507 789 507 791 507 827 518 834 522 1007 522 1007 580 1004 587 904 600 902 600 840 589 825 600 822 600 820 600 818 600 816 600 814 600 814 598 800 587 789 587 649 598 647 598 645 598 598 587 590 584 563 587 428 596 425 596 35 582"/></Shape>
+	    <String CONTENT="Gloire y a bruyt audace y eſt en cours" HPOS="35" VPOS="507" WIDTH="972" HEIGHT="93"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6" TAGREFS="LT626" BASELINE="39 644 1069 651" HPOS="35" VPOS="569" WIDTH="1036" HEIGHT="89">
+            <Shape><Polygon POINTS="39 644 35 582 68 569 70 569 73 569 75 569 124 582 128 582 139 582 308 571 310 571 421 584 430 584 434 584 487 571 490 571 492 571 554 584 592 571 594 571 596 571 714 587 725 587 734 587 805 573 807 573 809 573 834 587 842 578 842 576 845 576 847 576 849 576 909 584 924 573 927 573 929 573 931 573 1029 573 1031 573 1071 589 1069 651 1064 658 35 655"/></Shape>
+	    <String CONTENT="Dultraige nuyt,ſimple a repas a cours" HPOS="35" VPOS="569" WIDTH="1036" HEIGHT="89"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7" TAGREFS="LT626" BASELINE="39 711 1084 724" HPOS="35" VPOS="649" WIDTH="1051" HEIGHT="97">
+            <Shape><Polygon POINTS="39 711 37 653 734 649 736 649 738 649 769 662 771 662 778 662 853 651 856 651 858 651 860 651 878 662 975 653 978 653 980 653 1018 664 1044 653 1046 653 1049 653 1051 653 1086 666 1084 724 1082 733 911 746 909 746 907 746 876 733 873 733 867 733 791 744 789 744 787 744 743 733 731 731 700 733 578 742 576 742 574 742 554 731 545 729 523 731 470 740 468 740 397 731 354 726 317 731 268 737 266 737 35 729"/></Shape>
+	    <String CONTENT="Raiſon par tout faict ſur le texte ⁊ gloſe" HPOS="35" VPOS="649" WIDTH="1051" HEIGHT="97"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8" TAGREFS="LT626" BASELINE="39 788 1153 797" HPOS="35" VPOS="717" WIDTH="1118" HEIGHT="105">
+            <Shape><Polygon POINTS="39 788 37 729 272 717 275 717 277 717 312 731 319 731 328 731 383 720 385 720 463 731 470 731 474 731 563 720 565 720 809 733 814 733 860 722 862 722 865 722 867 722 869 722 887 735 891 737 1069 737 1071 735 1093 724 1095 724 1097 724 1151 737 1153 797 1153 804 1109 819 1106 819 1106 822 887 822 885 819 882 819 880 819 860 804 787 804 760 817 758 817 756 817 587 799 206 799 117 813 115 813 35 795"/></Shape>
+	    <String CONTENT="En court ne aduient tout ce que lon propoſe" HPOS="35" VPOS="717" WIDTH="1118" HEIGHT="105"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11" TAGREFS="LT626" BASELINE="410 861 858 866" HPOS="408" VPOS="786" WIDTH="450" HEIGHT="91">
+            <Shape><Polygon POINTS="410 861 410 786 463 797 853 795 858 866 856 873 408 877"/></Shape>
+	    <String CONTENT="Raiſon par tout." HPOS="408" VPOS="786" WIDTH="450" HEIGHT="91"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="51" VPOS="873" WIDTH="1505" HEIGHT="1451" ID="eSc_textblock_8e421ec8" TAGREFS="BT1823">
+          <Shape><Polygon POINTS="51 873 51 2324 1556 2324 1556 873"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

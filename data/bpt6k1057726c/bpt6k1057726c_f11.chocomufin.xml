@@ -1,0 +1,150 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k1057726c_f11.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2347" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2348" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2349" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2350" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2351" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2352" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2353" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2354" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2355" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2356" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2357" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2358" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2359" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2360" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2711" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT2712" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/>
+    <OtherTag ID="LT825" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT826" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT827" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT828" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT829" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3636" HEIGHT="5229" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3636" HEIGHT="5229">
+        
+        <TextBlock HPOS="729" VPOS="630" WIDTH="1518" HEIGHT="313" ID="eSc_textblock_3a4def12" TAGREFS="BT2352">
+          <Shape><Polygon POINTS="2247 943 2247 630 729 630 729 943"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc079e28" TAGREFS="LT827" BASELINE="762 745 994 723 2171 710" HPOS="754" VPOS="631" WIDTH="1417" HEIGHT="140">
+            <Shape><Polygon POINTS="762 745 754 662 1076 631 1081 631 2149 640 2171 710 2171 740 762 771"/></Shape>
+	    <String CONTENT="¶ S enfuit les apologues de Laurentius" HPOS="754" VPOS="631" WIDTH="1417" HEIGHT="140"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5ad2d05" TAGREFS="LT827" BASELINE="823 823 2175 806" HPOS="815" VPOS="718" WIDTH="1360" HEIGHT="140">
+            <Shape><Polygon POINTS="823 823 815 745 1150 718 1155 718 2166 727 2175 806 2171 827 823 858"/></Shape>
+	    <String CONTENT="ualla et cõmence le prologue de l acteur" HPOS="815" VPOS="718" WIDTH="1360" HEIGHT="140"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f98d0357" TAGREFS="LT827" BASELINE="815 919 1770 902" HPOS="806" VPOS="810" WIDTH="964" HEIGHT="166">
+            <Shape><Polygon POINTS="815 919 806 840 1137 810 1142 810 1748 823 1770 902 1765 971 815 976"/></Shape>
+	    <String CONTENT="en latin. Laurentius ualla." HPOS="806" VPOS="810" WIDTH="964" HEIGHT="166"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="385" VPOS="3572" WIDTH="1041" HEIGHT="385" ID="eSc_textblock_139643dc" TAGREFS="BT2711">
+          <Shape><Polygon POINTS="385 3572 394 3953 1426 3957 1426 3581"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_34dea98f" TAGREFS="LT825" BASELINE="802 3651 1399 3642" HPOS="797" VPOS="3542" WIDTH="602" HEIGHT="122">
+            <Shape><Polygon POINTS="802 3651 797 3542 893 3564 1386 3560 1399 3642 1399 3655 802 3664"/></Shape>
+	    <String CONTENT="Aurens ualle de-" HPOS="797" VPOS="3542" WIDTH="602" HEIGHT="122"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_184c5005" TAGREFS="LT825" BASELINE="802 3743 1386 3734" HPOS="789" VPOS="3634" WIDTH="597" HEIGHT="139">
+            <Shape><Polygon POINTS="802 3743 789 3660 858 3634 863 3634 867 3634 1377 3651 1386 3734 1382 3751 802 3773"/></Shape>
+	    <String CONTENT="sire salut et pro-" HPOS="789" VPOS="3634" WIDTH="597" HEIGHT="139"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfeb8f13" TAGREFS="LT825" BASELINE="797 3838 1395 3838" HPOS="793" VPOS="3725" WIDTH="602" HEIGHT="144">
+            <Shape><Polygon POINTS="797 3838 793 3747 1390 3725 1395 3838 1395 3865 797 3869"/></Shape>
+	    <String CONTENT="sperite a noble hõ" HPOS="793" VPOS="3725" WIDTH="602" HEIGHT="144"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1125a2db" TAGREFS="LT826" BASELINE="416 3902 779 3902" HPOS="405" VPOS="3821" WIDTH="375" HEIGHT="214">
+            <Shape><Polygon POINTS="414 3899 405 3847 470 3821 475 3821 479 3821 776 3847 776 3899 780 4004 714 4035 710 4035 706 4035 701 4035 653 4013 640 4008 414 4026"/></Shape>
+	    <String CONTENT="L" HPOS="405" VPOS="3821" WIDTH="375" HEIGHT="214"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98b8dd5f" TAGREFS="LT825" BASELINE="793 3926 1421 3921" HPOS="789" VPOS="3857" WIDTH="636" HEIGHT="182">
+            <Shape><Polygon POINTS="793 3926 789 3873 1425 3857 1421 3921 1416 4008 1281 3991 1164 4021 1114 4005 1107 4035 1103 4035 1098 4035 1094 4035 1094 4030 1085 4026 1050 3991 932 3991 880 4035 876 4035 871 4035 871 4039 793 4039"/></Shape>
+	    <String CONTENT="me arnoul de fou" HPOS="789" VPOS="3857" WIDTH="636" HEIGHT="182"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1443" VPOS="3583" WIDTH="1075" HEIGHT="389" ID="eSc_textblock_3391a3f4" TAGREFS="BT2712">
+          <Shape><Polygon POINTS="1456 3583 1443 3972 2518 3958 2518 3583"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6d75e62e" TAGREFS="LT825" BASELINE="1434 3647 2498 3634" HPOS="1425" VPOS="3551" WIDTH="1073" HEIGHT="113">
+            <Shape><Polygon POINTS="1434 3647 1425 3555 2485 3551 2498 3634 2493 3655 1434 3664"/></Shape>
+	    <String CONTENT="elle son chier et singulier amy." HPOS="1425" VPOS="3551" WIDTH="1073" HEIGHT="113"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dc10c00" TAGREFS="LT825" BASELINE="1446 3747 2493 3725" HPOS="1434" VPOS="3629" WIDTH="1055" HEIGHT="162">
+            <Shape><Polygon POINTS="1443 3743 1434 3647 2476 3629 2489 3721 2485 3764 1652 3764 1443 3791"/></Shape>
+	    <String CONTENT="¶ Tres chier et feal amy; Je te" HPOS="1434" VPOS="3629" WIDTH="1055" HEIGHT="162"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_519323ef" TAGREFS="LT825" BASELINE="1460 3834 2467 3817" HPOS="1451" VPOS="3735" WIDTH="1057" HEIGHT="117">
+            <Shape><Polygon POINTS="1460 3834 1451 3756 2508 3735 2504 3824 2463 3834 1460 3852"/></Shape>
+	    <String CONTENT="auoye n a pas longtemps pro-" HPOS="1451" VPOS="3735" WIDTH="1057" HEIGHT="117"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb62cd50" TAGREFS="LT825" BASELINE="1447 3921 2502 3913" HPOS="1425" VPOS="3840" WIDTH="1117" HEIGHT="186">
+            <Shape><Polygon POINTS="1447 3921 1425 3904 1443 3878 1447 3878 1447 3873 1451 3873 1456 3873 1460 3873 1515 3846 1645 3853 1700 3853 1768 3850 2542 3840 2502 3913 2502 3969 2397 4017 2393 4017 2389 4017 2223 3987 2158 3974 2136 3991 2097 4017 2092 4017 2088 4017 2088 4021 1988 4021 1983 4017 1979 4017 1935 4000 1874 3978 1813 4008 1783 4021 1778 4021 1774 4021 1726 4013 1591 3978 1451 4026"/></Shape>
+	    <String CONTENT="mis enuoyer certaines caille ᷤᷤ ⁊" HPOS="1425" VPOS="3840" WIDTH="1117" HEIGHT="186"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2179" VPOS="4174" WIDTH="168" HEIGHT="120" ID="eSc_textblock_706ce3c8" TAGREFS="BT2356">
+          <Shape><Polygon POINTS="2347 4294 2347 4174 2179 4174 2183 4294"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4779fd38" TAGREFS="LT825" BASELINE="2201 4279 2328 4270" HPOS="2192" VPOS="4200" WIDTH="136" HEIGHT="122">
+            <Shape><Polygon POINTS="2201 4279 2192 4222 2315 4200 2328 4270 2328 4322 2201 4322"/></Shape>
+	    <String CONTENT="A ii" HPOS="2192" VPOS="4200" WIDTH="136" HEIGHT="122"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="735" VPOS="666" WIDTH="228" HEIGHT="106" ID="eSc_textblock_d9caad79" TAGREFS="BT2351">
+          <Shape><Polygon POINTS="735 666 735 760 853 772 853 684 963 666"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="412" VPOS="3572" WIDTH="394" HEIGHT="425" ID="eSc_textblock_9550214e" TAGREFS="BT2350">
+          <Shape><Polygon POINTS="412 3572 412 3997 806 3997 802 3572"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="399" VPOS="1065" WIDTH="2068" HEIGHT="2493" ID="eSc_textblock_317f4adb" TAGREFS="BT2351">
+          <Shape><Polygon POINTS="399 1065 399 3558 2467 3558 2467 1078"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

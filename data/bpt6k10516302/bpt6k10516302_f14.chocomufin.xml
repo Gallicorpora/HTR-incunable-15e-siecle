@@ -1,0 +1,175 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k10516302_f14.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2487" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2488" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2489" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2490" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2491" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2492" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2493" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2494" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2495" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2496" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2497" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2498" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2499" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2500" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT881" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT880" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT878" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT877" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT876" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2860" HEIGHT="4358" PHYSICAL_IMG_NR="4" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2860" HEIGHT="4358">
+        
+        <TextBlock HPOS="566" VPOS="433" WIDTH="2156" HEIGHT="3175" ID="eSc_textblock_3ad8deac" TAGREFS="BT2492">
+          <Shape><Polygon POINTS="566 433 627 3608 1460 3604 2722 3599 2722 2580 2722 433"/></Shape>
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT878" BASELINE="788 552 1617 512 2489 501" HPOS="777" VPOS="403" WIDTH="1712" HEIGHT="170">
+            <Shape><Polygon POINTS="788 552 777 453 886 424 890 424 2478 403 2489 501 2489 526 1653 526 788 573"/></Shape>
+	    <String CONTENT="¶ Cõment sainct martin fut endoctrune par sainct paule" HPOS="777" VPOS="403" WIDTH="1712" HEIGHT="170"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1" TAGREFS="LT878" BASELINE="824 635 2373 591" HPOS="817" VPOS="493" WIDTH="1556" HEIGHT="229">
+            <Shape><Polygon POINTS="824 635 817 548 1391 508 2362 493 2373 591 2373 679 1606 679 824 722"/></Shape>
+	    <String CONTENT="l arceuesque de constantinople en la foy catholicque." HPOS="817" VPOS="493" WIDTH="1556" HEIGHT="229"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_515e59a5" TAGREFS="LT877" BASELINE="638 2370 860 2383" HPOS="631" VPOS="2177" WIDTH="226" HEIGHT="205">
+            <Shape><Polygon POINTS="637 2350 631 2180 842 2177 857 2382 855 2381 786 2370 743 2382 640 2375"/></Shape>
+	    <String CONTENT="Q" HPOS="631" VPOS="2177" WIDTH="226" HEIGHT="205"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2" TAGREFS="LT876" BASELINE="854 2273 1330 2255 2667 2244" HPOS="846" VPOS="2164" WIDTH="1821" HEIGHT="127">
+            <Shape><Polygon POINTS="854 2273 846 2168 2656 2164 2667 2244 2663 2258 1170 2266 854 2291"/></Shape>
+	    <String CONTENT="Uant cest enfant eut dix ans si fut tant bel que merueilles." HPOS="846" VPOS="2164" WIDTH="1821" HEIGHT="127"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT876" BASELINE="850 2356 2671 2335" HPOS="843" VPOS="2233" WIDTH="1828" HEIGHT="149">
+            <Shape><Polygon POINTS="850 2356 843 2266 1762 2233 1766 2233 2663 2244 2671 2335 2671 2353 850 2382"/></Shape>
+	    <String CONTENT="ne nul ne s appareilloit a lui de bonte Et combien que son pe" HPOS="843" VPOS="2233" WIDTH="1828" HEIGHT="149"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4" TAGREFS="LT876" BASELINE="639 2458 2667 2425" HPOS="632" VPOS="2338" WIDTH="2035" HEIGHT="127">
+            <Shape><Polygon POINTS="639 2458 632 2378 814 2356 817 2356 1050 2367 1075 2346 1075 2342 1079 2342 1082 2342 1086 2342 1177 2342 1181 2342 1184 2342 1184 2346 1206 2367 1242 2367 1282 2367 1282 2364 1300 2342 1304 2342 1304 2338 1308 2338 1311 2338 1315 2338 2660 2342 2667 2425 2667 2447 639 2465"/></Shape>
+	    <String CONTENT="re fust arrien si estoit il chrestien en son cueur et fist tant que son pe-" HPOS="632" VPOS="2338" WIDTH="2035" HEIGHT="127"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5" TAGREFS="LT876" BASELINE="639 2553 2641 2520" HPOS="632" VPOS="2425" WIDTH="2009" HEIGHT="153">
+            <Shape><Polygon POINTS="639 2553 632 2458 854 2436 2631 2425 2641 2520 2638 2531 723 2556 643 2578"/></Shape>
+	    <String CONTENT="re et sa mere luy donnerent congie pour uenir en constantinoble." HPOS="632" VPOS="2425" WIDTH="2009" HEIGHT="153"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6" TAGREFS="LT876" BASELINE="643 2643 2674 2607" HPOS="632" VPOS="2498" WIDTH="2042" HEIGHT="167">
+            <Shape><Polygon POINTS="643 2643 632 2549 2456 2524 2663 2498 2674 2607 2674 2640 1846 2658 1842 2658 1806 2651 1711 2636 643 2665"/></Shape>
+	    <String CONTENT="car il auoit ouy nouuelles du bon sainct paule arceuesque de constã" HPOS="632" VPOS="2498" WIDTH="2042" HEIGHT="167"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7" TAGREFS="LT876" BASELINE="650 2731 2671 2701" HPOS="643" VPOS="2611" WIDTH="2028" HEIGHT="141">
+            <Shape><Polygon POINTS="650 2731 643 2640 1660 2611 1664 2611 1817 2629 1846 2629 2660 2622 2671 2701 2671 2720 2609 2741 2605 2741 2162 2749 2162 2752 650 2752"/></Shape>
+	    <String CONTENT="tinoble Et lors se partit de son pere et de sa mere et print cõge deulx" HPOS="643" VPOS="2611" WIDTH="2028" HEIGHT="141"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8" TAGREFS="LT876" BASELINE="650 2829 2674 2796" HPOS="632" VPOS="2694" WIDTH="2042" HEIGHT="160">
+            <Shape><Polygon POINTS="650 2829 632 2749 661 2727 665 2727 668 2727 672 2727 792 2745 799 2745 803 2745 861 2723 864 2723 868 2723 872 2723 923 2741 926 2741 937 2741 1090 2720 1093 2720 1199 2734 1231 2738 1253 2734 1311 2716 1315 2716 1319 2716 1322 2716 1370 2731 1395 2738 1533 2738 1548 2723 1555 2716 1559 2716 1562 2716 1566 2716 1867 2716 2587 2716 2660 2694 2674 2796 2674 2814 650 2854"/></Shape>
+	    <String CONTENT="Lesquelz plourerent fort pour le departement de leur filz et le regret" HPOS="632" VPOS="2694" WIDTH="2042" HEIGHT="160"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9" TAGREFS="LT876" BASELINE="657 2912 2681 2883" HPOS="646" VPOS="2800" WIDTH="2035" HEIGHT="130">
+            <Shape><Polygon POINTS="657 2912 646 2836 719 2814 723 2814 2671 2800 2681 2883 2678 2905 657 2930"/></Shape>
+	    <String CONTENT="toit fort la mere. Et auoit grant paour qu il eust mal. Cest enfant" HPOS="646" VPOS="2800" WIDTH="2035" HEIGHT="130"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10" TAGREFS="LT876" BASELINE="661 3007 2681 2977" HPOS="646" VPOS="2887" WIDTH="2035" HEIGHT="159">
+            <Shape><Polygon POINTS="661 3007 646 2927 679 2901 683 2901 686 2901 690 2901 1282 2916 1406 2916 1486 2908 1747 2887 1751 2887 1846 2901 1871 2905 2671 2887 2681 2977 2678 2999 2423 3028 1598 3039 1595 3039 1591 3039 1588 3039 1588 3036 1577 3028 1566 3017 1489 3017 1453 3028 1417 3043 1413 3043 1410 3043 1300 3032 1162 3021 661 3046"/></Shape>
+	    <String CONTENT="fist tant par ses iournees qu il uint a constantinoble. Auquel lieu il" HPOS="646" VPOS="2887" WIDTH="2035" HEIGHT="159"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11" TAGREFS="LT876" BASELINE="661 3101 2681 3076" HPOS="654" VPOS="2988" WIDTH="2027" HEIGHT="127">
+            <Shape><Polygon POINTS="661 3101 654 3025 1231 2992 1235 2992 1370 3010 1519 2988 1522 2988 1526 2988 1595 3007 2671 2996 2681 3076 2678 3101 661 3115"/></Shape>
+	    <String CONTENT="trouua paule l arceuesque qui le receut grandem̃t et fut bien ioyeux" HPOS="654" VPOS="2988" WIDTH="2027" HEIGHT="127"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12" TAGREFS="LT876" BASELINE="661 3192 2681 3159" HPOS="654" VPOS="3079" WIDTH="2027" HEIGHT="124">
+            <Shape><Polygon POINTS="661 3192 654 3112 1101 3079 1104 3079 2674 3079 2681 3159 2681 3170 2452 3195 661 3203"/></Shape>
+	    <String CONTENT="de la bonne uoulente de l enfant. Et l endoctrina et enseigna en la" HPOS="654" VPOS="3079" WIDTH="2027" HEIGHT="124"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13" TAGREFS="LT876" BASELINE="665 3286 2674 3250" HPOS="657" VPOS="3148" WIDTH="2017" HEIGHT="171">
+            <Shape><Polygon POINTS="665 3286 657 3206 868 3177 1798 3174 2463 3174 2634 3170 2656 3148 2674 3250 2674 3264 2471 3297 2467 3297 1580 3286 1482 3286 1079 3290 1079 3293 1061 3315 1057 3315 1057 3319 1053 3319 1050 3319 1046 3319 1042 3319 1039 3319 1010 3297 665 3301"/></Shape>
+	    <String CONTENT="foy catholicque; et lui monstra tous les articles de nostre foy. lequel" HPOS="657" VPOS="3148" WIDTH="2017" HEIGHT="171"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14" TAGREFS="LT876" BASELINE="668 3377 2674 3344" HPOS="657" VPOS="3246" WIDTH="2017" HEIGHT="167">
+            <Shape><Polygon POINTS="668 3377 657 3304 719 3275 723 3275 1017 3272 1021 3272 1024 3272 1028 3272 1050 3290 1104 3268 1108 3268 1551 3261 1555 3261 1559 3261 1562 3261 1562 3264 1577 3275 1584 3286 1769 3286 2569 3272 2660 3246 2674 3344 2660 3384 2638 3370 2529 3384 2449 3395 1330 3413 1326 3413 665 3399"/></Shape>
+	    <String CONTENT="estoit fort songneux d apprendre et retenir ce que sainct paule lui mõ" HPOS="657" VPOS="3246" WIDTH="2017" HEIGHT="167"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15" TAGREFS="LT876" BASELINE="672 3471 2678 3435" HPOS="657" VPOS="3348" WIDTH="2021" HEIGHT="142">
+            <Shape><Polygon POINTS="672 3471 657 3402 701 3377 705 3377 708 3377 864 3373 868 3373 1006 3388 2616 3348 2620 3348 2623 3348 2674 3366 2678 3435 2678 3450 672 3490"/></Shape>
+	    <String CONTENT="stroit; Si lui mua son nom de florus a martin. Le bon enfant mar-" HPOS="657" VPOS="3348" WIDTH="2021" HEIGHT="142"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16" TAGREFS="LT876" BASELINE="675 3562 2067 3555 2685 3529" HPOS="672" VPOS="3439" WIDTH="2013" HEIGHT="192">
+            <Shape><Polygon POINTS="675 3562 672 3457 2096 3460 2169 3457 2543 3439 2547 3439 2551 3439 2623 3460 2685 3529 2678 3609 2354 3595 2245 3613 2213 3617 2209 3617 2158 3613 1998 3598 1784 3613 1649 3624 1646 3624 1598 3617 1551 3606 1446 3617 1322 3628 1319 3628 1228 3617 1162 3609 897 3609 890 3617 875 3631 872 3631 868 3631 864 3631 672 3617"/></Shape>
+	    <String CONTENT="tin ne le cela pas, aincois le dist par toute panõnie dont il fut ne cõ-" HPOS="672" VPOS="3439" WIDTH="2013" HEIGHT="192"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="634" VPOS="2196" WIDTH="226" HEIGHT="182" ID="eSc_textblock_268cc3fb" TAGREFS="BT2490">
+          <Shape><Polygon POINTS="634 2196 634 2378 860 2378 860 2196 777 2196"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="613" VPOS="629" WIDTH="2059" HEIGHT="1557" ID="eSc_textblock_020e7957" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="613 702 637 2186 2672 2165 2651 629"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2358" VPOS="549" WIDTH="303" HEIGHT="83" ID="eSc_textblock_a1fd254c" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="2661 632 2661 549 2358 549 2358 632"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2480" VPOS="451" WIDTH="185" HEIGHT="77" ID="eSc_textblock_42186ded" TAGREFS="BT2491">
+          <Shape><Polygon POINTS="2665 528 2665 451 2480 451 2480 528"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
