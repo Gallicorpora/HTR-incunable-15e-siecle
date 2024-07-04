@@ -22,14 +22,14 @@
           
           <TextLine ID="line_0" TAGREFS="LT626" BASELINE="205 230 898 223 1308 230" HPOS="199" VPOS="152" WIDTH="1109" HEIGHT="93">
             <Shape><Polygon POINTS="205 230 199 170 236 152 239 152 241 152 407 152 409 152 411 152 425 163 438 152 440 152 442 152 445 152 447 152 449 152 464 165 491 152 493 152 495 152 637 152 639 152 668 165 681 154 684 154 686 154 688 154 690 154 693 154 708 163 717 157 717 154 719 154 721 154 724 154 821 154 823 154 825 154 839 165 1304 165 1308 230 1306 232 205 245"/></Shape>
-	    <String CONTENT="Mais des plus grans que eſfeue ie ie puis dire" HPOS="199" VPOS="152" WIDTH="1109" HEIGHT="93"/>
+	    <String CONTENT="Mais des plus grans que esfeue ie ie puis dire" HPOS="199" VPOS="152" WIDTH="1109" HEIGHT="93"/>
           </TextLine>
 
           
           
           <TextLine ID="line_1" TAGREFS="LT626" BASELINE="208 300 1273 296" HPOS="203" VPOS="225" WIDTH="1070" HEIGHT="95">
             <Shape><Polygon POINTS="208 300 203 243 267 227 270 227 272 227 274 227 287 241 352 241 504 241 509 236 520 227 522 227 524 227 526 227 622 236 666 238 690 234 735 225 737 225 739 225 763 232 774 236 786 232 805 225 808 225 810 225 892 232 972 236 1000 230 1014 225 1016 225 1018 225 1076 227 1231 236 1264 225 1273 296 1270 307 208 320"/></Shape>
-	    <String CONTENT="Que a gueulle bee en rit ſes paulmes bat" HPOS="203" VPOS="225" WIDTH="1070" HEIGHT="95"/>
+	    <String CONTENT="Que a gueulle bee en rit ses paulmes bat" HPOS="203" VPOS="225" WIDTH="1070" HEIGHT="95"/>
           </TextLine>
 
           
@@ -43,7 +43,7 @@
           
           <TextLine ID="line_3" TAGREFS="LT626" BASELINE="210 524 664 513 1308 517" HPOS="205" VPOS="438" WIDTH="1103" HEIGHT="95">
             <Shape><Polygon POINTS="210 524 205 442 1304 438 1308 517 1306 533 210 533"/></Shape>
-	    <String CONTENT="¶Qui ſert en court laiſſe pour le iourdhuy" HPOS="205" VPOS="438" WIDTH="1103" HEIGHT="95"/>
+	    <String CONTENT="¶Qui sert en court laisse pour le iourdhuy" HPOS="205" VPOS="438" WIDTH="1103" HEIGHT="95"/>
           </TextLine>
 
           
@@ -57,56 +57,56 @@
           
           <TextLine ID="line_5" TAGREFS="LT626" BASELINE="212 661 1193 657" HPOS="205" VPOS="586" WIDTH="988" HEIGHT="97">
             <Shape><Polygon POINTS="212 661 205 604 245 588 247 588 250 588 347 599 391 588 394 588 396 588 398 588 429 599 531 588 533 588 619 599 635 599 644 597 697 586 699 586 746 597 748 597 759 588 759 586 761 586 763 586 766 586 1189 592 1193 657 1191 670 710 670 653 677 622 681 619 681 531 679 281 672 212 683"/></Shape>
-	    <String CONTENT="Ce qui peu uault il lhonore et le priſe" HPOS="205" VPOS="586" WIDTH="988" HEIGHT="97"/>
+	    <String CONTENT="Ce qui peu uault il lhonore et le prise" HPOS="205" VPOS="586" WIDTH="988" HEIGHT="97"/>
           </TextLine>
 
           
           
           <TextLine ID="line_6" TAGREFS="LT626" BASELINE="210 736 1386 730" HPOS="205" VPOS="659" WIDTH="1181" HEIGHT="97">
             <Shape><Polygon POINTS="210 736 205 674 1379 659 1386 730 1386 750 1071 752 1069 752 1067 752 991 741 912 754 901 754 898 754 863 754 615 743 573 754 566 756 564 756 562 756 511 756 245 745 212 756"/></Shape>
-	    <String CONTENT="Sil ayme bohneur deſhonneur uient uers luy" HPOS="205" VPOS="659" WIDTH="1181" HEIGHT="97"/>
+	    <String CONTENT="Sil ayme bohneur deshonneur uient uers luy" HPOS="205" VPOS="659" WIDTH="1181" HEIGHT="97"/>
           </TextLine>
 
           
           
           <TextLine ID="line_7" TAGREFS="LT626" BASELINE="210 805 1217 800" HPOS="203" VPOS="730" WIDTH="1014" HEIGHT="97">
             <Shape><Polygon POINTS="210 805 203 745 234 732 236 732 239 732 684 741 706 730 708 730 710 730 1213 741 1217 800 1213 825 994 814 737 814 719 825 715 827 712 827 710 827 708 827 706 827 690 823 659 816 639 823 631 827 628 827 626 827 600 823 551 816 210 820"/></Shape>
-	    <String CONTENT="Se eſt patient ſouffrette a pour appuy" HPOS="203" VPOS="730" WIDTH="1014" HEIGHT="97"/>
+	    <String CONTENT="Se est patient souffrette a pour appuy" HPOS="203" VPOS="730" WIDTH="1014" HEIGHT="97"/>
           </TextLine>
 
           
           
           <TextLine ID="line_8" TAGREFS="LT626" BASELINE="210 871 1096 876" HPOS="205" VPOS="803" WIDTH="891" HEIGHT="86">
             <Shape><Polygon POINTS="210 871 208 811 650 803 653 803 655 803 677 814 681 816 1093 816 1096 876 1091 889 205 882"/></Shape>
-	    <String CONTENT="Le ueritable on tempte de faintiſe" HPOS="205" VPOS="803" WIDTH="891" HEIGHT="86"/>
+	    <String CONTENT="Le ueritable on tempte de faintise" HPOS="205" VPOS="803" WIDTH="891" HEIGHT="86"/>
           </TextLine>
 
           
           
           <TextLine ID="line_9" TAGREFS="LT626" BASELINE="212 949 1231 949" HPOS="210" VPOS="880" WIDTH="1021" HEIGHT="82">
             <Shape><Polygon POINTS="212 949 210 885 1228 880 1231 949 1231 958 212 962"/></Shape>
-	    <String CONTENT="Et ſil ne ueult faire quelque entrepriſe" HPOS="210" VPOS="880" WIDTH="1021" HEIGHT="82"/>
+	    <String CONTENT="Et sil ne ueult faire quelque entreprise" HPOS="210" VPOS="880" WIDTH="1021" HEIGHT="82"/>
           </TextLine>
 
           
           
           <TextLine ID="line_10" TAGREFS="LT626" BASELINE="219 1019 1062 1019" HPOS="219" VPOS="953" WIDTH="843" HEIGHT="86">
             <Shape><Polygon POINTS="219 1019 219 953 1062 962 1062 1019 1062 1031 219 1039"/></Shape>
-	    <String CONTENT="De demander il ſera ſouffreteux" HPOS="219" VPOS="953" WIDTH="843" HEIGHT="86"/>
+	    <String CONTENT="De demander il sera souffreteux" HPOS="219" VPOS="953" WIDTH="843" HEIGHT="86"/>
           </TextLine>
 
           
           
           <TextLine ID="line_11" TAGREFS="LT626" BASELINE="208 1095 1237 1088" HPOS="201" VPOS="1015" WIDTH="1036" HEIGHT="102">
             <Shape><Polygon POINTS="208 1095 201 1035 247 1019 250 1019 252 1019 254 1019 298 1031 352 1019 354 1019 546 1031 819 1017 821 1017 823 1017 863 1028 898 1015 901 1015 903 1015 1233 1028 1237 1088 1235 1110 551 1104 498 1106 352 1117 349 1117 347 1117 345 1117 345 1115 334 1106 208 1106"/></Shape>
-	    <String CONTENT="Qui hante es cours ne doit eſtre honteux" HPOS="201" VPOS="1015" WIDTH="1036" HEIGHT="102"/>
+	    <String CONTENT="Qui hante es cours ne doit estre honteux" HPOS="201" VPOS="1015" WIDTH="1036" HEIGHT="102"/>
           </TextLine>
 
           
           
           <TextLine ID="line_12" TAGREFS="LT626" BASELINE="210 1236 1200 1232" HPOS="203" VPOS="1168" WIDTH="997" HEIGHT="79">
             <Shape><Polygon POINTS="210 1236 203 1181 232 1168 234 1168 236 1168 1195 1170 1200 1232 1197 1243 210 1247"/></Shape>
-	    <String CONTENT="Se couſtume as,de manger ſobrement" HPOS="203" VPOS="1168" WIDTH="997" HEIGHT="79"/>
+	    <String CONTENT="Se coustume as,de manger sobrement" HPOS="203" VPOS="1168" WIDTH="997" HEIGHT="79"/>
           </TextLine>
 
           
@@ -120,7 +120,7 @@
           
           <TextLine ID="line_14" TAGREFS="LT626" BASELINE="208 1380 1073 1380" HPOS="205" VPOS="1318" WIDTH="868" HEIGHT="80">
             <Shape><Polygon POINTS="208 1380 205 1320 1071 1318 1073 1380 1073 1389 208 1398"/></Shape>
-	    <String CONTENT="Et delaiſſer ta maniere de uiure" HPOS="205" VPOS="1318" WIDTH="868" HEIGHT="80"/>
+	    <String CONTENT="Et delaisser ta maniere de uiure" HPOS="205" VPOS="1318" WIDTH="868" HEIGHT="80"/>
           </TextLine>
 
           
@@ -134,21 +134,21 @@
           
           <TextLine ID="line_16" TAGREFS="LT626" BASELINE="205 1519 1270 1526" HPOS="201" VPOS="1449" WIDTH="1069" HEIGHT="95">
             <Shape><Polygon POINTS="205 1519 203 1460 265 1449 267 1449 358 1458 383 1460 394 1458 425 1449 427 1449 429 1449 431 1449 433 1449 433 1451 442 1458 445 1460 449 1458 469 1451 471 1451 473 1451 577 1458 681 1462 710 1455 735 1451 737 1451 739 1451 757 1455 786 1462 865 1455 912 1451 914 1451 916 1451 918 1451 923 1455 936 1464 978 1453 987 1453 989 1453 1018 1453 1213 1464 1266 1453 1270 1526 1268 1542 325 1544 323 1544 201 1531"/></Shape>
-	    <String CONTENT="Et qui eſt clerc en uoulant prudemment" HPOS="201" VPOS="1449" WIDTH="1069" HEIGHT="95"/>
+	    <String CONTENT="Et qui est clerc en uoulant prudemment" HPOS="201" VPOS="1449" WIDTH="1069" HEIGHT="95"/>
           </TextLine>
 
           
           
           <TextLine ID="line_17" TAGREFS="LT626" BASELINE="205 1597 1067 1593" HPOS="199" VPOS="1524" WIDTH="868" HEIGHT="93">
             <Shape><Polygon POINTS="205 1597 199 1542 243 1526 245 1526 247 1526 325 1526 327 1526 329 1526 329 1528 338 1537 365 1526 367 1526 369 1526 451 1537 451 1539 553 1539 553 1537 564 1528 564 1526 566 1526 569 1526 571 1526 573 1526 604 1537 606 1537 608 1537 626 1524 628 1524 631 1524 633 1524 710 1535 715 1535 719 1535 817 1524 819 1524 821 1524 845 1535 850 1535 1060 1533 1067 1593 1065 1604 960 1617 958 1617 812 1608 770 1606 766 1608 759 1615 759 1617 757 1617 755 1617 752 1617 750 1617 728 1608 717 1606 699 1610 664 1617 662 1617 203 1615"/></Shape>
-	    <String CONTENT="Eſtudier ou lire en quelcque liure" HPOS="199" VPOS="1524" WIDTH="868" HEIGHT="93"/>
+	    <String CONTENT="Estudier ou lire en quelcque liure" HPOS="199" VPOS="1524" WIDTH="868" HEIGHT="93"/>
           </TextLine>
 
           
           
           <TextLine ID="line_18" TAGREFS="LT626" BASELINE="205 1668 1213 1663" HPOS="203" VPOS="1593" WIDTH="1010" HEIGHT="97">
             <Shape><Polygon POINTS="205 1668 203 1599 385 1608 425 1597 436 1595 438 1595 440 1595 442 1595 445 1595 447 1597 467 1610 555 1610 608 1597 624 1595 626 1595 628 1595 637 1597 670 1608 693 1597 701 1593 704 1593 706 1593 708 1593 717 1597 737 1606 774 1597 783 1595 786 1595 788 1595 790 1595 792 1595 794 1597 810 1608 974 1608 1005 1597 1009 1595 1011 1595 1014 1595 1016 1595 1018 1595 1018 1597 1036 1606 1053 1595 1060 1593 1062 1593 1065 1593 1140 1593 1142 1593 1153 1595 1189 1606 1202 1595 1213 1663 1213 1674 650 1690 648 1690 203 1679"/></Shape>
-	    <String CONTENT="Diſeux ſera attendant que on luy liure" HPOS="203" VPOS="1593" WIDTH="1010" HEIGHT="97"/>
+	    <String CONTENT="Diseux sera attendant que on luy liure" HPOS="203" VPOS="1593" WIDTH="1010" HEIGHT="97"/>
           </TextLine>
 
           
@@ -162,7 +162,7 @@
           
           <TextLine ID="line_20" TAGREFS="LT626" BASELINE="201 1814 1202 1809" HPOS="190" VPOS="1741" WIDTH="1012" HEIGHT="97">
             <Shape><Polygon POINTS="201 1814 190 1754 210 1741 212 1741 214 1741 216 1741 281 1752 305 1741 307 1741 309 1741 365 1752 367 1752 1195 1743 1202 1809 1200 1829 394 1836 391 1836 389 1836 365 1825 230 1825 205 1838"/></Shape>
-	    <String CONTENT="Le temps perdu neſt iamais recouuert" HPOS="190" VPOS="1741" WIDTH="1012" HEIGHT="97"/>
+	    <String CONTENT="Le temps perdu nest iamais recouuert" HPOS="190" VPOS="1741" WIDTH="1012" HEIGHT="97"/>
           </TextLine>
 
           
